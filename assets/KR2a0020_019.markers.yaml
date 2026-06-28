@@ -1,0 +1,956 @@
+canonical_identifier: bkk:krp/KR2a0020/bkk/v1/markers/19
+seq: 19
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR2a0020_WYG_019-1a, image: WYG0261/WYG0261-0275a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書}
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR2a0020_ZHSJ_019-0413a}
+  - {type: line-break, offset: 0, content: '', id: ZHSJ__dup4897}
+  - {type: variant, offset: 4, length: 5, content: 七明元六王, WYG: 九上齊魏收撰}
+  - {type: variant, offset: 4, length: 5, content: 七明元六王, krp: 九上齊魏收撰}
+  - {type: punctuation, offset: 5, content: 〔一〕, id: KR2a0020_ZHSJ_019-bkkpn1}
+  - {type: xml-element, offset: 5, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR2a0020_ZHSJ_019-d19p1s1}
+  - {type: line-break, offset: 5, content: '', id: ZHSJ__dup4898}
+  - {type: variant, offset: 12, length: 2, content: 五樂, WYG: 七上景穆十二王陽}
+  - {type: variant, offset: 12, length: 2, content: 五樂, krp: 七上景穆十二王陽}
+  - {type: line-break, offset: 13, content: '', id: ZHSJ__dup4899}
+  - {type: indent, offset: 16, content: 　, id: KR2a0020_ZHSJ_019-bkkind1}
+  - {type: variant, offset: 16, length: 2, content: 安定, WYG: 京兆王濟隂王汝隂}
+  - {type: variant, offset: 16, length: 2, content: 安定, krp: 京兆王濟隂王汝隂}
+  - {type: indent, offset: 19, content: 　, id: KR2a0020_ZHSJ_019-bkkind2}
+  - {type: variant, offset: 20, length: 1, content: 安, WYG: 浪}
+  - {type: variant, offset: 20, length: 1, content: 安, krp: 浪}
+  - {type: indent, offset: 22, content: 　, id: KR2a0020_ZHSJ_019-bkkind3}
+  - {type: variant, offset: 22, length: 1, content: 永, WYG: 廣}
+  - {type: variant, offset: 22, length: 1, content: 永, krp: 廣}
+  - {type: variant, offset: 23, length: 1, content: 昌, WYG: 平}
+  - {type: variant, offset: 23, length: 1, content: 昌, krp: 平}
+  - {type: indent, offset: 25, content: 　, id: KR2a0020_ZHSJ_019-bkkind4}
+  - {type: variant, offset: 25, length: 8, content: 建寧王新興王明元, WYG: 景穆}
+  - {type: variant, offset: 25, length: 8, content: 建寧王新興王明元, krp: 景穆}
+  - {type: indent, offset: 28, content: 　, id: KR2a0020_ZHSJ_019-bkkind5}
+  - {type: xml-element, offset: 31, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele2}
+  - {type: xml-element, offset: 31, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele3}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR2a0020_ZHSJ_019-d19p2s1}
+  - {type: line-break, offset: 31, content: '', id: ZHSJ__dup4900}
+  - {type: variant, offset: 35, length: 1, content: 七, WYG: 十四}
+  - {type: variant, offset: 35, length: 1, content: 七, krp: 十四}
+  - {type: punctuation, offset: 37, content: ．, id: KR2a0020_ZHSJ_019-bkkpn2}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR2a0020_ZHSJ_019-d19p2s2}
+  - {type: variant, offset: 37, length: 2, content: 杜密, WYG: 恭}
+  - {type: variant, offset: 37, length: 2, content: 杜密, krp: 恭}
+  - {type: variant, offset: 42, length: 4, content: 世祖太武, WYG: 文成}
+  - {type: variant, offset: 42, length: 4, content: 世祖太武, krp: 文成}
+  - {type: punctuation, offset: 48, content: ．, id: KR2a0020_ZHSJ_019-bkkpn3}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR2a0020_ZHSJ_019-d19p2s3}
+  - {type: variant, offset: 48, length: 1, content: 大, WYG: 袁椒房生陽平幽王新成尉椒房生京兆康王子推濟隂王小新成陽椒房生汝隂靈王天賜樂浪厲王萬壽廣平殤王洛侯母並闕孟椒房生任城康王雲劉椒房生南安惠王楨城陽康王長壽}
+  - {type: page-break, offset: 48, content: '', id: KR2a0020_WYG_019-1b, image: WYG0261/WYG0261-0275b.png}
+  - {type: variant, offset: 48, length: 1, content: 大, krp: 袁椒房生陽平幽王新成尉椒房生京兆康王子推濟隂王小新成陽椒房生汝隂靈王天賜樂浪厲王萬壽廣平殤王洛侯母並闕孟椒房生任城康王雲劉椒房生南安惠王楨城陽康王長壽}
+  - {type: variant, offset: 51, length: 2, content: 夫人, WYG: 椒房生章武敬王太洛尉椒房}
+  - {type: variant, offset: 51, length: 2, content: 夫人, krp: 椒房生章武敬王太洛尉椒房}
+  - {type: variant, offset: 55, length: 1, content: 平, WYG: 陵}
+  - {type: variant, offset: 55, length: 1, content: 平, krp: 陵}
+  - {type: variant, offset: 56, length: 1, content: 戾, WYG: 康}
+  - {type: variant, offset: 56, length: 1, content: 戾, krp: 康}
+  - {type: variant, offset: 58, length: 1, content: 丕, WYG: 胡兒孟椒房生}
+  - {type: variant, offset: 58, length: 1, content: 丕, krp: 胡兒孟椒房生}
+  - {type: punctuation, offset: 59, content: ．, id: KR2a0020_ZHSJ_019-bkkpn4}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR2a0020_ZHSJ_019-d19p2s4}
+  - {type: variant, offset: 61, length: 1, content: 殤, WYG: 靖}
+  - {type: variant, offset: 61, length: 1, content: 殤, krp: 靖}
+  - {type: variant, offset: 63, length: 1, content: 彌, WYG: 休趙王深早薨無傳母}
+  - {type: variant, offset: 63, length: 1, content: 彌, krp: 休趙王深早薨無傳母}
+  - {type: line-break, offset: 64, content: '', id: ZHSJ__dup4901}
+  - {type: variant, offset: 65, length: 5, content: 母氏慕容夫, WYG: 魏舊太子後庭未有位號髙宗即位恭宗宮}
+  - {type: variant, offset: 65, length: 5, content: 母氏慕容夫, krp: 魏舊太子後庭未有位號髙宗即位恭宗宮}
+  - {type: punctuation, offset: 67, content: ．, id: KR2a0020_ZHSJ_019-bkkpn5}
+  - {type: 'tls:seg', offset: 67, content: '', id: KR2a0020_ZHSJ_019-d19p2s5}
+  - {type: variant, offset: 71, length: 25, content: 生樂安宣王範尹夫人生永昌莊王健建寧王崇新興王俊二王, WYG: 有子者}
+  - {type: variant, offset: 71, length: 25, content: 生樂安宣王範尹夫人生永昌莊王健建寧王崇新興王俊二王, krp: 有子者}
+  - {type: punctuation, offset: 77, content: ．, id: KR2a0020_ZHSJ_019-bkkpn6}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR2a0020_ZHSJ_019-d19p2s6}
+  - {type: punctuation, offset: 86, content: ．, id: KR2a0020_ZHSJ_019-bkkpn7}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR2a0020_ZHSJ_019-d19p2s7}
+  - {type: punctuation, offset: 90, content: 、, id: KR2a0020_ZHSJ_019-bkkpn8}
+  - {type: punctuation, offset: 96, content: ，, id: KR2a0020_ZHSJ_019-bkkpn9}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR2a0020_ZHSJ_019-d19p2s8}
+  - {type: variant, offset: 97, length: 4, content: 闕母氏樂, WYG: 號為椒房陽}
+  - {type: variant, offset: 97, length: 4, content: 闕母氏樂, krp: 號為椒房陽}
+  - {type: line-break, offset: 98, content: '', id: ZHSJ__dup4902}
+  - {type: punctuation, offset: 100, content: ．, id: KR2a0020_ZHSJ_019-bkkpn10}
+  - {type: xml-element, offset: 100, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele4}
+  - {type: xml-element, offset: 100, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele5}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR2a0020_ZHSJ_019-d19p3s1}
+  - {type: line-break, offset: 100, content: '', id: ZHSJ__dup4903}
+  - {type: variant, offset: 103, length: 9, content: 丕少有才幹為世所稱, WYG: 新成}
+  - {type: variant, offset: 103, length: 9, content: 丕少有才幹為世所稱, krp: 新成}
+  - {type: punctuation, offset: 104, content: ，, id: KR2a0020_ZHSJ_019-bkkpn11}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR2a0020_ZHSJ_019-d19p3s2}
+  - {type: punctuation, offset: 108, content: ，, id: KR2a0020_ZHSJ_019-bkkpn12}
+  - {type: 'tls:seg', offset: 108, content: '', id: KR2a0020_ZHSJ_019-d19p3s3}
+  - {type: punctuation, offset: 112, content: ．, id: KR2a0020_ZHSJ_019-bkkpn13}
+  - {type: 'tls:seg', offset: 112, content: '', id: KR2a0020_ZHSJ_019-d19p3s4}
+  - {type: variant, offset: 113, length: 14, content: 宗以丕長愛其器度特優異之泰七, WYG: 安三}
+  - {type: variant, offset: 113, length: 14, content: 宗以丕長愛其器度特優異之泰七, krp: 安三}
+  - {type: punctuation, offset: 117, content: ，, id: KR2a0020_ZHSJ_019-bkkpn14}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR2a0020_ZHSJ_019-d19p3s5}
+  - {type: punctuation, offset: 121, content: ，, id: KR2a0020_ZHSJ_019-bkkpn15}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR2a0020_ZHSJ_019-d19p3s6}
+  - {type: punctuation, offset: 125, content: ．, id: KR2a0020_ZHSJ_019-bkkpn16}
+  - {type: 'tls:seg', offset: 125, content: '', id: KR2a0020_ZHSJ_019-d19p3s7}
+  - {type: punctuation, offset: 129, content: ，, id: KR2a0020_ZHSJ_019-bkkpn17}
+  - {type: 'tls:seg', offset: 129, content: '', id: KR2a0020_ZHSJ_019-d19p3s8}
+  - {type: line-break, offset: 130, content: '', id: ZHSJ__dup4904}
+  - {type: variant, offset: 130, length: 1, content: 車, WYG: 征}
+  - {type: variant, offset: 130, length: 1, content: 車, krp: 征}
+  - {type: variant, offset: 131, length: 1, content: 騎, WYG: 西}
+  - {type: variant, offset: 131, length: 1, content: 騎, krp: 西}
+  - {type: variant, offset: 133, length: 1, content: 將, WYG: 将}
+  - {type: variant, offset: 133, length: 1, content: 將, krp: 将}
+  - {type: punctuation, offset: 135, content: ．, id: KR2a0020_ZHSJ_019-bkkpn18}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR2a0020_ZHSJ_019-d19p3s9}
+  - {type: variant, offset: 136, length: 55, content: 督河西高平諸軍討南秦王楊難當軍至略陽禁令齊肅所過無私百姓爭致牛酒難當懼還仇池而諸將議曰若不誅豪帥軍還之後必聚而, WYG: ''}
+  - {type: variant, offset: 136, length: 55, content: 督河西高平諸軍討南秦王楊難當軍至略陽禁令齊肅所過無私百姓爭致牛酒難當懼還仇池而諸將議曰若不誅豪帥軍還之後必聚而, krp: ''}
+  - {type: punctuation, offset: 139, content: 、, id: KR2a0020_ZHSJ_019-bkkpn19}
+  - {type: punctuation, offset: 150, content: ，, id: KR2a0020_ZHSJ_019-bkkpn20}
+  - {type: 'tls:seg', offset: 150, content: '', id: KR2a0020_ZHSJ_019-d19p3s10}
+  - {type: punctuation, offset: 154, content: ，, id: KR2a0020_ZHSJ_019-bkkpn21}
+  - {type: 'tls:seg', offset: 154, content: '', id: KR2a0020_ZHSJ_019-d19p3s11}
+  - {type: punctuation, offset: 158, content: ，, id: KR2a0020_ZHSJ_019-bkkpn22}
+  - {type: 'tls:seg', offset: 158, content: '', id: KR2a0020_ZHSJ_019-d19p3s12}
+  - {type: punctuation, offset: 162, content: ，, id: KR2a0020_ZHSJ_019-bkkpn23}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR2a0020_ZHSJ_019-d19p3s13}
+  - {type: line-break, offset: 165, content: '', id: ZHSJ__dup4905}
+  - {type: punctuation, offset: 168, content: ．, id: KR2a0020_ZHSJ_019-bkkpn24}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR2a0020_ZHSJ_019-d19p3s14}
+  - {type: punctuation, offset: 171, content: ，, id: KR2a0020_ZHSJ_019-bkkpn25}
+  - {type: 'tls:seg', offset: 171, content: '', id: KR2a0020_ZHSJ_019-d19p3s15}
+  - {type: punctuation, offset: 174, content: ．, id: KR2a0020_ZHSJ_019-bkkpn26}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR2a0020_ZHSJ_019-d19p3s16}
+  - {type: punctuation, offset: 179, content: ，, id: KR2a0020_ZHSJ_019-bkkpn27}
+  - {type: 'tls:seg', offset: 179, content: '', id: KR2a0020_ZHSJ_019-d19p3s17}
+  - {type: punctuation, offset: 184, content: ，, id: KR2a0020_ZHSJ_019-bkkpn28}
+  - {type: 'tls:seg', offset: 184, content: '', id: KR2a0020_ZHSJ_019-d19p3s18}
+  - {type: punctuation, offset: 188, content: ，, id: KR2a0020_ZHSJ_019-bkkpn29}
+  - {type: 'tls:seg', offset: 188, content: '', id: KR2a0020_ZHSJ_019-d19p3s19}
+  - {type: variant, offset: 192, length: 3, content: 寇又以, WYG: 内都}
+  - {type: variant, offset: 192, length: 3, content: 寇又以, krp: 内都}
+  - {type: punctuation, offset: 193, content: ．, id: KR2a0020_ZHSJ_019-bkkpn30}
+  - {type: 'tls:seg', offset: 193, content: '', id: KR2a0020_ZHSJ_019-d19p3s20}
+  - {type: variant, offset: 196, length: 132, content: 衆遠出不有所掠則無以充軍實賞將士將從之時中書侍郎高允參丕軍事諫曰今若誅之是傷其向化之心恐大軍一還為亂必速丕以為然於是綏懷初附秋毫無犯初馮弘之奔高麗世祖詔遣送之高麗不遣世祖怒將討之丕上疏以為和龍新定宜優復之使廣修農殖以饒軍實然後進圖可一舉而滅帝納之乃止後坐劉潔事以憂, WYG: 官}
+  - {type: page-break, offset: 196, content: '', id: KR2a0020_WYG_019-2a, image: WYG0261/WYG0261-0276a.png}
+  - {type: variant, offset: 196, length: 132, content: 衆遠出不有所掠則無以充軍實賞將士將從之時中書侍郎高允參丕軍事諫曰今若誅之是傷其向化之心恐大軍一還為亂必速丕以為然於是綏懷初附秋毫無犯初馮弘之奔高麗世祖詔遣送之高麗不遣世祖怒將討之丕上疏以為和龍新定宜優復之使廣修農殖以饒軍實然後進圖可一舉而滅帝納之乃止後坐劉潔事以憂, krp: 官}
+  - {type: line-break, offset: 198, content: '', id: ZHSJ__dup4906}
+  - {type: punctuation, offset: 199, content: ，, id: KR2a0020_ZHSJ_019-bkkpn31}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR2a0020_ZHSJ_019-d19p3s21}
+  - {type: punctuation, offset: 203, content: ，, id: KR2a0020_ZHSJ_019-bkkpn32}
+  - {type: 'tls:seg', offset: 203, content: '', id: KR2a0020_ZHSJ_019-d19p3s22}
+  - {type: punctuation, offset: 209, content: ，, id: KR2a0020_ZHSJ_019-bkkpn33}
+  - {type: 'tls:seg', offset: 209, content: '', id: KR2a0020_ZHSJ_019-d19p3s23}
+  - {type: punctuation, offset: 212, content: ．, id: KR2a0020_ZHSJ_019-bkkpn34}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR2a0020_ZHSJ_019-d19p3s24}
+  - {type: punctuation, offset: 215, content: ．, id: KR2a0020_ZHSJ_019-bkkpn35}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR2a0020_ZHSJ_019-d19p3s25}
+  - {type: punctuation, offset: 226, content: ，, id: KR2a0020_ZHSJ_019-bkkpn36}
+  - {type: 'tls:seg', offset: 226, content: '', id: KR2a0020_ZHSJ_019-d19p3s26}
+  - {type: punctuation, offset: 228, content: ：, id: KR2a0020_ZHSJ_019-bkkpn37}
+  - {type: 'tls:seg', offset: 228, content: '', id: KR2a0020_ZHSJ_019-d19p3s27}
+  - {type: punctuation, offset: 228, content: 「, id: KR2a0020_ZHSJ_019-bkkpn38}
+  - {type: page-break, offset: 231, content: '', id: KR2a0020_ZHSJ_019-0414a}
+  - {type: line-break, offset: 231, content: '', id: ZHSJ__dup4907}
+  - {type: punctuation, offset: 232, content: ，, id: KR2a0020_ZHSJ_019-bkkpn39}
+  - {type: 'tls:seg', offset: 232, content: '', id: KR2a0020_ZHSJ_019-d19p3s28}
+  - {type: punctuation, offset: 239, content: ，, id: KR2a0020_ZHSJ_019-bkkpn40}
+  - {type: 'tls:seg', offset: 239, content: '', id: KR2a0020_ZHSJ_019-d19p3s29}
+  - {type: punctuation, offset: 244, content: ，, id: KR2a0020_ZHSJ_019-bkkpn41}
+  - {type: 'tls:seg', offset: 244, content: '', id: KR2a0020_ZHSJ_019-d19p3s30}
+  - {type: punctuation, offset: 248, content: ．, id: KR2a0020_ZHSJ_019-bkkpn42}
+  - {type: punctuation, offset: 248, content: 」, id: KR2a0020_ZHSJ_019-bkkpn43}
+  - {type: 'tls:seg', offset: 248, content: '', id: KR2a0020_ZHSJ_019-d19p3s31}
+  - {type: punctuation, offset: 252, content: ，, id: KR2a0020_ZHSJ_019-bkkpn44}
+  - {type: 'tls:seg', offset: 252, content: '', id: KR2a0020_ZHSJ_019-d19p3s32}
+  - {type: punctuation, offset: 258, content: ，, id: KR2a0020_ZHSJ_019-bkkpn45}
+  - {type: 'tls:seg', offset: 258, content: '', id: KR2a0020_ZHSJ_019-d19p3s33}
+  - {type: punctuation, offset: 262, content: ．, id: KR2a0020_ZHSJ_019-bkkpn46}
+  - {type: 'tls:seg', offset: 262, content: '', id: KR2a0020_ZHSJ_019-d19p3s34}
+  - {type: punctuation, offset: 263, content: ，, id: KR2a0020_ZHSJ_019-bkkpn47}
+  - {type: 'tls:seg', offset: 263, content: '', id: KR2a0020_ZHSJ_019-d19p3s35}
+  - {type: line-break, offset: 264, content: '', id: ZHSJ__dup4908}
+  - {type: punctuation, offset: 269, content: ，, id: KR2a0020_ZHSJ_019-bkkpn48}
+  - {type: 'tls:seg', offset: 269, content: '', id: KR2a0020_ZHSJ_019-d19p3s36}
+  - {type: punctuation, offset: 275, content: ，, id: KR2a0020_ZHSJ_019-bkkpn49}
+  - {type: 'tls:seg', offset: 275, content: '', id: KR2a0020_ZHSJ_019-d19p3s37}
+  - {type: punctuation, offset: 279, content: ，, id: KR2a0020_ZHSJ_019-bkkpn50}
+  - {type: 'tls:seg', offset: 279, content: '', id: KR2a0020_ZHSJ_019-d19p3s38}
+  - {type: punctuation, offset: 282, content: ，, id: KR2a0020_ZHSJ_019-bkkpn51}
+  - {type: 'tls:seg', offset: 282, content: '', id: KR2a0020_ZHSJ_019-d19p3s39}
+  - {type: punctuation, offset: 285, content: ．, id: KR2a0020_ZHSJ_019-bkkpn52}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR2a0020_ZHSJ_019-d19p3s40}
+  - {type: punctuation, offset: 288, content: ，, id: KR2a0020_ZHSJ_019-bkkpn53}
+  - {type: 'tls:seg', offset: 288, content: '', id: KR2a0020_ZHSJ_019-d19p3s41}
+  - {type: punctuation, offset: 294, content: ，, id: KR2a0020_ZHSJ_019-bkkpn54}
+  - {type: 'tls:seg', offset: 294, content: '', id: KR2a0020_ZHSJ_019-d19p3s42}
+  - {type: punctuation, offset: 298, content: ，, id: KR2a0020_ZHSJ_019-bkkpn55}
+  - {type: 'tls:seg', offset: 298, content: '', id: KR2a0020_ZHSJ_019-d19p3s43}
+  - {type: line-break, offset: 298, content: '', id: ZHSJ__dup4909}
+  - {type: punctuation, offset: 303, content: ，, id: KR2a0020_ZHSJ_019-bkkpn56}
+  - {type: 'tls:seg', offset: 303, content: '', id: KR2a0020_ZHSJ_019-d19p3s44}
+  - {type: punctuation, offset: 307, content: ，, id: KR2a0020_ZHSJ_019-bkkpn57}
+  - {type: 'tls:seg', offset: 307, content: '', id: KR2a0020_ZHSJ_019-d19p3s45}
+  - {type: punctuation, offset: 311, content: ，, id: KR2a0020_ZHSJ_019-bkkpn58}
+  - {type: 'tls:seg', offset: 311, content: '', id: KR2a0020_ZHSJ_019-d19p3s46}
+  - {type: punctuation, offset: 316, content: ．, id: KR2a0020_ZHSJ_019-bkkpn59}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR2a0020_ZHSJ_019-d19p3s47}
+  - {type: punctuation, offset: 319, content: ，, id: KR2a0020_ZHSJ_019-bkkpn60}
+  - {type: 'tls:seg', offset: 319, content: '', id: KR2a0020_ZHSJ_019-d19p3s48}
+  - {type: punctuation, offset: 321, content: ．, id: KR2a0020_ZHSJ_019-bkkpn61}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR2a0020_ZHSJ_019-d19p3s49}
+  - {type: punctuation, offset: 326, content: ，, id: KR2a0020_ZHSJ_019-bkkpn62}
+  - {type: 'tls:seg', offset: 326, content: '', id: KR2a0020_ZHSJ_019-d19p3s50}
+  - {type: punctuation, offset: 329, content: ．, id: KR2a0020_ZHSJ_019-bkkpn63}
+  - {type: 'tls:seg', offset: 329, content: '', id: KR2a0020_ZHSJ_019-d19p3s51}
+  - {type: variant, offset: 329, length: 4, content: 事在潔傳, WYG: ''}
+  - {type: variant, offset: 329, length: 4, content: 事在潔傳, krp: ''}
+  - {type: line-break, offset: 330, content: '', id: ZHSJ__dup4910}
+  - {type: punctuation, offset: 333, content: ．, id: KR2a0020_ZHSJ_019-bkkpn64}
+  - {type: 'tls:seg', offset: 333, content: '', id: KR2a0020_ZHSJ_019-d19p3s52}
+  - {type: variant, offset: 335, length: 1, content: 戾, WYG: 幽}
+  - {type: variant, offset: 335, length: 1, content: 戾, krp: 幽}
+  - {type: variant, offset: 336, length: 1, content: 王, WYG: 長}
+  - {type: variant, offset: 336, length: 1, content: 王, krp: 長}
+  - {type: punctuation, offset: 337, content: ．, id: KR2a0020_ZHSJ_019-bkkpn65}
+  - {type: xml-element, offset: 337, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele6}
+  - {type: xml-element, offset: 337, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele7}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR2a0020_ZHSJ_019-d19p4s1}
+  - {type: line-break, offset: 337, content: '', id: ZHSJ__dup4911}
+  - {type: variant, offset: 338, length: 1, content: 拔, WYG: 安壽}
+  - {type: variant, offset: 338, length: 1, content: 拔, krp: 安壽}
+  - {type: punctuation, offset: 339, content: ，, id: KR2a0020_ZHSJ_019-bkkpn66}
+  - {type: 'tls:seg', offset: 339, content: '', id: KR2a0020_ZHSJ_019-d19p4s2}
+  - {type: punctuation, offset: 341, content: ．, id: KR2a0020_ZHSJ_019-bkkpn67}
+  - {type: 'tls:seg', offset: 341, content: '', id: KR2a0020_ZHSJ_019-d19p4s3}
+  - {type: variant, offset: 341, length: 3, content: 後坐事, WYG: 髙祖}
+  - {type: variant, offset: 341, length: 3, content: 後坐事, krp: 髙祖}
+  - {type: variant, offset: 345, length: 59, content: 死國除丕之薨及日者董道秀之死也高允遂著筮論曰昔明元末起白臺其高二十餘丈樂平王嘗夢登其上四望無所見王以問日者董道秀筮之曰, WYG: 名頤累遷懐朔鎮}
+  - {type: variant, offset: 345, length: 59, content: 死國除丕之薨及日者董道秀之死也高允遂著筮論曰昔明元末起白臺其高二十餘丈樂平王嘗夢登其上四望無所見王以問日者董道秀筮之曰, krp: 名頤累遷懐朔鎮}
+  - {type: punctuation, offset: 346, content: ，, id: KR2a0020_ZHSJ_019-bkkpn68}
+  - {type: 'tls:seg', offset: 346, content: '', id: KR2a0020_ZHSJ_019-d19p4s4}
+  - {type: punctuation, offset: 348, content: ．, id: KR2a0020_ZHSJ_019-bkkpn69}
+  - {type: xml-element, offset: 348, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele8}
+  - {type: xml-element, offset: 348, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele9}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR2a0020_ZHSJ_019-d19p5s1}
+  - {type: line-break, offset: 348, content: '', id: ZHSJ__dup4912}
+  - {type: punctuation, offset: 360, content: ，, id: KR2a0020_ZHSJ_019-bkkpn70}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR2a0020_ZHSJ_019-d19p5s2}
+  - {type: punctuation, offset: 367, content: ：, id: KR2a0020_ZHSJ_019-bkkpn71}
+  - {type: 'tls:seg', offset: 367, content: '', id: KR2a0020_ZHSJ_019-d19p5s3}
+  - {type: punctuation, offset: 367, content: 「, id: KR2a0020_ZHSJ_019-bkkpn72}
+  - {type: punctuation, offset: 374, content: ，, id: KR2a0020_ZHSJ_019-bkkpn73}
+  - {type: 'tls:seg', offset: 374, content: '', id: KR2a0020_ZHSJ_019-d19p5s4}
+  - {type: punctuation, offset: 380, content: ，, id: KR2a0020_ZHSJ_019-bkkpn74}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR2a0020_ZHSJ_019-d19p5s5}
+  - {type: line-break, offset: 381, content: '', id: ZHSJ__dup4913}
+  - {type: punctuation, offset: 388, content: ，, id: KR2a0020_ZHSJ_019-bkkpn75}
+  - {type: 'tls:seg', offset: 388, content: '', id: KR2a0020_ZHSJ_019-d19p5s6}
+  - {type: punctuation, offset: 393, content: ．, id: KR2a0020_ZHSJ_019-bkkpn76}
+  - {type: 'tls:seg', offset: 393, content: '', id: KR2a0020_ZHSJ_019-d19p5s7}
+  - {type: punctuation, offset: 401, content: ，, id: KR2a0020_ZHSJ_019-bkkpn77}
+  - {type: 'tls:seg', offset: 401, content: '', id: KR2a0020_ZHSJ_019-d19p5s8}
+  - {type: punctuation, offset: 404, content: ：, id: KR2a0020_ZHSJ_019-bkkpn78}
+  - {type: punctuation, offset: 404, content: 『, id: KR2a0020_ZHSJ_019-bkkpn79}
+  - {type: variant, offset: 405, length: 143, content: 吉王默而有喜色後事發王遂憂死而道秀棄市道秀若推六爻以對王曰易稱亢龍有悔窮高曰亢高而無民不為善也夫如是則上寧於王下保於己福祿方至豈有禍哉今舍於本而從其末咎釁之至不亦宜乎安定王彌泰常七年封太宗討滑臺留守京師薨諡殤王無子國除樂安王範泰常七年封雅性沉厚和仁恕世祖以長安形勝之地非範莫可任者乃拜範, WYG: 将}
+  - {type: variant, offset: 405, length: 143, content: 吉王默而有喜色後事發王遂憂死而道秀棄市道秀若推六爻以對王曰易稱亢龍有悔窮高曰亢高而無民不為善也夫如是則上寧於王下保於己福祿方至豈有禍哉今舍於本而從其末咎釁之至不亦宜乎安定王彌泰常七年封太宗討滑臺留守京師薨諡殤王無子國除樂安王範泰常七年封雅性沉厚和仁恕世祖以長安形勝之地非範莫可任者乃拜範, krp: 将}
+  - {type: punctuation, offset: 406, content: ．, id: KR2a0020_ZHSJ_019-bkkpn80}
+  - {type: punctuation, offset: 406, content: 』, id: KR2a0020_ZHSJ_019-bkkpn81}
+  - {type: 'tls:seg', offset: 406, content: '', id: KR2a0020_ZHSJ_019-d19p5s9}
+  - {type: punctuation, offset: 412, content: ．, id: KR2a0020_ZHSJ_019-bkkpn82}
+  - {type: 'tls:seg', offset: 412, content: '', id: KR2a0020_ZHSJ_019-d19p5s10}
+  - {type: line-break, offset: 414, content: '', id: ZHSJ__dup4914}
+  - {type: punctuation, offset: 415, content: ，, id: KR2a0020_ZHSJ_019-bkkpn83}
+  - {type: 'tls:seg', offset: 415, content: '', id: KR2a0020_ZHSJ_019-d19p5s11}
+  - {type: punctuation, offset: 419, content: ，, id: KR2a0020_ZHSJ_019-bkkpn84}
+  - {type: 'tls:seg', offset: 419, content: '', id: KR2a0020_ZHSJ_019-d19p5s12}
+  - {type: punctuation, offset: 424, content: ．, id: KR2a0020_ZHSJ_019-bkkpn85}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR2a0020_ZHSJ_019-d19p5s13}
+  - {type: punctuation, offset: 434, content: ：, id: KR2a0020_ZHSJ_019-bkkpn86}
+  - {type: punctuation, offset: 434, content: 『, id: KR2a0020_ZHSJ_019-bkkpn87}
+  - {type: 'tls:seg', offset: 436, content: '', id: KR2a0020_ZHSJ_019-d19p5s14}
+  - {type: punctuation, offset: 436, content: 「, id: KR2a0020_ZHSJ_019-bkkpn88}
+  - {type: punctuation, offset: 440, content: 」, id: KR2a0020_ZHSJ_019-bkkpn89}
+  - {type: punctuation, offset: 440, content: ，, id: KR2a0020_ZHSJ_019-bkkpn90}
+  - {type: 'tls:seg', offset: 440, content: '', id: KR2a0020_ZHSJ_019-d19p5s15}
+  - {type: punctuation, offset: 444, content: ，, id: KR2a0020_ZHSJ_019-bkkpn91}
+  - {type: 'tls:seg', offset: 444, content: '', id: KR2a0020_ZHSJ_019-d19p5s16}
+  - {type: line-break, offset: 447, content: '', id: ZHSJ__dup4915}
+  - {type: punctuation, offset: 448, content: ，, id: KR2a0020_ZHSJ_019-bkkpn92}
+  - {type: 'tls:seg', offset: 448, content: '', id: KR2a0020_ZHSJ_019-d19p5s17}
+  - {type: punctuation, offset: 452, content: ．, id: KR2a0020_ZHSJ_019-bkkpn93}
+  - {type: punctuation, offset: 452, content: 』, id: KR2a0020_ZHSJ_019-bkkpn94}
+  - {type: 'tls:seg', offset: 452, content: '', id: KR2a0020_ZHSJ_019-d19p5s18}
+  - {type: punctuation, offset: 455, content: ，, id: KR2a0020_ZHSJ_019-bkkpn95}
+  - {type: 'tls:seg', offset: 455, content: '', id: KR2a0020_ZHSJ_019-d19p5s19}
+  - {type: punctuation, offset: 460, content: ，, id: KR2a0020_ZHSJ_019-bkkpn96}
+  - {type: 'tls:seg', offset: 460, content: '', id: KR2a0020_ZHSJ_019-d19p5s20}
+  - {type: punctuation, offset: 464, content: ，, id: KR2a0020_ZHSJ_019-bkkpn97}
+  - {type: 'tls:seg', offset: 464, content: '', id: KR2a0020_ZHSJ_019-d19p5s21}
+  - {type: punctuation, offset: 468, content: ，, id: KR2a0020_ZHSJ_019-bkkpn98}
+  - {type: 'tls:seg', offset: 468, content: '', id: KR2a0020_ZHSJ_019-d19p5s22}
+  - {type: punctuation, offset: 472, content: ？, id: KR2a0020_ZHSJ_019-bkkpn99}
+  - {type: 'tls:seg', offset: 472, content: '', id: KR2a0020_ZHSJ_019-d19p5s23}
+  - {type: punctuation, offset: 480, content: ，, id: KR2a0020_ZHSJ_019-bkkpn100}
+  - {type: 'tls:seg', offset: 480, content: '', id: KR2a0020_ZHSJ_019-d19p5s24}
+  - {type: line-break, offset: 480, content: '', id: ZHSJ__dup4916}
+  - {type: punctuation, offset: 488, content: ！, id: KR2a0020_ZHSJ_019-bkkpn101}
+  - {type: punctuation, offset: 488, content: 」, id: KR2a0020_ZHSJ_019-bkkpn102}
+  - {type: xml-element, offset: 488, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele10}
+  - {type: xml-element, offset: 488, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele11}
+  - {type: 'tls:seg', offset: 488, content: '', id: KR2a0020_ZHSJ_019-d19p6s1}
+  - {type: line-break, offset: 488, content: '', id: ZHSJ__dup4917}
+  - {type: punctuation, offset: 492, content: ，, id: KR2a0020_ZHSJ_019-bkkpn103}
+  - {type: 'tls:seg', offset: 492, content: '', id: KR2a0020_ZHSJ_019-d19p6s2}
+  - {type: punctuation, offset: 497, content: ．, id: KR2a0020_ZHSJ_019-bkkpn104}
+  - {type: 'tls:seg', offset: 497, content: '', id: KR2a0020_ZHSJ_019-d19p6s3}
+  - {type: punctuation, offset: 502, content: ，, id: KR2a0020_ZHSJ_019-bkkpn105}
+  - {type: 'tls:seg', offset: 502, content: '', id: KR2a0020_ZHSJ_019-d19p6s4}
+  - {type: punctuation, offset: 506, content: ．, id: KR2a0020_ZHSJ_019-bkkpn106}
+  - {type: 'tls:seg', offset: 506, content: '', id: KR2a0020_ZHSJ_019-d19p6s5}
+  - {type: punctuation, offset: 507, content: ，, id: KR2a0020_ZHSJ_019-bkkpn107}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR2a0020_ZHSJ_019-d19p6s6}
+  - {type: punctuation, offset: 510, content: ．, id: KR2a0020_ZHSJ_019-bkkpn108}
+  - {type: 'tls:seg', offset: 510, content: '', id: KR2a0020_ZHSJ_019-d19p6s7}
+  - {type: punctuation, offset: 512, content: ，, id: KR2a0020_ZHSJ_019-bkkpn109}
+  - {type: 'tls:seg', offset: 512, content: '', id: KR2a0020_ZHSJ_019-d19p6s8}
+  - {type: punctuation, offset: 514, content: ．, id: KR2a0020_ZHSJ_019-bkkpn110}
+  - {type: xml-element, offset: 514, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele12}
+  - {type: xml-element, offset: 514, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele13}
+  - {type: 'tls:seg', offset: 514, content: '', id: KR2a0020_ZHSJ_019-d19p7s1}
+  - {type: line-break, offset: 514, content: '', id: ZHSJ__dup4918}
+  - {type: punctuation, offset: 518, content: ，, id: KR2a0020_ZHSJ_019-bkkpn111}
+  - {type: 'tls:seg', offset: 518, content: '', id: KR2a0020_ZHSJ_019-d19p7s2}
+  - {type: punctuation, offset: 523, content: ．, id: KR2a0020_ZHSJ_019-bkkpn112}
+  - {type: 'tls:seg', offset: 523, content: '', id: KR2a0020_ZHSJ_019-d19p7s3}
+  - {type: punctuation, offset: 527, content: ，, id: KR2a0020_ZHSJ_019-bkkpn113}
+  - {type: 'tls:seg', offset: 527, content: '', id: KR2a0020_ZHSJ_019-d19p7s4}
+  - {type: punctuation, offset: 530, content: ．, id: KR2a0020_ZHSJ_019-bkkpn114}
+  - {type: 'tls:seg', offset: 530, content: '', id: KR2a0020_ZHSJ_019-d19p7s5}
+  - {type: punctuation, offset: 539, content: ，, id: KR2a0020_ZHSJ_019-bkkpn115}
+  - {type: 'tls:seg', offset: 539, content: '', id: KR2a0020_ZHSJ_019-d19p7s6}
+  - {type: punctuation, offset: 545, content: ，, id: KR2a0020_ZHSJ_019-bkkpn116}
+  - {type: 'tls:seg', offset: 545, content: '', id: KR2a0020_ZHSJ_019-d19p7s7}
+  - {type: line-break, offset: 545, content: '', id: ZHSJ__dup4919}
+  - {type: variant, offset: 550, length: 1, content: 五, WYG: 三}
+  - {type: variant, offset: 550, length: 1, content: 五, krp: 三}
+  - {type: variant, offset: 551, length: 1, content: 州, WYG: 道}
+  - {type: variant, offset: 551, length: 1, content: 州, krp: 道}
+  - {type: punctuation, offset: 555, content: 、, id: KR2a0020_ZHSJ_019-bkkpn117}
+  - {type: variant, offset: 555, length: 1, content: 衞, WYG: 北討詔徵赴京朂以戰伐之事對曰當仰仗廟算使呼韓同渭橋之禮帝歎曰壯哉王言朕所望也未發遭母憂詔遣侍臣以金革敦喻既殯而發與陸叡集三道諸将議軍途所詣於是中道出黒山東道趨士盧河西道向侯延河軍過}
+  - {type: variant, offset: 555, length: 1, content: 衞, krp: 北討詔徵赴京朂以戰伐之事對曰當仰仗廟算使呼韓同渭橋之禮帝歎曰壯哉王言朕所望也未發遭母憂詔遣侍臣以金革敦喻既殯而發與陸叡集三道諸将議軍途所詣於是中道出黒山東道趨士盧河西道向侯延河軍過}
+  - {type: substitution, offset: 555, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
+  - {type: variant, offset: 557, length: 1, content: 將, WYG: 磧大破蠕蠕頤入朝詔曰王之前言果不虚也後除朔州刺史及恒州刺史穆泰謀反遣使推頤為主頤密以狀聞泰等伏誅帝甚嘉之世宗景明元年薨於青州刺史諡曰莊王傳國至孫宗𦙍肅宗時坐殺叔父賜死爵除頤弟衍字安樂賜爵廣陵侯位梁州刺史表請假王以崇威重詔曰可謂無厭求也所請不合轉徐州刺史至州病重帝勅徐成伯乗傳療疾差成伯還帝曰卿定名醫賚絹三千匹成伯辭請受一千帝曰詩云人之云亾邦國殄瘁以是而言豈惟三千匹乎其為帝所重如此後所生母雷氏卒表請解州詔曰先君餘尊之所厭禮之明文季末陵遲斯典或廢侯既親王之子宜從餘尊之義便可大功後卒於雍州刺史諡曰康侯衍性清慎所在亷潔又不營産業歴牧四州皆有稱績亾日無歛屍具子暢暢弟融字叔融貌甚短陋驍武過人莊帝謀殺尒朱榮以融為直閤将軍及尒朱兆入洛融逃人間衍弟欽字思若位中書監尚書右僕射儀同三司欽色尤黑故時人號為黒面僕射欽滛從兄麗妻崔氏為御史中尉封回劾奏遇赦免尋除司州牧欽少好學早有令譽時人語曰皇宗畧畧壽安思若及晚年貴重不能有所匡益識者輕之欽曾託青州人髙僧壽為子求師師至未幾逃去欽以讓僧壽僧壽性滑稽反謂欽曰凡人絶粒七日乃死始經五朝便爾逃遁去食就信實有所闕欽乃大慙於是待客稍厚後除司空公封鉅平縣公於河隂遇害贈假黄鉞太師太尉公子子孝字季業早有令譽年八嵗司徒崔光見而異之曰後生領袖必此人也京兆王子推太安五年封位侍中征南大将軍長安鎮都大将子推性沉雅善於綏接秦雍之人服其威惠入為中都大官察獄有稱顯祖将禪位於子推以大臣固諫乃傳髙祖髙祖即位拜侍中本将}
+  - {type: page-break, offset: 557, content: '', id: KR2a0020_WYG_019-2b, image: WYG0261/WYG0261-0276b.png}
+  - {type: page-break, offset: 557, content: '', id: KR2a0020_WYG_019-3a, image: WYG0261/WYG0261-0276c.png}
+  - {type: page-break, offset: 557, content: '', id: KR2a0020_WYG_019-3b, image: WYG0261/WYG0261-0276d.png}
+  - {type: page-break, offset: 557, content: '', id: KR2a0020_WYG_019-4a, image: WYG0261/WYG0261-0277a.png}
+  - {type: variant, offset: 557, length: 1, content: 將, krp: 磧大破蠕蠕頤入朝詔曰王之前言果不虚也後除朔州刺史及恒州刺史穆泰謀反遣使推頤為主頤密以狀聞泰等伏誅帝甚嘉之世宗景明元年薨於青州刺史諡曰莊王傳國至孫宗𦙍肅宗時坐殺叔父賜死爵除頤弟衍字安樂賜爵廣陵侯位梁州刺史表請假王以崇威重詔曰可謂無厭求也所請不合轉徐州刺史至州病重帝勅徐成伯乗傳療疾差成伯還帝曰卿定名醫賚絹三千匹成伯辭請受一千帝曰詩云人之云亾邦國殄瘁以是而言豈惟三千匹乎其為帝所重如此後所生母雷氏卒表請解州詔曰先君餘尊之所厭禮之明文季末陵遲斯典或廢侯既親王之子宜從餘尊之義便可大功後卒於雍州刺史諡曰康侯衍性清慎所在亷潔又不營産業歴牧四州皆有稱績亾日無歛屍具子暢暢弟融字叔融貌甚短陋驍武過人莊帝謀殺尒朱榮以融為直閤将軍及尒朱兆入洛融逃人間衍弟欽字思若位中書監尚書右僕射儀同三司欽色尤黑故時人號為黒面僕射欽滛從兄麗妻崔氏為御史中尉封回劾奏遇赦免尋除司州牧欽少好學早有令譽時人語曰皇宗畧畧壽安思若及晚年貴重不能有所匡益識者輕之欽曾託青州人髙僧壽為子求師師至未幾逃去欽以讓僧壽僧壽性滑稽反謂欽曰凡人絶粒七日乃死始經五朝便爾逃遁去食就信實有所闕欽乃大慙於是待客稍厚後除司空公封鉅平縣公於河隂遇害贈假黄鉞太師太尉公子子孝字季業早有令譽年八嵗司徒崔光見而異之曰後生領袖必此人也京兆王子推太安五年封位侍中征南大将軍長安鎮都大将子推性沉雅善於綏接秦雍之人服其威惠入為中都大官察獄有稱顯祖将禪位於子推以大臣固諫乃傳髙祖髙祖即位拜侍中本将}
+  - {type: punctuation, offset: 559, content: 、, id: KR2a0020_ZHSJ_019-bkkpn118}
+  - {type: punctuation, offset: 565, content: 、, id: KR2a0020_ZHSJ_019-bkkpn119}
+  - {type: variant, offset: 565, length: 0, content: '', WYG: 青州刺史未至道薨子太興襲拜}
+  - {type: variant, offset: 565, length: 0, content: '', krp: 青州刺史未至道薨子太興襲拜}
+  - {type: variant, offset: 570, length: 0, content: '', WYG: 将以黷貨削除官爵後除祕書監還復前爵拜統萬鎮将改封西河後改鎮為夏州仍以太興為刺史除守衛尉卿初太興遇患請諸沙門行道所有資財一時布施乞求病愈名曰散生齋及齋後僧皆四散有一沙門方云乞齋餘食太興戲之曰齋食既盡唯有酒肉沙門曰亦能食之因出酒一斗羊脚一隻食盡猶言不飽及辭出後酒肉俱在出門追之無所見太興遂佛前乞願向者之師當非俗人若此病得差即捨王爵入道未幾便愈遂請為沙門表十餘上乃見許時髙祖南討在軍詔皇太子於四月八日為之下髪施帛二千匹既為沙門更名僧懿居嵩山太和二十二年終子昴字伯暉襲薨子悰字魏慶襲孝静時累遷太尉錄尚書事司州牧青州刺史薨於州贈假黄鉞太傅司徒公諡曰文悰寛和有度量美容貌風望儼然得喪之間不見於色性清儉不營産業身死之日家無餘財昴弟仲景性嚴峭莊帝時兼御史中尉京師肅然每向臺恒駕赤牛時人號赤牛中尉太昌初為河南尹奉法無私時吏部尚書樊子鵠部下縱横又為盜竊仲景密加收捕悉獲之咸即行決於是豪貴寒心出帝}
+  - {type: page-break, offset: 570, content: '', id: KR2a0020_WYG_019-4b, image: WYG0261/WYG0261-0277b.png}
+  - {type: page-break, offset: 570, content: '', id: KR2a0020_WYG_019-5a, image: WYG0261/WYG0261-0277c.png}
+  - {type: page-break, offset: 570, content: '', id: KR2a0020_WYG_019-5b, image: WYG0261/WYG0261-0277d.png}
+  - {type: variant, offset: 570, length: 0, content: '', krp: 将以黷貨削除官爵後除祕書監還復前爵拜統萬鎮将改封西河後改鎮為夏州仍以太興為刺史除守衛尉卿初太興遇患請諸沙門行道所有資財一時布施乞求病愈名曰散生齋及齋後僧皆四散有一沙門方云乞齋餘食太興戲之曰齋食既盡唯有酒肉沙門曰亦能食之因出酒一斗羊脚一隻食盡猶言不飽及辭出後酒肉俱在出門追之無所見太興遂佛前乞願向者之師當非俗人若此病得差即捨王爵入道未幾便愈遂請為沙門表十餘上乃見許時髙祖南討在軍詔皇太子於四月八日為之下髪施帛二千匹既為沙門更名僧懿居嵩山太和二十二年終子昴字伯暉襲薨子悰字魏慶襲孝静時累遷太尉錄尚書事司州牧青州刺史薨於州贈假黄鉞太傅司徒公諡曰文悰寛和有度量美容貌風望儼然得喪之間不見於色性清儉不營産業身死之日家無餘財昴弟仲景性嚴峭莊帝時兼御史中尉京師肅然每向臺恒駕赤牛時人號赤牛中尉太昌初為河南尹奉法無私時吏部尚書樊子鵠部下縱横又為盜竊仲景密加收捕悉獲之咸即行決於是豪貴寒心出帝}
+  - {type: punctuation, offset: 571, content: ，, id: KR2a0020_ZHSJ_019-bkkpn120}
+  - {type: 'tls:seg', offset: 571, content: '', id: KR2a0020_ZHSJ_019-d19p7s8}
+  - {type: variant, offset: 571, length: 1, content: 高, WYG: 西行授仲景中軍大都督留京師齊獻武王欲至洛陽仲景遂棄妻子而遁仲景弟暹字叔照莊帝初除南兖州刺史在州猛暴多所殺害元顥入洛暹據州不屈莊帝還宮封汝陽王遷秦州刺史先時秦州城人屢為反覆暹盡誅之存者十一二普泰元年除涼州刺史貪暴無極欲規府人及商胡富人財物詐一臺符誑諸豪等云欲加賞一時屠戮所有資財生口悉沒自入孝静時位侍中錄尚書事薨贈太師錄尚書子沖襲無子國絶太興弟遥字太原有器望以左衛將軍從髙祖南征賜爵饒陽男世宗初遭所生母憂表請解任詔以餘尊所厭不許肅宗初累遷左光祿大夫仍領䕶軍遷冀州刺史遥以諸胡先無籍貫姦良莫辨悉令造籍又以諸胡設籍當欲税之以充軍用胡人不願乃共構遥云取納金馬御史按驗事與胡同遥坐除名遥陳枉不已勅有司重究乃披雪遷右光祿大夫時冀州沙門法慶既為妖幻遂說渤海人李歸伯歸伯合家從之招率鄉人推法慶為主法慶以歸伯為十住菩薩平魔軍司定漢王自號大乗殺一人者為一住菩薩殺十人為十住菩薩又合狂藥令人服之父子兄弟不相知識唯以殺害為事於是聚衆殺阜城令破渤海郡殺害吏人刺史蕭寳夤遣兼長史崔伯驎討之敗於煑棗城伯驎戰沒凶衆遂盛所在屠滅寺舍斬戮僧尼焚燒經像云新佛出世除去舊魔詔以遥為使持節都督北征諸軍事帥歩騎十萬以討之法慶相率攻遥遥並擊破之遥遣輔國将軍張虯等率騎追掩討破擒法慶并其妻尼惠暉等斬之傳首京師後擒歸伯戮於都市初遥大功昆弟皆是恭宗之孫至肅宗而本服絶故除遥等屬籍遥表曰竊聞聖人所以南面而聼天下其不可得變革者則親也尊也四世而緦服窮五世而袒免六世而親屬竭矣去兹以往猶繫之以姓而弗别綴之以食而弗殊又律云議親者非唯當世之屬親歴謂先帝之五世謹尋斯㫖将以廣帝宗重磐石先皇所以變兹事條為此别制者太和之季方有意於吳蜀經始之費慮深在初割減之起蹔出當時也且臨淮王提分屬籍之始髙祖賜帛三千匹所以重分離樂浪王長命亦賜縑二千匹所以存慈睠此皆先朝殷勤克念不得已而然者也古人有言百足之蟲至死不僵者以其輔已者衆臣誠不欲妄親太階茍求潤屋但傷大宗一分則天子屬籍不過十數人而已在漢諸王之子不限多少皆列土而封謂之曰侯至于魏晉莫不廣胙河山稱之曰公者蓋惡其大宗之不固骨肉之恩疎矣臣去皇上雖是五世之遠於先帝便是天子之孫髙祖所以國秩祿賦復給衣食后族唯給其賦不與衣食者欲以别外内限異同也今諸廟之感在心未忘行道之悲儵然已及其諸封者身亾之日三年服終然後改奪今朝廷猶在遏密之中便議此事實用未安詔付尚書博議以聞尚書令任城王澄尚書左僕射元暉奏同遥表靈太后不從卒諡曰宣公遥弟恒字景安粗渉書史恒以春秋之義為名不以山川表求改名芝歴位太常卿中書監侍中後於河隂遇害赠太傅司徒公諡曰宣穆公濟隂王小新成和平二年封頗有武畧庫莫奚侵擾詔新成率衆討之新成乃多為毒酒賊既漸逼便棄營而去賊至喜而競飲聊無所備遂簡輕騎因醉縱擊俘馘甚多後位外都大官薨贈大将軍諡曰惠公子鬰字伏生襲位開府為徐州刺史以黷貨賜死國除長子弼字邕明剛正有文學位中散大夫以世嫡應襲先爵為季父尚書僕射麗因于氏親寵遂奪弼王爵横授同母兄子誕於是弼絶棄人事託疾還私第世宗徵為侍中弼上表固讓入嵩山以穴為室布衣蔬食卒建義元年子暉業訴復王爵永安三年追贈尚書令司徒公諡曰文獻初弼嘗夢人謂之曰君身不得傳世封其紹先爵者君長子紹遠也弼覺即語暉業終如其言暉業少險薄多與寇盜交通長乃變節渉子史亦頗屬文而慷慨有志節歴位司空太尉加特進領中書監錄尚書事齊文襄嘗問之曰比何所披覽對曰數尋伊霍之傳不讀曹馬之書暉業以時運漸謝不復圖全唯事飲啗一日三羊三日一犢又嘗賦詩云昔居王道泰濟濟富羣英今逢世路阻狐兎鬱縱横齊初降封美陽縣公開府儀同三司特進暉業之在晉陽也無所交通居常閑暇乃撰魏藩王家世號為辨宗室録四十卷行於世暉業弟昭業頗有學尚位諫議大夫莊帝将幸洛南昭業立於閶闔門外扣馬諫帝避之而過後勞勉之位給事黄門侍郎衛将軍石光祿大夫卒諡曰文侯鬱弟偃字仲琁位太中大夫卒子誕字曇首初誕伯父鬱以貪汙賜死爵除景明三年誕訴云伯鬱前朝之封正以年長襲封以罪除爵爵由謬襲襲應歸正詔以偃正元妃息曇首濟隂王嫡孫可聼紹封以纂先緒誕既襲爵除齊州刺史在州貪暴大為人患牛馬騾驢無不逼奪家之奴隸悉迫取良人為婦有沙門為誕採藥還而見之誕曰師從外來有何消息對曰唯聞王貪願王早代誕曰齊州七萬戸吾至來一家未得三十錢何得言貪後為御史中尉元纂所糾會赦免薨諡曰静王子撫字伯懿襲莊帝初為從兄暉業訴奪王爵偃弟麗字寳掌位兼宗正卿右衛将軍遷光祿勲宗正右衛如故時秦州屠各王法智推州主簿呂茍兒為主號建明元年置立百官攻逼州郡涇州人陳瞻亦聚衆自稱王號聖明元年詔以麗為使持節都督秦州刺史與别駕楊椿討之茍兒率衆十餘萬屯孤山列據諸險圍逼州城麗出擊大破之便進軍永洛賊徒逆戰麗夜擊走之行秦州事李韶破茍兒于孤山乗勝追奔三十里獲其父母妻子斬賊王五人其餘相繼歸降諸城之圍亦悉奔散茍兒率其王公三十餘人詣麗請罪椿又斬瞻麗因平賊之勢枉掠良善七百餘人世宗嘉其功詔有司不聼追檢拜雍州刺史為政嚴酷吏人患之其妻崔氏誕一男麗遂出州獄囚死及徒流案未申臺者一時放免遷冀州刺史入為尚書左僕射帝問曰聞公在州殺戮無理枉濫非一又大殺道人對曰臣在冀州可殺道人二百許人亦復何多帝曰一物不得其所若納諸隍況殺道人二百而言不多麗脫冠謝賜坐卒諡曰威子顯和少有節操歴司徒記室參軍司徒崔光每見之曰元參軍風流清秀容止閑雅乃宰相之器除徐州安東府長史刺史元法僧叛顯和與戰被擒執手命與連坐顯和曰顯和與阿翁同源别泒皆是磐石之宗一朝以地外叛若遇董狐能無慙徳遂不肻坐法僧猶欲慰喻顯和曰乃可死作惡鬼不能生為叛臣及将殺之神色自若建義初贈秦州刺史汝隂王天賜和平三年封拜鎮南大将軍虎牢鎮都大将後為内都大官髙祖初殿中尚書胡莫寒簡西部勅勒豪富兼丁者為殿中武士而大納財貨簡}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-6a, image: WYG0261/WYG0261-0278a.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-6b, image: WYG0261/WYG0261-0278b.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-7a, image: WYG0261/WYG0261-0278c.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-7b, image: WYG0261/WYG0261-0278d.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-8a, image: WYG0261/WYG0261-0279a.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-8b, image: WYG0261/WYG0261-0279b.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-9a, image: WYG0261/WYG0261-0279c.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-9b, image: WYG0261/WYG0261-0279d.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-10a, image: WYG0261/WYG0261-0280a.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-10b, image: WYG0261/WYG0261-0280b.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-11a, image: WYG0261/WYG0261-0280c.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-11b, image: WYG0261/WYG0261-0280d.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-12a, image: WYG0261/WYG0261-0281a.png}
+  - {type: page-break, offset: 571, content: '', id: KR2a0020_WYG_019-12b, image: WYG0261/WYG0261-0281b.png}
+  - {type: variant, offset: 571, length: 1, content: 高, krp: 西行授仲景中軍大都督留京師齊獻武王欲至洛陽仲景遂棄妻子而遁仲景弟暹字叔照莊帝初除南兖州刺史在州猛暴多所殺害元顥入洛暹據州不屈莊帝還宮封汝陽王遷秦州刺史先時秦州城人屢為反覆暹盡誅之存者十一二普泰元年除涼州刺史貪暴無極欲規府人及商胡富人財物詐一臺符誑諸豪等云欲加賞一時屠戮所有資財生口悉沒自入孝静時位侍中錄尚書事薨贈太師錄尚書子沖襲無子國絶太興弟遥字太原有器望以左衛將軍從髙祖南征賜爵饒陽男世宗初遭所生母憂表請解任詔以餘尊所厭不許肅宗初累遷左光祿大夫仍領䕶軍遷冀州刺史遥以諸胡先無籍貫姦良莫辨悉令造籍又以諸胡設籍當欲税之以充軍用胡人不願乃共構遥云取納金馬御史按驗事與胡同遥坐除名遥陳枉不已勅有司重究乃披雪遷右光祿大夫時冀州沙門法慶既為妖幻遂說渤海人李歸伯歸伯合家從之招率鄉人推法慶為主法慶以歸伯為十住菩薩平魔軍司定漢王自號大乗殺一人者為一住菩薩殺十人為十住菩薩又合狂藥令人服之父子兄弟不相知識唯以殺害為事於是聚衆殺阜城令破渤海郡殺害吏人刺史蕭寳夤遣兼長史崔伯驎討之敗於煑棗城伯驎戰沒凶衆遂盛所在屠滅寺舍斬戮僧尼焚燒經像云新佛出世除去舊魔詔以遥為使持節都督北征諸軍事帥歩騎十萬以討之法慶相率攻遥遥並擊破之遥遣輔國将軍張虯等率騎追掩討破擒法慶并其妻尼惠暉等斬之傳首京師後擒歸伯戮於都市初遥大功昆弟皆是恭宗之孫至肅宗而本服絶故除遥等屬籍遥表曰竊聞聖人所以南面而聼天下其不可得變革者則親也尊也四世而緦服窮五世而袒免六世而親屬竭矣去兹以往猶繫之以姓而弗别綴之以食而弗殊又律云議親者非唯當世之屬親歴謂先帝之五世謹尋斯㫖将以廣帝宗重磐石先皇所以變兹事條為此别制者太和之季方有意於吳蜀經始之費慮深在初割減之起蹔出當時也且臨淮王提分屬籍之始髙祖賜帛三千匹所以重分離樂浪王長命亦賜縑二千匹所以存慈睠此皆先朝殷勤克念不得已而然者也古人有言百足之蟲至死不僵者以其輔已者衆臣誠不欲妄親太階茍求潤屋但傷大宗一分則天子屬籍不過十數人而已在漢諸王之子不限多少皆列土而封謂之曰侯至于魏晉莫不廣胙河山稱之曰公者蓋惡其大宗之不固骨肉之恩疎矣臣去皇上雖是五世之遠於先帝便是天子之孫髙祖所以國秩祿賦復給衣食后族唯給其賦不與衣食者欲以别外内限異同也今諸廟之感在心未忘行道之悲儵然已及其諸封者身亾之日三年服終然後改奪今朝廷猶在遏密之中便議此事實用未安詔付尚書博議以聞尚書令任城王澄尚書左僕射元暉奏同遥表靈太后不從卒諡曰宣公遥弟恒字景安粗渉書史恒以春秋之義為名不以山川表求改名芝歴位太常卿中書監侍中後於河隂遇害赠太傅司徒公諡曰宣穆公濟隂王小新成和平二年封頗有武畧庫莫奚侵擾詔新成率衆討之新成乃多為毒酒賊既漸逼便棄營而去賊至喜而競飲聊無所備遂簡輕騎因醉縱擊俘馘甚多後位外都大官薨贈大将軍諡曰惠公子鬰字伏生襲位開府為徐州刺史以黷貨賜死國除長子弼字邕明剛正有文學位中散大夫以世嫡應襲先爵為季父尚書僕射麗因于氏親寵遂奪弼王爵横授同母兄子誕於是弼絶棄人事託疾還私第世宗徵為侍中弼上表固讓入嵩山以穴為室布衣蔬食卒建義元年子暉業訴復王爵永安三年追贈尚書令司徒公諡曰文獻初弼嘗夢人謂之曰君身不得傳世封其紹先爵者君長子紹遠也弼覺即語暉業終如其言暉業少險薄多與寇盜交通長乃變節渉子史亦頗屬文而慷慨有志節歴位司空太尉加特進領中書監錄尚書事齊文襄嘗問之曰比何所披覽對曰數尋伊霍之傳不讀曹馬之書暉業以時運漸謝不復圖全唯事飲啗一日三羊三日一犢又嘗賦詩云昔居王道泰濟濟富羣英今逢世路阻狐兎鬱縱横齊初降封美陽縣公開府儀同三司特進暉業之在晉陽也無所交通居常閑暇乃撰魏藩王家世號為辨宗室録四十卷行於世暉業弟昭業頗有學尚位諫議大夫莊帝将幸洛南昭業立於閶闔門外扣馬諫帝避之而過後勞勉之位給事黄門侍郎衛将軍石光祿大夫卒諡曰文侯鬱弟偃字仲琁位太中大夫卒子誕字曇首初誕伯父鬱以貪汙賜死爵除景明三年誕訴云伯鬱前朝之封正以年長襲封以罪除爵爵由謬襲襲應歸正詔以偃正元妃息曇首濟隂王嫡孫可聼紹封以纂先緒誕既襲爵除齊州刺史在州貪暴大為人患牛馬騾驢無不逼奪家之奴隸悉迫取良人為婦有沙門為誕採藥還而見之誕曰師從外來有何消息對曰唯聞王貪願王早代誕曰齊州七萬戸吾至來一家未得三十錢何得言貪後為御史中尉元纂所糾會赦免薨諡曰静王子撫字伯懿襲莊帝初為從兄暉業訴奪王爵偃弟麗字寳掌位兼宗正卿右衛将軍遷光祿勲宗正右衛如故時秦州屠各王法智推州主簿呂茍兒為主號建明元年置立百官攻逼州郡涇州人陳瞻亦聚衆自稱王號聖明元年詔以麗為使持節都督秦州刺史與别駕楊椿討之茍兒率衆十餘萬屯孤山列據諸險圍逼州城麗出擊大破之便進軍永洛賊徒逆戰麗夜擊走之行秦州事李韶破茍兒于孤山乗勝追奔三十里獲其父母妻子斬賊王五人其餘相繼歸降諸城之圍亦悉奔散茍兒率其王公三十餘人詣麗請罪椿又斬瞻麗因平賊之勢枉掠良善七百餘人世宗嘉其功詔有司不聼追檢拜雍州刺史為政嚴酷吏人患之其妻崔氏誕一男麗遂出州獄囚死及徒流案未申臺者一時放免遷冀州刺史入為尚書左僕射帝問曰聞公在州殺戮無理枉濫非一又大殺道人對曰臣在冀州可殺道人二百許人亦復何多帝曰一物不得其所若納諸隍況殺道人二百而言不多麗脫冠謝賜坐卒諡曰威子顯和少有節操歴司徒記室參軍司徒崔光每見之曰元參軍風流清秀容止閑雅乃宰相之器除徐州安東府長史刺史元法僧叛顯和與戰被擒執手命與連坐顯和曰顯和與阿翁同源别泒皆是磐石之宗一朝以地外叛若遇董狐能無慙徳遂不肻坐法僧猶欲慰喻顯和曰乃可死作惡鬼不能生為叛臣及将殺之神色自若建義初贈秦州刺史汝隂王天賜和平三年封拜鎮南大将軍虎牢鎮都大将後為内都大官髙祖初殿中尚書胡莫寒簡西部勅勒豪富兼丁者為殿中武士而大納財貨簡}
+  - {type: variant, offset: 573, length: 2, content: 才能, WYG: 不平衆怒殺莫寒及髙平假鎮将奚陵於是諸部勅勒悉叛詔天賜與給事中羅雲督諸軍討之前鋒勅勒詐降雲信之副将元伏曰勅勒色動恐将有變今不設備将為所圖雲不從勅勒輕騎數千襲殺雲天賜僅得自全後除征北大将軍䕶匈奴中郎将累遷懐朔鎮大将坐貪殘恕死削除官爵卒髙祖哭於思政觀贈本爵葬從王禮諡曰靈王子逞字萬安卒於齊州刺史諡曰威逞子慶和東豫州刺史為蕭衍将所攻舉城降之衍}
+  - {type: page-break, offset: 573, content: '', id: KR2a0020_WYG_019-13a, image: WYG0261/WYG0261-0281c.png}
+  - {type: variant, offset: 573, length: 2, content: 才能, krp: 不平衆怒殺莫寒及髙平假鎮将奚陵於是諸部勅勒悉叛詔天賜與給事中羅雲督諸軍討之前鋒勅勒詐降雲信之副将元伏曰勅勒色動恐将有變今不設備将為所圖雲不從勅勒輕騎數千襲殺雲天賜僅得自全後除征北大将軍䕶匈奴中郎将累遷懐朔鎮大将坐貪殘恕死削除官爵卒髙祖哭於思政觀贈本爵葬從王禮諡曰靈王子逞字萬安卒於齊州刺史諡曰威逞子慶和東豫州刺史為蕭衍将所攻舉城降之衍}
+  - {type: punctuation, offset: 575, content: ，, id: KR2a0020_ZHSJ_019-bkkpn121}
+  - {type: 'tls:seg', offset: 575, content: '', id: KR2a0020_ZHSJ_019-d19p7s9}
+  - {type: variant, offset: 577, length: 11, content: 僚佐範謙恭惠下推心撫納, WYG: 北道總督魏王至項城朝廷出師討之望風退走衍責之曰言同百舌膽若鼷鼠遂徙合浦逞弟汎字普安自元士稍遷營州刺史性貪殘人不堪命相率逐之汎走平州後除光祿大夫宗正卿封東燕縣男於河隂遇害天賜第五子脩義字壽安渉獵書傳頗有文才為高祖所知自元士稍遷左将軍齊州刺史脩義以齊州頻喪刺史累表固辭詔曰脩短有命吉凶由人何得過致憂憚以乖維城之寄違凶就吉時亦有之可聼更立館宇於是移理東城脩義為政寛和愛人在州四嵗不殺一人}
+  - {type: page-break, offset: 577, content: '', id: KR2a0020_WYG_019-13b, image: WYG0261/WYG0261-0281d.png}
+  - {type: page-break, offset: 577, content: '', id: KR2a0020_WYG_019-14a, image: WYG0261/WYG0261-0282a.png}
+  - {type: variant, offset: 577, length: 11, content: 僚佐範謙恭惠下推心撫納, krp: 北道總督魏王至項城朝廷出師討之望風退走衍責之曰言同百舌膽若鼷鼠遂徙合浦逞弟汎字普安自元士稍遷營州刺史性貪殘人不堪命相率逐之汎走平州後除光祿大夫宗正卿封東燕縣男於河隂遇害天賜第五子脩義字壽安渉獵書傳頗有文才為高祖所知自元士稍遷左将軍齊州刺史脩義以齊州頻喪刺史累表固辭詔曰脩短有命吉凶由人何得過致憂憚以乖維城之寄違凶就吉時亦有之可聼更立館宇於是移理東城脩義為政寛和愛人在州四嵗不殺一人}
+  - {type: punctuation, offset: 579, content: ．, id: KR2a0020_ZHSJ_019-bkkpn122}
+  - {type: 'tls:seg', offset: 579, content: '', id: KR2a0020_ZHSJ_019-d19p7s10}
+  - {type: page-break, offset: 579, content: '', id: KR2a0020_ZHSJ_019-0415a}
+  - {type: line-break, offset: 579, content: '', id: ZHSJ__dup4920}
+  - {type: punctuation, offset: 584, content: ，, id: KR2a0020_ZHSJ_019-bkkpn123}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR2a0020_ZHSJ_019-d19p7s11}
+  - {type: punctuation, offset: 588, content: ，, id: KR2a0020_ZHSJ_019-bkkpn124}
+  - {type: 'tls:seg', offset: 588, content: '', id: KR2a0020_ZHSJ_019-d19p7s12}
+  - {type: variant, offset: 590, length: 0, content: '', WYG: 以是追思之遷秦州刺史肅宗初表陳庶人禧庶人愉等請宥前愆賜葬陵域靈太后詔曰收葬之恩事由上㫖藩岳何得越職干陳在州多受納累遷吏部尚書及在銓衡唯事貨賄授官大小皆有定價時中散大夫高居者有㫖先敘時上黨郡缺居遂求之脩義私已許人抑居不與居大言不遜脩義命左右牽曵之居對大衆呼天唱賊人問居曰白日公庭安得有賊居指脩義曰此座上者違天子明詔物多者得官京師白劫此非大賊乎脩義失色居行罵而出後欲邀車駕論脩義罪狀左僕射蕭寳夤諭之乃止二秦反假脩義兼向書右僕射西道行臺行秦州事為諸軍節度脩義性好酒每飲連日遂遇風病神明昏喪雖至長安竟無部分之益元志敗沒賊東至黒水更遣蕭寳夤討之以脩義為雍州刺史卒於州贈司空諡曰文子均位給事黄門侍郎樂浪王萬壽和平三年封拜征東大将軍鎮和龍性貪暴徵還道憂薨諡曰厲王子康王樂平襲薨子長命襲坐殺人賜死國除子忠肅宗時復前爵位太常少卿出帝汎舟天淵池命宗室諸王陪宴忠愚而無智性好衣服遂著紅羅襦繡作領碧紬袴錦為緣帝謂曰朝廷衣冠應有常式何為著百戲衣忠曰臣少來所愛情存綺羅歌衣舞服是臣所願帝曰人之無良乃至此乎廣平王洛侯和平二年封薨諡曰殤無子後以陽平幽王第五子匡後之匡字建扶性耿介有氣節高宗器之謂曰叔父必能儀刑社稷匡輔朕躬今可改名為匡以成克終之美世宗即位累遷給事黄門侍郎茹皓始有寵百寮微憚之世宗曾於山陵還詔匡陪乗又命皓登車皓褰裳将上匡諫止世宗推之令下皓恨匡失色當時壯其忠謇世宗親政除肆州刺史匡既忤皓懼為所害亷慎自修甚有聲績遷􅁪州刺史徵為大宗正卿河南邑中正匡奏親王及始藩二藩王妻悉有妃號而三藩已下皆謂之妻上不得同為妃名而下不及五品已上有命婦之號竊為疑詔曰夫貴於朝妻榮於室婦女無定升從其夫三藩既啓王封妃名亦宜同等妻者齊也理與已齊可從妃例自是三藩王妻名號始定後除度支尚書匡表引樂陵章武之例求紹洛侯封詔付尚書議尚書奏聼襲封以明興絶之義匡與尚書令高肇不平常無降下之色時世宗委政於肇朝廷傾憚唯匡與肇抗衡先自造棺置於廳事意欲輿棺詣闕論肇罪惡自殺切諫肇聞而惡之後因與太常劉芳議争權量遂與肇聲色御史中尉王顯奏匡曰自金行失御羣偽競興禮壞樂崩彞倫攸斁大魏應期奄有四海高祖孝文皇帝以睿聖統天克復舊典乃命故中書監高閭廣旌儒林推尋樂府依据六經參諸國志以黍裁寸将均周漢舊章屬雲構中遷尚未云就高祖睿思𤣥深參考經記以一黍之大用成分體凖之為尺宣布施行暨正始中故太樂令公孫崇輒自立意以黍十二為寸别造尺度定律刋鍾皆向成訖表求觀試時敕太常卿臣芳以崇造既成請集朝英議其得否芳疑崇尺度與先朝不同察其作者於經史復異推造鮮據非所宜行時尚書令臣肇清河王懌等以崇造乖謬與周禮不同遂奏臣芳依周禮更造成訖量校從其善者而芳以先朝尺度事合古典乃依前詔書以黍刋寸並呈朝廷用裁金石于時議者多云芳是唯黄門侍郎臣孫惠蔚與崇扶同二途參差頻經考議而尚書令臣肇以芳造崇物故之後而惠蔚亦造一尺仍云扶以比崇尺自相乖背量省二三謂芳為得而尚書臣匡表云劉孫二尺長短相傾稽考兩律所容殊異言取中黍校彼二家云並參差抑中無所自立一途請求議判當時議者或是於匡兩途舛駮未即時定肇又云權斛斗尺班行已久今者所論豈喻先㫖宜仰依先朝故尺為定自爾以後而匡與肇厲言都座聲色相加高下失其常倫噂競無復彞序匡更表列據已十是云芳十非又云肇前被敕㫖共芳營督規立鍾石之名希播製作之譽乃憑樞衡之尊藉舅氏之勢與奪任心臧否自已阿黨劉芳遏絶臣事望勢雷同者接以恩言依經按古者即被怒責雖未指鹿化馬移天徙日實使藴藉之士聳氣坐端懐道之夫結舌筵次又言芳昔與崇競恒言自作今共臣論忽}
+  - {type: page-break, offset: 590, content: '', id: KR2a0020_WYG_019-14b, image: WYG0261/WYG0261-0282b.png}
+  - {type: page-break, offset: 590, content: '', id: KR2a0020_WYG_019-15a, image: WYG0261/WYG0261-0282c.png}
+  - {type: page-break, offset: 590, content: '', id: KR2a0020_WYG_019-15b, image: WYG0261/WYG0261-0282d.png}
+  - {type: page-break, offset: 590, content: '', id: KR2a0020_WYG_019-16a, image: WYG0261/WYG0261-0283a.png}
+  - {type: page-break, offset: 590, content: '', id: KR2a0020_WYG_019-16b, image: WYG0261/WYG0261-0283b.png}
+  - {type: page-break, offset: 590, content: '', id: KR2a0020_WYG_019-17a, image: WYG0261/WYG0261-0283c.png}
+  - {type: page-break, offset: 590, content: '', id: KR2a0020_WYG_019-17b, image: WYG0261/WYG0261-0283d.png}
+  - {type: page-break, offset: 590, content: '', id: KR2a0020_WYG_019-18a, image: WYG0261/WYG0261-0284a.png}
+  - {type: variant, offset: 590, length: 0, content: '', krp: 以是追思之遷秦州刺史肅宗初表陳庶人禧庶人愉等請宥前愆賜葬陵域靈太后詔曰收葬之恩事由上㫖藩岳何得越職干陳在州多受納累遷吏部尚書及在銓衡唯事貨賄授官大小皆有定價時中散大夫高居者有㫖先敘時上黨郡缺居遂求之脩義私已許人抑居不與居大言不遜脩義命左右牽曵之居對大衆呼天唱賊人問居曰白日公庭安得有賊居指脩義曰此座上者違天子明詔物多者得官京師白劫此非大賊乎脩義失色居行罵而出後欲邀車駕論脩義罪狀左僕射蕭寳夤諭之乃止二秦反假脩義兼向書右僕射西道行臺行秦州事為諸軍節度脩義性好酒每飲連日遂遇風病神明昏喪雖至長安竟無部分之益元志敗沒賊東至黒水更遣蕭寳夤討之以脩義為雍州刺史卒於州贈司空諡曰文子均位給事黄門侍郎樂浪王萬壽和平三年封拜征東大将軍鎮和龍性貪暴徵還道憂薨諡曰厲王子康王樂平襲薨子長命襲坐殺人賜死國除子忠肅宗時復前爵位太常少卿出帝汎舟天淵池命宗室諸王陪宴忠愚而無智性好衣服遂著紅羅襦繡作領碧紬袴錦為緣帝謂曰朝廷衣冠應有常式何為著百戲衣忠曰臣少來所愛情存綺羅歌衣舞服是臣所願帝曰人之無良乃至此乎廣平王洛侯和平二年封薨諡曰殤無子後以陽平幽王第五子匡後之匡字建扶性耿介有氣節高宗器之謂曰叔父必能儀刑社稷匡輔朕躬今可改名為匡以成克終之美世宗即位累遷給事黄門侍郎茹皓始有寵百寮微憚之世宗曾於山陵還詔匡陪乗又命皓登車皓褰裳将上匡諫止世宗推之令下皓恨匡失色當時壯其忠謇世宗親政除肆州刺史匡既忤皓懼為所害亷慎自修甚有聲績遷恒州刺史徵為大宗正卿河南邑中正匡奏親王及始藩二藩王妻悉有妃號而三藩已下皆謂之妻上不得同為妃名而下不及五品已上有命婦之號竊為疑詔曰夫貴於朝妻榮於室婦女無定升從其夫三藩既啓王封妃名亦宜同等妻者齊也理與已齊可從妃例自是三藩王妻名號始定後除度支尚書匡表引樂陵章武之例求紹洛侯封詔付尚書議尚書奏聼襲封以明興絶之義匡與尚書令高肇不平常無降下之色時世宗委政於肇朝廷傾憚唯匡與肇抗衡先自造棺置於廳事意欲輿棺詣闕論肇罪惡自殺切諫肇聞而惡之後因與太常劉芳議争權量遂與肇聲色御史中尉王顯奏匡曰自金行失御羣偽競興禮壞樂崩彞倫攸斁大魏應期奄有四海高祖孝文皇帝以睿聖統天克復舊典乃命故中書監高閭廣旌儒林推尋樂府依据六經參諸國志以黍裁寸将均周漢舊章屬雲構中遷尚未云就高祖睿思𤣥深參考經記以一黍之大用成分體凖之為尺宣布施行暨正始中故太樂令公孫崇輒自立意以黍十二為寸别造尺度定律刋鍾皆向成訖表求觀試時敕太常卿臣芳以崇造既成請集朝英議其得否芳疑崇尺度與先朝不同察其作者於經史復異推造鮮據非所宜行時尚書令臣肇清河王懌等以崇造乖謬與周禮不同遂奏臣芳依周禮更造成訖量校從其善者而芳以先朝尺度事合古典乃依前詔書以黍刋寸並呈朝廷用裁金石于時議者多云芳是唯黄門侍郎臣孫惠蔚與崇扶同二途參差頻經考議而尚書令臣肇以芳造崇物故之後而惠蔚亦造一尺仍云扶以比崇尺自相乖背量省二三謂芳為得而尚書臣匡表云劉孫二尺長短相傾稽考兩律所容殊異言取中黍校彼二家云並參差抑中無所自立一途請求議判當時議者或是於匡兩途舛駮未即時定肇又云權斛斗尺班行已久今者所論豈喻先㫖宜仰依先朝故尺為定自爾以後而匡與肇厲言都座聲色相加高下失其常倫噂競無復彞序匡更表列據已十是云芳十非又云肇前被敕㫖共芳營督規立鍾石之名希播製作之譽乃憑樞衡之尊藉舅氏之勢與奪任心臧否自已阿黨劉芳遏絶臣事望勢雷同者接以恩言依經按古者即被怒責雖未指鹿化馬移天徙日實使藴藉之士聳氣坐端懐道之夫結舌筵次又言芳昔與崇競恒言自作今共臣論忽}
+  - {type: variant, offset: 591, length: 0, content: '', WYG: 先朝豈不前謂可行輒欲自取後知錯謬便推先朝殊非大臣}
+  - {type: page-break, offset: 591, content: '', id: KR2a0020_WYG_019-18b, image: WYG0261/WYG0261-0284b.png}
+  - {type: variant, offset: 591, length: 0, content: '', krp: 先朝豈不前謂可行輒欲自取後知錯謬便推先朝殊非大臣}
+  - {type: punctuation, offset: 592, content: ．, id: KR2a0020_ZHSJ_019-bkkpn125}
+  - {type: 'tls:seg', offset: 592, content: '', id: KR2a0020_ZHSJ_019-d19p7s13}
+  - {type: variant, offset: 592, length: 0, content: '', WYG: 體深失為下之義復考校勢臣之前量度偏頗之手臣必刖足内朝抱璞人外囂言肆意彰於朝野然匡職當出納獻替所在斗尺權度正是所司若已有所見能練臧否宜應首唱義端早辨諸惑何故嘿心隨從不闗一言見芳成事方有此語計芳才學與匡殊懸所見淺深不應相匹今乃始發恐此由心借智於人規成虚譽況匡表云所據銅權形如古誌明是漢作非莽别造及案權銘云黄帝始祖徳布於虞虞帝始祖徳布於新若莽佐漢}
+  - {type: page-break, offset: 592, content: '', id: KR2a0020_WYG_019-19a, image: WYG0261/WYG0261-0284c.png}
+  - {type: variant, offset: 592, length: 0, content: '', krp: 體深失為下之義復考校勢臣之前量度偏頗之手臣必刖足内朝抱璞人外囂言肆意彰於朝野然匡職當出納獻替所在斗尺權度正是所司若已有所見能練臧否宜應首唱義端早辨諸惑何故嘿心隨從不闗一言見芳成事方有此語計芳才學與匡殊懸所見淺深不應相匹今乃始發恐此由心借智於人規成虚譽況匡表云所據銅權形如古誌明是漢作非莽别造及案權銘云黄帝始祖徳布於虞虞帝始祖徳布於新若莽佐漢}
+  - {type: variant, offset: 593, length: 0, content: '', WYG: 事寧有銘偽新之號哉又尋莽傳云莽居攝即變漢制度考校二證非漢權明矣復云芳之所造又短先朝之尺臣既比之權然相合更云芳尺與千金堰不同臣復量比因見其異二三浮濫難可據凖又云共構虚端妄為疑似託以先朝云非已製臣按此欺詐乃在於匡不在於芳何以言之芳先被勅專造鍾律管籥優劣是其所裁權斛尺度本非其事比前門下索芳尺度而芳牒報云依先朝所班新尺復應下黍更不増損為造鍾律調正分寸而已檢匡造時在牒後一嵗芳於爾日匡未共争已有此牒豈為詐也計崇造寸積黍十二羣情共知而芳造寸唯止十黍亦俱先朝詔書以黍成寸首尾歴然寧有輒欲自取之理肇任居端右百寮是望言行動静必副具瞻若恃權阿黨詐託先詔将指鹿化馬徙日移天即是魏之趙高何以宰物肇若無此匡既誣毁宰相訕謗明時豈應談議之間便有指鹿之事可否之際輕生刖足之言趙高矯惑事屬衰}
+  - {type: page-break, offset: 593, content: '', id: KR2a0020_WYG_019-19b, image: WYG0261/WYG0261-0284d.png}
+  - {type: page-break, offset: 593, content: '', id: KR2a0020_WYG_019-20a, image: WYG0261/WYG0261-0285a.png}
+  - {type: variant, offset: 593, length: 0, content: '', krp: 事寧有銘偽新之號哉又尋莽傳云莽居攝即變漢制度考校二證非漢權明矣復云芳之所造又短先朝之尺臣既比之權然相合更云芳尺與千金堰不同臣復量比因見其異二三浮濫難可據凖又云共構虚端妄為疑似託以先朝云非已製臣按此欺詐乃在於匡不在於芳何以言之芳先被勅專造鍾律管籥優劣是其所裁權斛尺度本非其事比前門下索芳尺度而芳牒報云依先朝所班新尺復應下黍更不増損為造鍾律調正分寸而已檢匡造時在牒後一嵗芳於爾日匡未共争已有此牒豈為詐也計崇造寸積黍十二羣情共知而芳造寸唯止十黍亦俱先朝詔書以黍成寸首尾歴然寧有輒欲自取之理肇任居端右百寮是望言行動静必副具瞻若恃權阿黨詐託先詔将指鹿化馬徙日移天即是魏之趙高何以宰物肇若無此匡既誣毁宰相訕謗明時豈應談議之間便有指鹿之事可否之際輕生刖足之言趙高矯惑事屬衰}
+  - {type: variant, offset: 594, length: 7, content: 土新罹寇賊流亡, WYG: 卞和抱璞時遇暴楚何宜以濟濟之朝而有斯謗}
+  - {type: variant, offset: 594, length: 7, content: 土新罹寇賊流亡, krp: 卞和抱璞時遇暴楚何宜以濟濟之朝而有斯謗}
+  - {type: punctuation, offset: 599, content: ，, id: KR2a0020_ZHSJ_019-bkkpn126}
+  - {type: 'tls:seg', offset: 599, content: '', id: KR2a0020_ZHSJ_019-d19p7s14}
+  - {type: variant, offset: 602, length: 3, content: 相繼範, WYG: 哉阻惑朝聼不敬至甚}
+  - {type: variant, offset: 602, length: 3, content: 相繼範, krp: 哉阻惑朝聼不敬至甚}
+  - {type: punctuation, offset: 604, content: ，, id: KR2a0020_ZHSJ_019-bkkpn127}
+  - {type: 'tls:seg', offset: 604, content: '', id: KR2a0020_ZHSJ_019-d19p7s15}
+  - {type: variant, offset: 606, length: 3, content: 崇易簡, WYG: 以肇匡並禁尚書推窮其原付廷尉定罪詔曰可有司奏匡誣肇處匡死刑世宗恕死降為光禄大夫又兼宗正卿出為兗州刺史匡臨發帝引見於東堂勞勉}
+  - {type: variant, offset: 606, length: 3, content: 崇易簡, krp: 以肇匡並禁尚書推窮其原付廷尉定罪詔曰可有司奏匡誣肇處匡死刑世宗恕死降為光禄大夫又兼宗正卿出為兗州刺史匡臨發帝引見於東堂勞勉}
+  - {type: variant, offset: 610, length: 3, content: 治帝納, WYG: 匡猶以尺度金石}
+  - {type: variant, offset: 610, length: 3, content: 治帝納, krp: 匡猶以尺度金石}
+  - {type: punctuation, offset: 611, content: ，, id: KR2a0020_ZHSJ_019-bkkpn128}
+  - {type: 'tls:seg', offset: 611, content: '', id: KR2a0020_ZHSJ_019-d19p7s16}
+  - {type: line-break, offset: 613, content: '', id: ZHSJ__dup4921}
+  - {type: punctuation, offset: 614, content: ．, id: KR2a0020_ZHSJ_019-bkkpn129}
+  - {type: 'tls:seg', offset: 614, content: '', id: KR2a0020_ZHSJ_019-d19p7s17}
+  - {type: variant, offset: 614, length: 0, content: '', WYG: 事國之大經前雖為南臺所彈然猶許更議若議之日願聼臣暫赴世宗曰劉芳學高一時深明典故其所據者與先朝尺乃寸過一黍何得復云先朝之意也兗州既所執不經後議之日何待赴都也肅宗初入為御史中尉匡嚴於彈紏始奏于忠次彈高聰等免官靈太后並不許以違其糾惡之心又慮匡辭解欲奨安之進號安南将軍後加鎮東将軍匡屢請更權衡不已}
+  - {type: page-break, offset: 614, content: '', id: KR2a0020_WYG_019-20b, image: WYG0261/WYG0261-0285b.png}
+  - {type: variant, offset: 614, length: 0, content: '', krp: 事國之大經前雖為南臺所彈然猶許更議若議之日願聼臣暫赴世宗曰劉芳學高一時深明典故其所據者與先朝尺乃寸過一黍何得復云先朝之意也兗州既所執不經後議之日何待赴都也肅宗初入為御史中尉匡嚴於彈紏始奏于忠次彈高聰等免官靈太后並不許以違其糾惡之心又慮匡辭解欲奨安之進號安南将軍後加鎮東将軍匡屢請更權衡不已}
+  - {type: variant, offset: 616, length: 0, content: '', WYG: 詔曰謹權審度自昔令典定章革歴往代良規匡宗室賢亮留心既久可令更集儒貴以時驗決必務權衡得衷令寸籥不舛又詔曰故廣平殤王洛侯體自恭宗茂年薨殞國除祀廢不祀忽諸匡親同若子私繼嵗久宜樹維城永兹磐石可特襲王爵封東平郡王匡所制尺度訖請集朝士議定是非詔付門下尚書三府九列議定以聞太師高陽王雍等議曰伏惟高祖創改權量已定匡今新造微有參差且匡云所造尺度與漢志王莽權斛不殊又晉中書監荀朂云後漢至魏尺長於古四分有餘於是依周禮積黍以起度量惟古玉律及鍾}
+  - {type: page-break, offset: 616, content: '', id: KR2a0020_WYG_019-21a, image: WYG0261/WYG0261-0285c.png}
+  - {type: variant, offset: 616, length: 0, content: '', krp: 詔曰謹權審度自昔令典定章革歴往代良規匡宗室賢亮留心既久可令更集儒貴以時驗決必務權衡得衷令寸籥不舛又詔曰故廣平殤王洛侯體自恭宗茂年薨殞國除祀廢不祀忽諸匡親同若子私繼嵗久宜樹維城永兹磐石可特襲王爵封東平郡王匡所制尺度訖請集朝士議定是非詔付門下尚書三府九列議定以聞太師高陽王雍等議曰伏惟高祖創改權量已定匡今新造微有參差且匡云所造尺度與漢志王莽權斛不殊又晉中書監荀朂云後漢至魏尺長於古四分有餘於是依周禮積黍以起度量惟古玉律及鍾}
+  - {type: variant, offset: 617, length: 1, content: 徭, WYG: 改正之尋朂所造之尺}
+  - {type: variant, offset: 617, length: 1, content: 徭, krp: 改正之尋朂所造之尺}
+  - {type: punctuation, offset: 618, content: ，, id: KR2a0020_ZHSJ_019-bkkpn130}
+  - {type: 'tls:seg', offset: 618, content: '', id: KR2a0020_ZHSJ_019-d19p7s18}
+  - {type: variant, offset: 619, length: 0, content: '', WYG: 高祖所定毫釐畧同又侍中崔光得古象尺于時亦凖議令施用仰惟孝文皇帝徳邁前王睿明下燭不刋之式事難變改臣等參論請停匡議永遵先皇之制詔從之匡每有奏請尚書令任城王澄時致執奪匡剛隘内遂不平先所造棺猶在僧寺乃復修事将與澄相攻澄頗知之後将赴省與匡逢遇騶卒相撾朝野駭愕澄因是奏匡罪狀三十餘條廷尉處以死刑詔付八座議特加原宥削爵除官三公郎中辛雄奏理之後特除平州刺史徙青州刺史尋為闗右都督兼尚書行臺遇疾還京孝昌初卒諡曰文貞後追復本爵改封濟南王第四子獻襲齊受禪爵例降魏書卷十九上魏書卷十九上考證景穆十二王列傳上魏收書闕後}
+  - {type: page-break, offset: 619, content: '', id: KR2a0020_WYG_019-21b, image: WYG0261/WYG0261-0285d.png}
+  - {type: page-break, offset: 619, content: '', id: KR2a0020_WYG_019-22a, image: WYG0261/WYG0261-0286a.png}
+  - {type: page-break, offset: 619, content: '', id: KR2a0020_WYG_019-22b, image: WYG0261/WYG0261-0286b.png}
+  - {type: page-break, offset: 619, content: '', id: KR2a0020_WYG_019-23a, image: WYG0261/WYG0261-0286c.png}
+  - {type: variant, offset: 619, length: 0, content: '', krp: 高祖所定毫釐畧同又侍中崔光得古象尺于時亦凖議令施用仰惟孝文皇帝徳邁前王睿明下燭不刋之式事難變改臣等參論請停匡議永遵先皇之制詔從之匡每有奏請尚書令任城王澄時致執奪匡剛隘内遂不平先所造棺猶在僧寺乃復修事将與澄相攻澄頗知之後将赴省與匡逢遇騶卒相撾朝野駭愕澄因是奏匡罪狀三十餘條廷尉處以死刑詔付八座議特加原宥削爵除官三公郎中辛雄奏理之後特除平州刺史徙青州刺史尋為闗右都督兼尚書行臺遇疾還京孝昌初卒諡曰文貞後追復本爵改封濟南王第四子獻襲齊受禪爵例降魏書卷十九上魏書卷十九上考證景穆十二王列傳上魏收書闕後}
+  - {type: variant, offset: 620, length: 2, content: 休息, WYG: 所補樂浪王萬壽傳浪目錄作良魏書卷十九上考證欽定四庫全書魏書卷十九中齊魏收撰列傳第七中景穆十二王任城王任城王雲年五歲恭宗崩號哭不絶聲世祖聞之而呼抱之泣曰汝何知而有成人之意也和平五年封拜使持節侍中征東大將軍和龍鎮都大將顯祖時拜都督中外諸軍事中都坐大官聽理民訟甚收時譽延興中顯祖集羣寮欲禪位於京兆王子推王公卿士莫敢先言雲進曰陛下方隆太平臨覆四海豈得上違宗廟下棄兆民父子相傳其来久矣皇魏之興未之有革皇儲正統聖徳夙章陛下必欲割捐塵務頤神清曠者冡副之寄宜紹寶厯若欲捨儲輕移宸極恐非先聖之意駭動人情又天下是祖宗之天下而陛下輒改神器上乖七廟之靈下長姦亂之道此是禍福所由願深思慎之太尉源賀又進曰陛下今欲外選諸王而禪位于皇叔者臣恐春秋蒸嘗昭穆有亂脫萬世之}
+  - {type: page-break, offset: 620, content: '', id: KR2a0020_WYG_019-23b, image: WYG0261/WYG0261-0286d.png}
+  - {type: page-break, offset: 620, content: '', id: KR2a0020_WYG_019-24a, image: WYG0261/WYG0261-0287a.png}
+  - {type: page-break, offset: 620, content: '', id: KR2a0020_WYG_019-24b, image: WYG0261/WYG0261-0287b.png}
+  - {type: page-break, offset: 620, content: '', id: KR2a0020_WYG_019-25a, image: WYG0261/WYG0261-0287c.png}
+  - {type: variant, offset: 620, length: 2, content: 休息, krp: 所補樂浪王萬壽傳浪目錄作良魏書卷十九上考證欽定四庫全書魏書卷十九中齊魏收撰列傳第七中景穆十二王任城王任城王雲年五歲恭宗崩號哭不絶聲世祖聞之而呼抱之泣曰汝何知而有成人之意也和平五年封拜使持節侍中征東大將軍和龍鎮都大將顯祖時拜都督中外諸軍事中都坐大官聽理民訟甚收時譽延興中顯祖集羣寮欲禪位於京兆王子推王公卿士莫敢先言雲進曰陛下方隆太平臨覆四海豈得上違宗廟下棄兆民父子相傳其来久矣皇魏之興未之有革皇儲正統聖徳夙章陛下必欲割捐塵務頤神清曠者冡副之寄宜紹寶厯若欲捨儲輕移宸極恐非先聖之意駭動人情又天下是祖宗之天下而陛下輒改神器上乖七廟之靈下長姦亂之道此是禍福所由願深思慎之太尉源賀又進曰陛下今欲外選諸王而禪位于皇叔者臣恐春秋蒸嘗昭穆有亂脫萬世之}
+  - {type: punctuation, offset: 622, content: ．, id: KR2a0020_ZHSJ_019-bkkpn131}
+  - {type: 'tls:seg', offset: 622, content: '', id: KR2a0020_ZHSJ_019-d19p7s19}
+  - {type: variant, offset: 623, length: 2, content: 劉潔, WYG: 必有逆饗}
+  - {type: variant, offset: 623, length: 2, content: 劉潔, krp: 必有逆饗}
+  - {type: variant, offset: 626, length: 2, content: 謀範, WYG: 譏深願思任城之言東陽公元丕等進曰皇太子雖聖徳夙彰然實沖幼陛下富於春秋始覽機政普天景仰率土傒心欲隆獨善不以萬物為意其若宗廟何其若億兆何顯祖曰儲宮正統受終文祖羣公相之有何不可於是傳位於髙祖後蠕蠕犯塞雲為中軍大都督從顯祖討之遇於大磧事具蠕蠕傳後仇池氐反以雲為征西大將軍討平之除都督徐兖二州緣淮諸軍事征東大將軍開府徐州刺史雲以太妃蓋氏薨表求解任顯祖不許雲悲號動疾乃許之性善撫綏得徐方之心為百姓所追戀送遺錢貨一無所受顯祖}
+  - {type: page-break, offset: 626, content: '', id: KR2a0020_WYG_019-25b, image: WYG0261/WYG0261-0287d.png}
+  - {type: variant, offset: 626, length: 2, content: 謀範, krp: 譏深願思任城之言東陽公元丕等進曰皇太子雖聖徳夙彰然實沖幼陛下富於春秋始覽機政普天景仰率土傒心欲隆獨善不以萬物為意其若宗廟何其若億兆何顯祖曰儲宮正統受終文祖羣公相之有何不可於是傳位於髙祖後蠕蠕犯塞雲為中軍大都督從顯祖討之遇於大磧事具蠕蠕傳後仇池氐反以雲為征西大將軍討平之除都督徐兖二州緣淮諸軍事征東大將軍開府徐州刺史雲以太妃蓋氏薨表求解任顯祖不許雲悲號動疾乃許之性善撫綏得徐方之心為百姓所追戀送遺錢貨一無所受顯祖}
+  - {type: punctuation, offset: 627, content: ，, id: KR2a0020_ZHSJ_019-bkkpn132}
+  - {type: 'tls:seg', offset: 627, content: '', id: KR2a0020_ZHSJ_019-d19p7s20}
+  - {type: variant, offset: 630, length: 2, content: 不告, WYG: 嘉之復拜侍中中都大官賜帛千匹羊千口出為冀州刺史仍本將軍雲留心政}
+  - {type: variant, offset: 630, length: 2, content: 不告, krp: 嘉之復拜侍中中都大官賜帛千匹羊千口出為冀州刺史仍本將軍雲留心政}
+  - {type: punctuation, offset: 632, content: ．, id: KR2a0020_ZHSJ_019-bkkpn133}
+  - {type: 'tls:seg', offset: 632, content: '', id: KR2a0020_ZHSJ_019-d19p7s21}
+  - {type: variant, offset: 633, length: 9, content: 發因疾暴薨長子良世, WYG: 甚得下情於是合州請户輸絹五尺粟五升以報雲恩髙}
+  - {type: variant, offset: 633, length: 9, content: 發因疾暴薨長子良世, krp: 甚得下情於是合州請户輸絹五尺粟五升以報雲恩髙}
+  - {type: punctuation, offset: 634, content: ，, id: KR2a0020_ZHSJ_019-bkkpn134}
+  - {type: 'tls:seg', offset: 634, content: '', id: KR2a0020_ZHSJ_019-d19p7s22}
+  - {type: punctuation, offset: 638, content: ．, id: KR2a0020_ZHSJ_019-bkkpn135}
+  - {type: xml-element, offset: 638, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele14}
+  - {type: xml-element, offset: 638, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele15}
+  - {type: 'tls:seg', offset: 638, content: '', id: KR2a0020_ZHSJ_019-d19p8s1}
+  - {type: line-break, offset: 638, content: '', id: ZHSJ__dup4922}
+  - {type: punctuation, offset: 641, content: ．, id: KR2a0020_ZHSJ_019-bkkpn136}
+  - {type: 'tls:seg', offset: 641, content: '', id: KR2a0020_ZHSJ_019-d19p8s2}
+  - {type: variant, offset: 643, length: 7, content: 未有子嘗曰兄弟, WYG: 嘉}
+  - {type: variant, offset: 643, length: 7, content: 未有子嘗曰兄弟, krp: 嘉}
+  - {type: punctuation, offset: 646, content: ，, id: KR2a0020_ZHSJ_019-bkkpn137}
+  - {type: 'tls:seg', offset: 646, content: '', id: KR2a0020_ZHSJ_019-d19p8s3}
+  - {type: punctuation, offset: 648, content: ：, id: KR2a0020_ZHSJ_019-bkkpn138}
+  - {type: 'tls:seg', offset: 648, content: '', id: KR2a0020_ZHSJ_019-d19p8s4}
+  - {type: punctuation, offset: 648, content: 「, id: KR2a0020_ZHSJ_019-bkkpn139}
+  - {type: variant, offset: 651, length: 16, content: 子猶子也親撫養之長而壯勇多知常參, WYG: 遷使持節都督陜西諸}
+  - {type: variant, offset: 651, length: 16, content: 子猶子也親撫養之長而壯勇多知常參, krp: 遷使持節都督陜西諸}
+  - {type: punctuation, offset: 655, content: ．, id: KR2a0020_ZHSJ_019-bkkpn140}
+  - {type: punctuation, offset: 655, content: 」, id: KR2a0020_ZHSJ_019-bkkpn141}
+  - {type: 'tls:seg', offset: 655, content: '', id: KR2a0020_ZHSJ_019-d19p8s5}
+  - {type: punctuation, offset: 659, content: ．, id: KR2a0020_ZHSJ_019-bkkpn142}
+  - {type: 'tls:seg', offset: 659, content: '', id: KR2a0020_ZHSJ_019-d19p8s6}
+  - {type: punctuation, offset: 665, content: ，, id: KR2a0020_ZHSJ_019-bkkpn143}
+  - {type: 'tls:seg', offset: 665, content: '', id: KR2a0020_ZHSJ_019-d19p8s7}
+  - {type: page-break, offset: 667, content: '', id: KR2a0020_WYG_019-26a, image: WYG0261/WYG0261-0288a.png}
+  - {type: variant, offset: 668, length: 1, content: 國, WYG: 事征南}
+  - {type: variant, offset: 668, length: 1, content: 國, krp: 事征南}
+  - {type: line-break, offset: 669, content: '', id: ZHSJ__dup4923}
+  - {type: variant, offset: 670, length: 7, content: 計高宗時襲王拜, WYG: 將軍}
+  - {type: variant, offset: 670, length: 7, content: 計高宗時襲王拜, krp: 將軍}
+  - {type: punctuation, offset: 671, content: ．, id: KR2a0020_ZHSJ_019-bkkpn144}
+  - {type: 'tls:seg', offset: 671, content: '', id: KR2a0020_ZHSJ_019-d19p8s8}
+  - {type: punctuation, offset: 674, content: ，, id: KR2a0020_ZHSJ_019-bkkpn145}
+  - {type: 'tls:seg', offset: 674, content: '', id: KR2a0020_ZHSJ_019-d19p8s9}
+  - {type: punctuation, offset: 676, content: ．, id: KR2a0020_ZHSJ_019-bkkpn146}
+  - {type: 'tls:seg', offset: 676, content: '', id: KR2a0020_ZHSJ_019-d19p8s10}
+  - {type: punctuation, offset: 683, content: 、, id: KR2a0020_ZHSJ_019-bkkpn147}
+  - {type: punctuation, offset: 687, content: ，, id: KR2a0020_ZHSJ_019-bkkpn148}
+  - {type: 'tls:seg', offset: 687, content: '', id: KR2a0020_ZHSJ_019-d19p8s11}
+  - {type: variant, offset: 687, length: 0, content: '', WYG: 雲廉謹自修留心庶獄挫抑豪彊羣盗息止州民頌之者千有餘人文明太后嘉之賜帛千匹太和五年薨於州遺令薄葬勿受賵襚諸子奉遵其㫖喪至京師車駕親臨哭之哀慟贈以本官諡曰康陪葬雲中之金陵雲長子澄字道鎮少而好學及康王薨澄居喪以孝聞襲封加征北大將軍髙祖時蠕蠕犯塞加澄使持節都督北討諸軍事以討之蠕蠕遁走又以氐羌反叛除都督梁益荆三州諸軍事征南大將軍梁州刺史文明太后引見澄誡厲之顧謂中書令李沖曰此兒風神吐發徳音閑婉當}
+  - {type: page-break, offset: 687, content: '', id: KR2a0020_WYG_019-26b, image: WYG0261/WYG0261-0288b.png}
+  - {type: variant, offset: 687, length: 0, content: '', krp: 雲廉謹自修留心庶獄挫抑豪彊羣盗息止州民頌之者千有餘人文明太后嘉之賜帛千匹太和五年薨於州遺令薄葬勿受賵襚諸子奉遵其㫖喪至京師車駕親臨哭之哀慟贈以本官諡曰康陪葬雲中之金陵雲長子澄字道鎮少而好學及康王薨澄居喪以孝聞襲封加征北大將軍髙祖時蠕蠕犯塞加澄使持節都督北討諸軍事以討之蠕蠕遁走又以氐羌反叛除都督梁益荆三州諸軍事征南大將軍梁州刺史文明太后引見澄誡厲之顧謂中書令李沖曰此兒風神吐發徳音閑婉當}
+  - {type: variant, offset: 688, length: 1, content: 內, WYG: 宗室領袖是行使之必稱我意卿但記之我不妄談人物也梁州氐帥楊仲顯婆羅楊卜兄弟及符叱盤等自以居邊地險世為凶狡澄至州量彼風俗誘導懷附表送婆羅授仲顯循城鎮副將楊卜廣業太守叱槃固道鎮副將自餘首帥各随才而用之款附者賞違命加誅於是仇池帖然西南款順加侍中賜衣一襲乘馬一匹以旌其能後轉征東大将軍開府徐州刺史甚有聲績朝於京師引見於皇信堂髙祖詔澄曰昔鄭子産鑄刑書而晉叔向非之此二人皆是賢士得失竟誰對曰鄭國寡弱攝於彊鄰民情去就非刑莫制故鑄刑書以示威雖乖古式合今權道隨時濟世子産為得而叔向譏議示不忘古可與論道未可語權髙祖曰任城當欲為魏之子産也澄曰子産道合當時聲流竹素臣既庸近何敢庶幾今陛下以四海為家宣文徳以懐天下但江外尚阻車書未一季世之民易以威伏難以禮治愚謂子産之法猶應暫用大同之後便以道化之髙祖心方革變深善其對笑曰非任城無以識變化之體朕方剏改朝制當與任城共萬世之功耳後徴為中書令改授尚書令蕭賾使庾蓽来朝蓽見澄音韻遒雅風儀秀逸謂主客郎張彝曰往魏任城以武著稱今魏任城乃以文見羙也時詔延四廟之子下逮𤣥孫之胄申宗宴於皇信堂不以爵秩為列悉序昭穆為次用家人之禮髙祖曰行禮已畢欲令宗室各言其志可率賦詩特令澄為七言連韻與髙祖往復賭賽遂至極懽際夜乃罷後髙祖外示南討意在謀遷齋於明堂左个詔太常卿王諶親令龜卜易筮南伐之事其兆遇革髙祖曰此是湯武革命順天應人之卦也羣臣莫敢言澄進曰易言革者更也將欲應天順人革君臣之命湯武得之為吉陛下帝有天下重光累葉今日卜征乃可伐叛不得云革命此非君人之卦未可全為吉也髙祖厲聲曰象云大人虎變何言不吉也澄曰陛下龍興既久豈可方同虎變髙祖勃然作色曰社稷我社稷任城而欲沮衆也澄曰社稷誠知陛下之社稷然臣是社稷之臣子豫參顧問敢盡愚衷髙祖既銳意必行惡澄此對久之乃解曰各言其志亦復何傷車駕還宮便召澄未及昇階遙謂曰向者之革卦今更欲論之明堂之忿懼衆人競言阻我大計故厲色怖文武耳想解朕意也乃獨謂澄曰今日之行誠知不易但國家興自北土徙居平城雖富有四海文軌未一此間用武之地非可文治移風易俗信為甚難崤函帝宅河洛王里因兹大舉光宅中原任城意以為何如澄曰伊洛中區均天下所據陛下制御華夏輯平九服蒼生聞此應當大慶髙祖曰北人戀本忽聞將移不能不驚擾也澄曰此既非常之事當非常人所知唯須決之聖懷此輩亦何能為也髙祖曰任城便是我之子房加撫軍大将軍太子少保又兼尚書左僕射及駕幸洛陽定遷都之䇿髙祖詔曰遷移之㫖必湏訪衆當遣任城馳驛向代問彼百司論擇可否近日論革今真所謂革也王其勉之既至代都衆聞遷詔莫不驚駭澄援引今古徐以曉之衆乃開伏澄遂南馳還報會車駕於滑臺髙祖大悅曰若非任城朕事業不得就也從幸鄴宮除吏部尚書及幸代車駕北巡留澄銓簡舊臣初魏自公侯以下迄于選臣動有萬數冗散無事澄品為三等量其優劣盡其能否之用咸無怨者駕還洛京復兼右僕射髙祖至北邙遂幸洪池命澄侍昇龍舟因賦詩以序懷高祖曰朕昨夜夢一老公頭鬢皓白正理冠服拜立路左朕怪而問之自云晉侍中嵇紹故此奉迎神爽卑懼似有求焉澄對曰晉世之亂嵇紹以身衞主殞命御側亦是晉之忠臣比干遭紂兇虐忠諫剖心可謂殷之良士二人俱死於王事墳塋竝在於道周然陛下徙御殷洛經瀍墟而弔比干至洛陽而遺嵇紹當是希恩而感夢髙祖曰朕何徳能幽感逹士也然實思追禮先賢標揚忠懿比干嵇紹皆是古之誠烈而朕務濃於比干禮略於嵇紹情有愧然既有此夢或如任城所言於是求其兆城遣使弔祭焉蕭鸞既殺蕭昭業而自立昭業雍州刺史曹虎請以襄陽内附分遣諸將車駕將自赴之豫州又表虎奉誠之使不復重來髙祖引澄及咸陽王禧彭城王勰司徒馮誕司空穆亮鎮南李沖等議之高祖曰比得邉州表云襄陽慕化朕將鳴鑾江沔為彼聲勢今復表稱更無後信於行留之計竟欲如何禧等或云宜行或言宜止髙祖曰衆人紛紜意見不等朕莫知所從必欲盡行留之勢使言理俱暢者宜有客主共相起發任城與鎮南為應留之議朕當為宜行之論諸公俱坐聼得失長者從之於是髙祖曰二賢試言留計也沖對曰臣等正以徒御草剏人斯樂安内而應者未審不宜輕爾動發髙祖曰襄陽款問似當是虚亦知初遷之民無宜勞役脫歸誠有實即當乘其悅附遠則有會稽之會近則略平江北如其送款是虚且可遊巡淮楚問民之瘼使彼土蒼生知君徳之所在復何所損而惜此一舉脫降問是實而停不撫接不亦稽阻款誠毁朕大略也澄曰降問若審應有表質而使人一返静無音問其詐也可見今代遷之衆人懷戀本細累相攜始就洛邑居無一椽之室家闕儋石之糧而使怨苦即戎泣當白刄恐非歌舞之師也今兹區字初構又東作方興正是子來百堵之日農夫肆力之秋宜寛彼逋誅惠此民庶且三軍已援無稽赴接茍其款實力足納撫待剋平襄沔然後動駕今無故勞涉空為往返恐挫損天威更成賊膽願上覽盤庚始遷之艱難下矜詩人由庚之至詠輯寧新邑惠康億兆而司空亮以為宜行公卿皆同之澄謂亮曰公在外見旌鉞既張而有憂色每聞談論不願此行何得對聖顔更如斯之語也面背不同事渉欺佞非所謂論道之徳更失國士之體或有傾側當由公輩佞臣李沖曰任城王可謂忠於社稷願陛下深察其言臣等在外皆憚征行唯貴與賤不謀同辭仰願聖心裁其可否髙祖曰任城適以公等從朕有如此論不從朕者何必皆忠而通識安危也小忠是大忠之賊無乃似諸澄曰臣既愚闇不識大理所可言者雖渉小忠要是竭盡微款不知大忠者竟何據髙祖曰任城脫居台鼎之任欲令大忠在已也澄曰臣誠才非台弼智闕和鼎脫得濫居公鉉庶當官而行不負愚志髙祖大笑澄又謂亮曰昔汲黯於漢武前面折公孫食脫粟飯臥布被云其詐也于時公孫謙讓下之武帝歎汲黯至忠公孫長者二人稱賢公既道均昔士願思長者之言髙祖笑曰任城欲自比汲黯也且所言是公未知得失所在何便謝司空也駕遂南伐五等開建食邑一千户後從征至懸瓠以篤疾還京駕餞之汝濆賦詩而别車駕還洛引見王公侍臣於清徽堂髙祖曰此堂成來未與王公行宴樂之禮後東閤廡堂粗復始就故今與諸賢欲無髙而不升無小而不入因之流化渠髙祖曰此曲水者亦有其義取乾道曲成萬物無滯次之洗煩池髙祖曰此池中亦有嘉魚澄曰此所謂魚在在藻有頒其首髙祖曰且取王在靈沼於牣魚躍次之觀徳殿髙祖曰射以觀徳故遂命之次之凝閑堂髙祖曰名目要有其義此葢取夫子閑居之義不可縱奢以忘儉自安以忘危故此堂後作茅茨堂謂李沖曰此東曰歩元廡西曰遊凱廡此堂雖無唐堯之君卿等當無愧於元凱沖對曰臣既遭唐堯之君不敢辭元凱之譽髙祖曰光景垂落朕同宗則有載考之義卿等將出無遠何得黙爾不示徳音即命黄門侍郎崔光郭祚通直郎邢巒崔休等賦詩言志燭至公卿辭退李沖再拜上千萬歲壽髙祖曰卿向以燭至致辭復獻千萬之壽朕報卿以南山之詩髙祖曰燭至辭退庶姓之禮在夜載考宗族之義卿等且還朕與諸王宗室欲成此夜飲又從幸鄴還洛以出納之勞增邑五百户坐公事免官尋兼吏部尚書恒州刺史穆泰在州謀反推朔州刺史陽平王頤為主頤表其狀髙祖召澄入見凝閑堂曰適得陽平表曰穆泰謀為不軌招誘宗室脫或必然遷京甫爾北人戀舊南北紛擾朕洛陽不立也此事非任城不辦可謂我力疾向北如其弱也直往擒翦若其勢彊可承制發并肆兵以殄之雖知王患既是國家大事不容辭也澄曰泰等愚惑正戀本為此非有遠圖臣誠怯弱不憚是輩雖復患惙豈敢有辭謹當罄盡心力繼之以死願陛下勿憂髙祖笑曰得任城此行朕復何憂也遂授節銅虎竹使符御仗左右仍行恒州事行逹鴈門太守夜告泰已握衆西就陽平城下聚結唯見弓仗澄聞便速進時右丞孟斌曰事不可量湏依勅召并肆兵然後徐動澄曰泰既構逆應據堅城而更迎陽平度其所為似當勢弱泰既不相拒無故發兵非宜也但速往鎮之民心自定遂倍道兼行出其不意又遣治書侍御史李煥先赴至即擒泰民情怡然窮其黨與罪人皆得鉅鹿公陸叡安樂侯元隆等百餘人皆獄禁具狀表聞髙祖覽表大悅召集公卿以下以表示之曰我任城可謂社稷臣也尋其罪案正復臯陶斷獄豈能過之顧謂咸陽王等曰汝等脫當其處不能辦此車駕尋幸平城勞澄曰任城此行深副逺寄對曰陛下威靈逺被罪人無所逃刑臣何勞之有引見逆徒無一人稱枉時人莫不歎之髙祖顧謂左右曰昔仲尼云聽訟吾猶人也必也使無訟乎然聖人之聽訟殆非常人所匹必也無訟今日見之矣以澄正尚書車駕南伐留澄居守復兼右僕射澄表請以國秩一歳租布帛助供軍資詔受其半髙祖幸鄴值髙車樹者反叛車駕將親討之澄表諫不宜親行會江陽王繼平之乃止髙祖還洛引見公卿髙祖曰營國之本禮教為先朕離京邑以來禮教為日新以不澄對曰臣謂日新髙祖曰朕昨入城見車上婦人冠帽而著小襦襖者若為如此尚書何為不察澄曰著猶少於不著者髙祖曰深可怪也任城意欲令全著乎一言可以喪邦者斯之謂歟可命史官書之又曰王者不降佐於蒼昊皆拔才而用之朕失於舉人任許一羣婦人輩竒事當更銓簡耳任城在省為舉天下綱維為當署事而已澄曰臣實署事而已髙祖曰如此便一令史足矣何待任城又曰我遣舍人宣詔何為使小人聞之澄曰時雖有幹吏去榜亦遠髙祖曰遠則不聞聞則不遠既得聞詔理故可知於是留守羣臣遂免冠謝罪尋除尚書右僕射蕭寶卷遣其太尉陳顯逹入寇漢陽是時髙祖不豫引澄入見清徽堂詔曰顯逹侵亂沔陽不安朕不親行莫攘此賊朕疾患淹年氣力惙敝如有非常委任城大事是役任城必湏從朕澄涕泣對曰臣謹當竭股肱之力以命上報遂從駕南伐髙祖崩澄受顧命世宗初有降人嚴叔懋告尚書令王肅遣孔思逹潛通寳卷圖為叛逆寳卷遣俞公喜送勅於肅公喜還南肅與裴叔業馬為信澄信之乃表肅將叛輒下禁止咸陽北海二王奏澄擅禁宰輔免官歸第尋出為平西將軍梁州刺史辭以母老除安東將軍相州刺史復固辭改授安西將軍雍州刺史尋徴赴季秋講武除都督淮南諸軍事鎮南大將軍開府揚州刺史下車封孫叔敖之墓毁蔣子文之廟頻表南伐世宗不許又辭母老乞解州任寢而不報加散騎常侍澄表曰臣參訓先朝藉規有日前言舊軌頗亦聞之又昔在恒代親習皇宗熟祕序疑庭無闕日臣每於侍坐先帝未嘗不以書典在懷禮經為事周旋之則不輟於時自鳯舉中京方隆禮教宗室之範每蒙委及四門之選負荷銓量自先皇升遐未遑修述學宮虚荷四門之名宗人有闕四時之業青衿之緒於兹将廢臣每惟其事竊所傷懷伏惟聖略宏遠四方罕務宴安之辰於是乎在何為太平之世而令子衿之歎興焉聖明之日而使宗人之訓闕焉愚謂可勅有司修復皇宗之學開闢四門之教使將落之族日就月將詔曰胄子崇業自古盛典國均之訓無應久廢尚書更可量宜修立澄又表母疾解州任不聽蕭衍將張囂之寇陷夷陵戍澄遣輔國將軍成興歩騎赴討大破之復夷陵囂之遁走又遣長風戍主竒道顯攻蕭衍隂山戍破之斬其戍主龍驤將軍都亭侯梅興祖仍引攻白稾戍又破之斬其寧朔將軍關内侯呉道爽澄表曰蕭衍頻斷東闗欲令巢湖汎溢湖周回四百餘里東闗合江之際廣不過數十歩若賊計得成大湖傾注者則淮南諸戍必同晉陽之事矣又吴楚便水且灌且掠淮南之地將非國有壽陽去江五百餘里衆庶惶惶竝懼水害脫乘民之願攻敵之虚豫勒諸州纂集士馬首秋大集則南瀆可為飲馬之津霍嶺必成徙倚之觀事貴應機經略湏早縱混一不可必果江西自是無虞若猶豫緩圖不加除討闗塞旣成襄陵方及平原民戍定為魚矣詔發冀定瀛相并濟六州二萬人馬一千五百匹令仲秋之中畢會淮南并壽陽先兵三萬委澄經略先是朝議有南伐之意以蕭寳夤為東揚州刺史據東城陳伯之為江州刺史戍陽石以澄總督二鎮授之節度至是勒兵進討以東闗水衝大峴險要東闗縱水陽石合肥有急懸之切不圖大峴則歴陽有乘險之援淮陵陸道九山水路竝宜經略於是遣統軍傅豎眼王神念等進次大峴東闗九山淮陵皆分部諸將倍道據之總勒大衆絡繹相接而神念剋其闗要潁川二城斬衍軍主費尼而寧朔將軍韋惠龍驤將軍李伯由仍固大峴澄遣統軍党法宗傅豎眼等進軍剋之遂圍白塔牽城數日之間便即逃潰衍青溪戍望風散走衍徐州刺史司馬明素率衆三千欲援九山徐州長史潘伯隣規固淮陵寧朔將軍王夑負險焦城法宗進克焦城破淮陵擒明素斬伯隣其濟隂太守王厚彊廬江太守裴邃即亦奔退詔澄曰將軍文徳内昭武功外暢奮揚大略將蕩江呉長旌始舒賊徒懾氣鋭旅方馳東闗席卷想江湖弭波在旦夕耳所送首虜竝已聞之初澄出討之後衍將姜慶真襲據壽春外郭齊王蕭寳夤擊走之長史韋績坐免官澄以在外無坐遂攻鍾離又詔鍾離若食盡三月已前固有可剋如至四月淮水泛長舟行無礙宜善量之前事捷也此實將軍經略勲有常焉如或以水盛難圖亦可為萬全之計不宜昧利無成以貽後悔也蕭衍冠軍將軍張惠紹遊擊將軍殷暹驍騎將軍趙景悅龍驤將軍張景仁等率衆五千送糧鍾離澄遣統軍王足劉思祖等邀撃惠紹等大破之獲惠紹殷暹景仁及其屯騎校尉史文淵等軍主以上二十七人既而遇雨淮水暴長引歸壽春還既狼狽失兵四千餘人頻表解州世宗不許有司奏軍還失路奪其開府又降三階時蕭衍有移求換張惠紹澄表請不許詔付八座會議尚書令廣陽王嘉等奏宜還之詔乃聽還後果復寇邊轉澄鎮北大将軍定州刺史初民中每有横調百姓煩苦前後牧守未能蠲除澄多所省減民以忻賴又明黜陟賞罰之法表減公園之地以給無業貧口禁造布絹不任衣者母孟太妃薨居喪毁瘠當世稱之服闋除太子太保於是髙肈當朝猜忌賢戚澄為肈間構常恐不全乃終日昏飲以示荒敗所作詭越時謂為狂世宗夜崩時事倉卒髙肈擁兵於外肅宗沖幼朝野不安澄疎斥不預機要而朝望所屬領軍于忠侍中崔光等奏澄為尚書令於是衆心忻服又加散騎常侍驃騎大將軍尋遷司空加侍中俄詔領尚書令初正始之末詔百司普昇一級而執事者不逹㫖意刺史守令限而不及澄奏曰竊惟雲構鬱起澤及百司企春望榮内外同慶至於賞渉不及守宰爾來十年寃訟不絶封回自鎮遠安州入為太尉長史元匡自征虜恒州入作宗卿二人遷授竝在先詔應蒙之理備在於斯兼州佐停私之徒陪臣郡丞之例尚蒙天澤下降榮及當時然參佐之來皆因府主今府主不霑佐官獨預棄本賞末愚謂未允今計刺史守宰之官請凖封回悉同汎限上允初㫖百司之章下覆訟者元元之心詔曰自今已後内外之事嘗經先朝者不得重聞澄奏曰臣聞堯懸諫諍之鼓舜置誹謗之木皆所以廣耳目於芻蕘逹四聰於天下伏惟太祖開基化隆自遠累聖相承於今九帝重光疊照汚隆必同與奪随時道無恒體思過如渇言重千金故稱無諱之朝邁蹤三五髙祖沖年纂厯文明協統變官易律未為違典及慈聖臨朝毋儀㝢縣爰發慈令垂心滯獄深枉者仰日月於九泉微屈者希曲照於盆下今乃格以先朝限以一例斯誠奉遵之本心實乖元元之至望在于謙挹有乖舊典謹尋抱枉求直或經累朝毫釐之差正之宜速謬若千里駟馬弗追故禮有損益事有可否父有諍子君有諫臣琴瑟不調理宜改作是以防川之論小決則通鄉校之言擁則敗國矧伊陳屈而可抑以先朝且先朝屈者非故屈之或有司愛憎或執事濁僻空文致法以誤視聽如此寃塞彌在可哀僭之與濫寧失不經乞收今㫖還依前詔詔曰省奏深體毗贊之情三皇異軌五代殊風一時之制何必詮改必謂虚文設㫖理在可申者何容不同來執可依往制澄表上皇誥宗制并訓詁各一卷意欲皇太后覽之思勸戒之益又奏利國濟民所宜振舉者十條一曰律度量衡公私不同所宜一之二曰宜興學校以明黜陟之法三曰宜興滅繼絶各舉所知四曰五調之外一不煩民任民之力不過三日五曰臨民之官皆湏黜陟以旌賞罰六曰逃亡代輸去來年久者若非伎作任聽即住七曰邊兵逃走或實陷没皆湏精檢三長及近親若實隱之徴其代輸不隱勿論八曰工商世業之户復徴租調無以堪濟今請免之使專其業九曰三長禁姦不得隔越相領户不滿者随近并合十曰羽林虎賁邊方有事暫可赴戰常戍宜遣蕃兵代之靈太后下其奏百寮議之事有同否時四中郎將兵數寡弱不足以襟帶京師澄奏宜以東中帶滎陽郡南中帶魯陽郡西中帶恒農郡北中帶河内郡選二品三品親賢兼稱者居之省非急之作配以彊兵如此則深根固本彊幹弱枝之義也靈太后初将從之後議者不同乃止澄又重奏曰固本宜彊防微在豫故雖有文事不忘武功况今南蠻仍獷北妖頻結來事難圖勢同往變脫暴勃忽起振動關畿四府羸卒何以防擬平康之世可以寄安遺之久長恐非善策如臣愚見郎将領兵兼總民職省官實祿於是乎在求還依前増兵益號將位既重則念報亦深軍郡相依則表裏俱濟朝廷無四顧之憂姦宄絶窺覦之望矣卒不納又以流人初至遠鎮衣食無資多有死者奏并其妻子給糧一歲從之尋以疾患求解任不許蕭衍於浮山斷淮為堰以灌壽春乃除使持節大将軍大都督南討諸軍事勒衆十萬将出彭宋尋淮堰自壞不行澄以北邊鎮將選舉彌輕恐賊虜闚邊山陵危廹奏求重鎮将之選修警備之嚴詔不從賊虜入寇至於舊都鎮將多非其人所在叛亂犯逼山陵如澄所慮澄奏都城府寺猶未周悉今軍旅初寧無宜發衆請取諸職人及司州郡縣犯十杖已上百鞭已下收贖之物絹一匹輸塼二百以漸修造詔從之太傅清河王懌表奏其事遂寢不行澄又奏曰臣聞賞必以道用防淫人之姦罰不濫及以戒良士之困刑者侀也毎垂三宥秉律執請不得已而用之是故小大之獄察之以情一人呼嗟或虧王道刑罰得失乃興廢之所由也竊聞司州牧髙陽王臣雍拷殺奉朝請韓元昭前門下錄事姚敬賢雖因公事理實未盡何者太平之世草不横伐行葦之感事驗隆周若昭等狀彰死罪以定應刑於都市與衆棄之如其疑似不分情理未究不宜以三清九流之官杖下便死輕絶民命傷理敗法往年州於大市鞭殺五人及檢贓狀全無寸尺今復酷害一至於此朝野云云咸懷驚愕若殺生在下虐專於臣人君之權安所復用自開古以來明明之世未聞斯比也武王曰吾不以一人之命而易天下蓋重民命也請以見事付廷尉推究驗其為劫之狀察其拷殺之理使是非分明幽魂獲雪詔從之澄當官而行無所回避又奏墾田授受之制八條甚有綱貫大便於時前來尚書文簿諸曹須則出借時公車署以理寃事重奏請真案澄執奏以尚書政本特宜遠慎故凡所奏事閣道通之蓋以祕要之切防其宣露寧有古制所重今反輕之内猶設禁外更寛也宜繕寫事意以付公車詔從之西域嚈噠波斯諸國各因公使並遺澄駿馬一匹澄請付太僕以充國閑詔曰王廉貞之徳有過楚相可勑付廐以成君子大哉之美御史中尉東平王匡奏請取景明元年以來内外考簿吏部除書中兵勲案并諸殿最欲以案校竊階盜官之人靈太后許之澄表曰臣聞三季之弊由於煩刑火徳之興在於三約是以老聃云法令滋彰盜賊多有又曰其政察察其民缺缺又曰天網恢恢疎而不漏是故欲求治本莫若省事清心昔漢文斷獄四百幾致刑措省事所致也蕭曹為相載其清静畫一之歌清心之本也今欲求之於本宜以省事為先使在位羣官纂蕭曹之心以毗聖化如此則上下相安遠近相信百司不怠事無愆失豈宜擾世敎以深文烹小鮮以煩手哉臣竊惟景明之初暨永平之末内外羣官三經考課逮延昌之始方加黜陟五品以上引之朝堂親決聖目六品以下例由勑判自世宗晏駕大宥三行所以蕩除故意與物更始革世之事方相窮覈以臣愚見謂為不可又尚書職分樞機出納昔魏明帝卒至尚書門陳矯亢辭帝慙而返夫以萬乘之重非所宜行猶屈一言慙而回駕羣官百司而可相亂乎故陳平不知錢榖之數丙吉不問僵道之死當時以為逹治歴代用為美談但宜各守其職思不出位潔已以勵時靖恭以致節又尋御史之體風聞是司至於冒勲妄考皆有處别若一處有風謡即應攝其一簿研檢虚實若差舛不同偽情自露然後繩以典刑人孰不服豈有移一省之案取天下之簿尋兩紀之事窮革世之尤如此求過誰堪其罪斯實聖朝所宜重慎也靈太后納之乃止後遷司徒公侍中尚書令如故澄又表曰伏惟世宗宣武皇帝命将授旗随陸啟顙運籌制勝淮漢自賔節用勞心志清六合是故纘武修文仍世彌盛陛下當周康靖治之時豈得宴安於𤣥默然取外之理要由内彊圖人之本先在自備蕭衍雖虐使其民而窺覦不已若遇我虚疲士民凋窘賊衍年老志張思播虺毒此之弗圖恐受其病伏惟陛下妙齡在位聖徳方昇皇太后總御天機乾乾夕惕若留意於負荷忿車書之未一進賢拔能重官人之舉標賞忠清旌養人之器修干戈之用畜熊虎之士愛時鄙財輕寳重榖七八年間陛下聖略方剛親王徳幹壮茂将相膂力未衰愚臣猶堪戎伍荷戈帶甲之衆蓄銳於今燕弧冀馬之盛充牣在昔又賊衍惡積禍盈勢不能久子弟闇悖釁逆已彰亂亡之兆灼然可見兼弱有徴天與不遠大同之機宜湏蓄備昔漢帝力疾討滅英布髙皇臥病親除顯逹夫以萬乘之主豈忘宴安實以侵名亂正計不得已今宜慕二帝之遠圖以肅寧為大任然頃年以來東西難寇艱虞之興首尾連接雖尋得翦除亦大損財力且饑饉之氓散亡莫保收入之賦不増出用之費彌衆不愛力以悅民無豊資以待敵此臣所以夙夜懷憂悚息不寧者也易曰何以守位曰仁何以聚人曰財故曰財者非天不生非地不長非時不成非人不聚生聚之由如此其難集人守位若此之重興替之道焉可不慮又古者使民歲不過三日食壮者之糧任老者之智此雖太平之法難卒而因然妨民害財不亦宜戒今墉雉素修廐庫崇列雖府寺膠塾少有未周大抵省府粗得庇憇理務諸寺靈塔俱足致虔講道唯明堂辟雍國禮之大來冬司徒兵至請籌量減徹專力經營務令早就其廣濟數施之財酬商互市之弊凡所營造自非供御切湏戎仗急要亦宜微減以務阜積庶府無横損民有全力夫食上簋而嬀徳昭􅃦畢室而禹功盛章臺麗而楚力衰阿宮壮而秦財竭存亡之由灼然可覩願思前王一同之功畜力聚財以待時會靈太后銳於繕興在京師則起永寧太上公等佛寺功費不少外州各造五級佛圖又數為一切齋會施物動至萬計百姓疲於土木之功金銀之價為之踊上削奪百官事力費損庫藏兼曲賚左右日有數千澄故有此表雖卒不從常優答禮之政無大小皆引參决澄亦盡心匡輔事有不便於民者必於諫諍雖不見用殷勤不已内外咸敬憚之神龜二年薨年五十三賻布一千二百匹錢六十萬蠟四百斤給東園溫明祕器朝服一具衣一襲大鴻臚監護喪事詔百寮興喪贈假黄鉞使持節都督中外諸軍事太傅領太尉公加以殊禮備九錫依晉大司馬齊王攸故事諡曰文宣王澄之葬也凶飾甚盛靈太后親送郊外停輿悲哭哀動左右百官㑹赴千餘人莫不歔欷當時以為哀榮之極第四子彞襲彝字子倫繼室馮氏所生頗有父風拜通直散騎常侍及元义專權而彜恥於託附故不得顯職荘帝初河隂遇害贈車騎将軍儀同三司青州刺史諡曰文子度世襲武定中金紫光祿大夫齊受禪爵例降彜兄順字子和九歲師事樂安陳豐初書王羲之小學篇數千言晝夜誦之旬有五日一皆通徹豐竒之白澄曰豐十五從師迄于白首耳目所經未見此比江夏黃童不得無雙也澄笑曰藍田生玉何容不爾十六通杜氏春秋恒集門生討論異同于時四方無事國富民康豪貴子弟率以朋遊為樂而順下帷讀書篤志愛古性謇諤淡於榮利好飲酒解鼓琴每長吟永歎吒詠虚室世宗時上魏頌文多不載起家為給事中時尚書令髙肇帝舅權重天下人士望塵拜伏順曽懷刺詣肇門門者以其年少答云在坐大有貴客不肯為通順叱之曰任城王兒可是賤也及見直往登牀捧手抗禮王公先逹莫不怪慴而順辭吐傲然若無所覩肇謂衆賔曰此兒豪氣尚爾况其父乎及出肇加敬送之澄聞之大怒杖之數十後超轉中書侍郎俄遷太常少卿以父憂去職哭泣嘔血身自負土時年二十五便有白髮免喪抽去不復更生世人以為孝思所致尋除給事黄門侍郎時領軍元义威勢尤盛凡有遷授莫不造門謝謁順拜表而已曽不詣义义謂順曰卿何謂聊不見我順正色曰天子富於春秋委政宗輔叔父宜以至公為心舉士報國如何賣恩責人私謝豈所望也至於朝論得失順常鯁言正議曽不阿旨由此見憚出除平北將軍恒州刺史順謂义曰北鎮紛紜方為國梗桑乾舊都根本所繫請假都督為國捍屏义心疑難不欲授以兵官謂順曰此朝廷之事非我所裁順曰叔父既握國柄殺生由己自言天之歴數應在我躬何得復有朝廷也义彌忿憚之轉為安東將軍齊州刺史順自負有才不得居内每懷鬱怏形於言色遂縱酒歡娱不親政事义解領軍徴為給事黄門侍郎親友郊迎賀其得入順曰不患不入正恐入而復出耳俄兼殿中尚書轉侍中初中山王熙起兵討元义不果而誅及靈太后反政方得改葬順侍坐西遊園因奏太后曰臣昨往看中山家葬非唯宗親京其寃酷行路士女見其一家七䘮皆為澘然莫不酸泣义妻時在太后側順指之曰陛下柰何以一妹之故不服元义之罪使天下懷寃太后嘿然不語就徳興反於營州使尚書盧同往討之大敗而返屬侍中穆紹與順侍坐因論同之罪同先有近宅借紹紹頗欲為言順勃然曰盧同終將無罪太后曰何得如侍中之言順曰同有好宅與要勢侍中豈慮罪也紹慙不敢復言靈太后頗事糚飾數出遊幸順面諍曰禮婦人夫䘮自稱未亡人首去珠玉衣不被綵陛下母臨天下年垂不惑過甚修飾何以示後世靈太后慙而不出還入宮責順曰千里相徴豈欲衆中見辱也順曰陛下盛服炫容不畏天下所笑何恥臣之一言乎初城陽王徽慕順才名偏相結納而廣陽王淵姦徽妻于氏大為嫌隙及淵自定州被徴入為吏部尚書兼中領軍順為詔書辭頗優美徽疑順為淵左右由是與徐紇間順於靈太后出順為護軍將軍太常卿順奉辭於西遊園徽紇侍側順指之謂靈太后曰此人魏之宰嚭魏國不滅終不死亡紇脅肩而出順遂抗聲叱之曰爾刀筆小人正堪為機案之吏寧應忝兹執㦸虧我彜倫遂振衣而起靈太后嘿而不言時追論順父顧託之功増任城王彜邑二千户又析彜邑五百户以封順為東阿縣開國公順疾徽等間之遂為蠅賦曰余以仲秋休沐端坐衡門寄想琴書託情紙翰而蒼蠅小蟲往來牀几疾其變白聊為賦云遐哉大道廓矣洪氛肈立秋夏爰啟冬春既含育於萬性又芻狗而不仁随因緣以授體齊美惡而無分生兹穢類靡益於人名備羣品聲損衆倫欹脛纖翼紫首蒼身飛不能逈聲若遠聞點緇成素變白為黒寡愛蘭芳偏貪穢食集桓公之屍居平叔之側亂鷄鳴之響毁皇宮之飾習習户庭營營榛棘反覆往還譬彼讒賊膚受既通譖潤罔極緝緝幡幡交亂四國於是妖姬進邪士來聖賢擁忠孝摧周昌拘於牖里天乙囚於夏臺伯竒為之痛結申生為之蒙災鴟鴞悲其室採葛懼其懷小弁隕其涕靈均表其哀自古明哲猶如此何况中庸與凡才若夫天生地養各有所親獸必依地鳥亦憑雲或來儀以呈祉或自擾而見文或負圖而歸徳或銜書以告真或夭胎而奉味或殘軀以獻珍或主皮而興禮或牢豢以供神雖死生之異質俱有益於國人非如蒼蠅之無用唯構亂於蒸民遂屬疾在家杜絕慶弔後除吏部尚書兼右僕射及上省登階向榻見榻甚故問都令史徐仵起仵起曰此榻曽經先王坐順即哽塞涕泗交流久而不能言遂令換之時三公曹令史朱暉素事錄尚書髙陽王雍雍欲以為廷尉評頻請託順順不為用雍遂下命用之順投之於地雍聞之大怒昧爽坐都廳召尚書及丞郎畢集欲待順至於衆挫之順日髙方至雍攘􅃑撫几而言曰身天子之子天子之弟天子之叔天子之相四海之内親尊莫二元順何人以身成命投棄於地順鬚鬢俱張仰面看屋憤氣奔涌長歔而不言久之搖一白羽扇徐而謂雍曰髙祖遷宅中土剏定九流官方清濁軌儀萬古而朱暉小人身為省吏何合為廷尉清官殿下既先皇同氣宜遵成㫖自有恒規而復踰之也雍曰身為丞相錄尚書如何不得用一人為官順曰庖人雖不治庖尸祝不得越樽俎而代之未聞有别旨令殿下參選事順又厲聲曰殿下必如是順當依事奏聞雍遂笑而言曰豈可以朱暉小人便相忿恨遂起呼順入室與之極飲順之亢毅不撓皆此類也後除征南將軍右光祿大夫轉兼左僕射爾朱榮之奉荘帝召百官悉至河隂素聞順數諫諍惜其亮直謂朱瑞曰可語元僕射但在省不湏來順不逹其旨聞害衣冠遂便出走為陵戸鮮于康奴所害家徒四壁無物斂屍止有書數千卷而已門下通事令史王才逹裂裳覆之荘帝還宮遣黄門侍郎山偉廵喻京邑偉臨順喪悲慟無已既還荘帝怪而問曰黄門何為聲散偉以狀對莊帝勑侍中元祉曰宗室䘮亡非一不可周贍元僕射清苦之節死乃益彰特贈絹百匹餘不得例贈驃騎大將軍尚書令司徒公定州刺史諡曰文烈順撰帝錄二十卷詩賦表頌數十篇今多亡失長子朗時年十七枕戈潛伏積年乃手刃康奴以首祭於順墓然後詣闕請罪朝廷嘉而不問朗渉歴書記為司徒屬天平中為奴所害贈都督瀛冀二州諸軍事闕二字將軍尚書右僕射冀州刺史順弟淑淑弟悲並早卒悲弟紀字子綱永熙中給事黄門侍郎隨出帝沒於闗中澄弟嵩字道岳髙祖時自中大夫遷員外常侍轉歩兵校尉大司馬安定王休薨未及卒哭嵩便遊田髙祖聞而大怒詔曰嵩不能克己復禮企心典憲大司馬薨殂甫爾便以鷹鷂自娱有如父之痛無猶子之情捐心棄禮何其太速便可免官後從平沔北累有戰功除左中郎將兼武衞將軍髙祖南伐蕭寶卷將陳顯逹率衆拒戰嵩身備三仗免胄直前將士從之顯逹奔潰斬獲萬計嵩於爾日勇冠三軍髙祖大悦而言曰任城康王大有福徳文武頓出其門以功賜爵髙平縣侯賚帛二千五百疋初髙祖之發洛也馮皇后以罪幽於宮内既平顯逹回次榖唐原高祖疾甚將賜后死曰使人不易可得顧謂任城王澄曰任城必不負我嵩亦當不負任城可使嵩也於是引嵩入内親詔遣之世宗即位以武衛將軍兼侍中出為平南將軍荆州刺史嵩表曰蕭寳卷骨肉相殘忠良先戮臣下囂然莫不離背君臣擕貳干戈日尋流聞寳卷雍州刺史蕭衍兄懿於建業阻兵與寳卷相持荆郢二州刺史並是寳卷之弟必有圖衍之志臣若遣書相聞迎其本謀冀獲同心并力除衍一衍之後彼必旋師赴救丹陽當不能復經營疆陲全固襄沔臣之軍威已得臨據則沔南之地可一舉而收緣漢曜兵示以威徳思歸有道者則引而納之受疑告危者則援而接之總兵竚鋭觀釁伺隙若其零落之形已彰怠懈之勢已著便可順流摧鋒長驅席卷詔曰所陳嘉謀深是良計如當機形可進任將軍裁之既而蕭衍尋克建業乃止除平北將軍恒州刺史轉平東將軍徐州刺史又轉安南將軍揚州刺史蕭衍湘州刺史楊公則率衆二萬屯軍洛口姜慶真領卒五千據於首陂又遣其左軍將軍騫小眼軍主何天祚張俊興等率衆七千攻圍陸城嵩乃遣統軍封邁王會等步騎八千討之邁逹陸城賊皆夜遁追擊破之斬獲數千公則慶真退還馬頭衍徐州刺史昌義之屯據髙皇遣三軍潛寇隂陵以淮水淺竭不通舩艦屯於馬頭衍將田道龍何景先等領卒三千已至衡山規寇陸城寇並充逼嵩遣兼統軍李叔仁等援合肥小峴楊石頻戰破之衍征虜將軍趙革屯於黄口嵩遣軍司趙熾等往討之先遣統軍安伯醜潛師夜渡伏兵下蔡革率卒四千逆來拒戰伯醜與下蔡戍主王虎等前後夾擊大敗之俘斬溺死四千徐人統軍李叔仁等夜襲硤石之賊又破之衍將姜慶真專據肥汭冠軍將軍曹天寳屯於鷄口軍主尹明世屯東硤石嵩遣别將羊引次于淮西去賊營十里司馬趙熾率兵一萬為表裏聲勢衆軍既會分擊賊之四壘四壘之賊戰敗奔走斬獲數千溺死萬數統軍牛敬賔攻硤石明世宵遁慶真合餘燼浮淮下下蔡戍主王略截流擊之俘斬大半於是威名大振後為蒼頭李太伯等同謀害嵩並妻穆氏及子世賢世宗為嵩舉哀於東堂賻絹一千疋贈車騎將軍領軍諡曰剛侯第二子世儁頗有幹用而無行業襲爵除給事中東宮舎人伯父澄表求轉階授之於是除員外散騎常侍肅宗時追論嵩勲封世儁衛縣開國男食邑二百户遷冠軍將軍宗正少卿又為散騎常侍安南將軍武衛將軍河南尹尋除鎮東將軍青州刺史轉征東將軍加散騎常侍邢杲之亂圍逼州城世儁憑城拒守遂得保全孝荘時除衛將軍吏部尚書尒朱兆寇京師詔世儁以本官為都督防守河橋及兆至河世儁初無拒守意便隔岸遙拜時論疾之前廢帝世為驃騎將軍仍加尚書尤為尒朱世隆所昵出帝初加儀同三司改封武陽縣開國子食邑五百戸世儁居選曹不能厲心多所受納為中尉彈紏坐免官尋復本職孝静初加侍中尚書右僕射遷尚書令世儁輕薄好去就詔送晉陽興和中薨贈侍中都督冀定瀛殷四州諸軍事驃騎大將軍太傅定州刺史尚書令開國公如故諡曰躁戾子景遠襲散騎侍郎世賢弟世哲武定中吏部郎嵩弟贍字道周髙祖時自闕大夫稍遷宗正少卿龍驤將軍光州刺史散騎常侍左將軍遷平東將軍兖州刺史頗愛書史而貪暴好殺澄深恥忿之絕其往來有四子長子遠尚書郎史臣曰顯祖之將禪讓可謂國之大節康王毅然庭諍徳音孔昭一言興邦其斯之謂歟文宣貞固俊遠鬱為宗傑身因累朝寧濟夷險既社稷是任其梁棟之望也順謇諤俶儻有汲黯之風不用於時横招非命惜矣嵩有行陳之氣儁則裂冠之徒歟魏書卷十九中魏書卷十九中考證任城王雲傳拜都督中外諸軍事中都坐大官北史作中}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-27a, image: WYG0261/WYG0261-0288c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-27b, image: WYG0261/WYG0261-0288d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-28a, image: WYG0261/WYG0261-0289a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-28b, image: WYG0261/WYG0261-0289b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-29a, image: WYG0261/WYG0261-0289c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-29b, image: WYG0261/WYG0261-0289d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-30a, image: WYG0261/WYG0261-0290a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-30b, image: WYG0261/WYG0261-0290b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-31a, image: WYG0261/WYG0261-0290c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-31b, image: WYG0261/WYG0261-0290d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-32a, image: WYG0261/WYG0261-0291a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-32b, image: WYG0261/WYG0261-0291b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-33a, image: WYG0261/WYG0261-0291c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-33b, image: WYG0261/WYG0261-0291d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-34a, image: WYG0261/WYG0261-0292a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-34b, image: WYG0261/WYG0261-0292b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-35a, image: WYG0261/WYG0261-0292c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-35b, image: WYG0261/WYG0261-0292d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-36a, image: WYG0261/WYG0261-0293a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-36b, image: WYG0261/WYG0261-0293b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-37a, image: WYG0261/WYG0261-0293c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-37b, image: WYG0261/WYG0261-0293d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-38a, image: WYG0261/WYG0261-0294a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-38b, image: WYG0261/WYG0261-0294b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-39a, image: WYG0261/WYG0261-0294c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-39b, image: WYG0261/WYG0261-0294d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-40a, image: WYG0261/WYG0261-0295a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-40b, image: WYG0261/WYG0261-0295b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-41a, image: WYG0261/WYG0261-0295c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-41b, image: WYG0261/WYG0261-0295d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-42a, image: WYG0261/WYG0261-0296a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-42b, image: WYG0261/WYG0261-0296b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-43a, image: WYG0261/WYG0261-0296c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-43b, image: WYG0261/WYG0261-0296d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-44a, image: WYG0261/WYG0261-0297a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-44b, image: WYG0261/WYG0261-0297b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-45a, image: WYG0261/WYG0261-0297c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-45b, image: WYG0261/WYG0261-0297d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-46a, image: WYG0261/WYG0261-0298a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-46b, image: WYG0261/WYG0261-0298b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-47a, image: WYG0261/WYG0261-0298c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-47b, image: WYG0261/WYG0261-0298d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-48a, image: WYG0261/WYG0261-0299a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-48b, image: WYG0261/WYG0261-0299b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-49a, image: WYG0261/WYG0261-0299c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-49b, image: WYG0261/WYG0261-0299d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-50a, image: WYG0261/WYG0261-0300a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-50b, image: WYG0261/WYG0261-0300b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-51a, image: WYG0261/WYG0261-0300c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-51b, image: WYG0261/WYG0261-0300d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-52a, image: WYG0261/WYG0261-0301a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-52b, image: WYG0261/WYG0261-0301b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-53a, image: WYG0261/WYG0261-0301c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-53b, image: WYG0261/WYG0261-0301d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-54a, image: WYG0261/WYG0261-0302a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-54b, image: WYG0261/WYG0261-0302b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-55a, image: WYG0261/WYG0261-0302c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-55b, image: WYG0261/WYG0261-0302d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-56a, image: WYG0261/WYG0261-0303a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-56b, image: WYG0261/WYG0261-0303b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-57a, image: WYG0261/WYG0261-0303c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-57b, image: WYG0261/WYG0261-0303d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-58a, image: WYG0261/WYG0261-0304a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-58b, image: WYG0261/WYG0261-0304b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-59a, image: WYG0261/WYG0261-0304c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-59b, image: WYG0261/WYG0261-0304d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-60a, image: WYG0261/WYG0261-0305a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-60b, image: WYG0261/WYG0261-0305b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-61a, image: WYG0261/WYG0261-0305c.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-61b, image: WYG0261/WYG0261-0305d.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-62a, image: WYG0261/WYG0261-0306a.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-62b, image: WYG0261/WYG0261-0306b.png}
+  - {type: page-break, offset: 688, content: '', id: KR2a0020_WYG_019-63a, image: WYG0261/WYG0261-0306c.png}
+  - {type: variant, offset: 688, length: 1, content: 內, krp: 宗室領袖是行使之必稱我意卿但記之我不妄談人物也梁州氐帥楊仲顯婆羅楊卜兄弟及符叱盤等自以居邊地險世為凶狡澄至州量彼風俗誘導懷附表送婆羅授仲顯循城鎮副將楊卜廣業太守叱槃固道鎮副將自餘首帥各随才而用之款附者賞違命加誅於是仇池帖然西南款順加侍中賜衣一襲乘馬一匹以旌其能後轉征東大将軍開府徐州刺史甚有聲績朝於京師引見於皇信堂髙祖詔澄曰昔鄭子産鑄刑書而晉叔向非之此二人皆是賢士得失竟誰對曰鄭國寡弱攝於彊鄰民情去就非刑莫制故鑄刑書以示威雖乖古式合今權道隨時濟世子産為得而叔向譏議示不忘古可與論道未可語權髙祖曰任城當欲為魏之子産也澄曰子産道合當時聲流竹素臣既庸近何敢庶幾今陛下以四海為家宣文徳以懐天下但江外尚阻車書未一季世之民易以威伏難以禮治愚謂子産之法猶應暫用大同之後便以道化之髙祖心方革變深善其對笑曰非任城無以識變化之體朕方剏改朝制當與任城共萬世之功耳後徴為中書令改授尚書令蕭賾使庾蓽来朝蓽見澄音韻遒雅風儀秀逸謂主客郎張彝曰往魏任城以武著稱今魏任城乃以文見羙也時詔延四廟之子下逮𤣥孫之胄申宗宴於皇信堂不以爵秩為列悉序昭穆為次用家人之禮髙祖曰行禮已畢欲令宗室各言其志可率賦詩特令澄為七言連韻與髙祖往復賭賽遂至極懽際夜乃罷後髙祖外示南討意在謀遷齋於明堂左个詔太常卿王諶親令龜卜易筮南伐之事其兆遇革髙祖曰此是湯武革命順天應人之卦也羣臣莫敢言澄進曰易言革者更也將欲應天順人革君臣之命湯武得之為吉陛下帝有天下重光累葉今日卜征乃可伐叛不得云革命此非君人之卦未可全為吉也髙祖厲聲曰象云大人虎變何言不吉也澄曰陛下龍興既久豈可方同虎變髙祖勃然作色曰社稷我社稷任城而欲沮衆也澄曰社稷誠知陛下之社稷然臣是社稷之臣子豫參顧問敢盡愚衷髙祖既銳意必行惡澄此對久之乃解曰各言其志亦復何傷車駕還宮便召澄未及昇階遙謂曰向者之革卦今更欲論之明堂之忿懼衆人競言阻我大計故厲色怖文武耳想解朕意也乃獨謂澄曰今日之行誠知不易但國家興自北土徙居平城雖富有四海文軌未一此間用武之地非可文治移風易俗信為甚難崤函帝宅河洛王里因兹大舉光宅中原任城意以為何如澄曰伊洛中區均天下所據陛下制御華夏輯平九服蒼生聞此應當大慶髙祖曰北人戀本忽聞將移不能不驚擾也澄曰此既非常之事當非常人所知唯須決之聖懷此輩亦何能為也髙祖曰任城便是我之子房加撫軍大将軍太子少保又兼尚書左僕射及駕幸洛陽定遷都之䇿髙祖詔曰遷移之㫖必湏訪衆當遣任城馳驛向代問彼百司論擇可否近日論革今真所謂革也王其勉之既至代都衆聞遷詔莫不驚駭澄援引今古徐以曉之衆乃開伏澄遂南馳還報會車駕於滑臺髙祖大悅曰若非任城朕事業不得就也從幸鄴宮除吏部尚書及幸代車駕北巡留澄銓簡舊臣初魏自公侯以下迄于選臣動有萬數冗散無事澄品為三等量其優劣盡其能否之用咸無怨者駕還洛京復兼右僕射髙祖至北邙遂幸洪池命澄侍昇龍舟因賦詩以序懷高祖曰朕昨夜夢一老公頭鬢皓白正理冠服拜立路左朕怪而問之自云晉侍中嵇紹故此奉迎神爽卑懼似有求焉澄對曰晉世之亂嵇紹以身衞主殞命御側亦是晉之忠臣比干遭紂兇虐忠諫剖心可謂殷之良士二人俱死於王事墳塋竝在於道周然陛下徙御殷洛經瀍墟而弔比干至洛陽而遺嵇紹當是希恩而感夢髙祖曰朕何徳能幽感逹士也然實思追禮先賢標揚忠懿比干嵇紹皆是古之誠烈而朕務濃於比干禮略於嵇紹情有愧然既有此夢或如任城所言於是求其兆城遣使弔祭焉蕭鸞既殺蕭昭業而自立昭業雍州刺史曹虎請以襄陽内附分遣諸將車駕將自赴之豫州又表虎奉誠之使不復重來髙祖引澄及咸陽王禧彭城王勰司徒馮誕司空穆亮鎮南李沖等議之高祖曰比得邉州表云襄陽慕化朕將鳴鑾江沔為彼聲勢今復表稱更無後信於行留之計竟欲如何禧等或云宜行或言宜止髙祖曰衆人紛紜意見不等朕莫知所從必欲盡行留之勢使言理俱暢者宜有客主共相起發任城與鎮南為應留之議朕當為宜行之論諸公俱坐聼得失長者從之於是髙祖曰二賢試言留計也沖對曰臣等正以徒御草剏人斯樂安内而應者未審不宜輕爾動發髙祖曰襄陽款問似當是虚亦知初遷之民無宜勞役脫歸誠有實即當乘其悅附遠則有會稽之會近則略平江北如其送款是虚且可遊巡淮楚問民之瘼使彼土蒼生知君徳之所在復何所損而惜此一舉脫降問是實而停不撫接不亦稽阻款誠毁朕大略也澄曰降問若審應有表質而使人一返静無音問其詐也可見今代遷之衆人懷戀本細累相攜始就洛邑居無一椽之室家闕儋石之糧而使怨苦即戎泣當白刄恐非歌舞之師也今兹區字初構又東作方興正是子來百堵之日農夫肆力之秋宜寛彼逋誅惠此民庶且三軍已援無稽赴接茍其款實力足納撫待剋平襄沔然後動駕今無故勞涉空為往返恐挫損天威更成賊膽願上覽盤庚始遷之艱難下矜詩人由庚之至詠輯寧新邑惠康億兆而司空亮以為宜行公卿皆同之澄謂亮曰公在外見旌鉞既張而有憂色每聞談論不願此行何得對聖顔更如斯之語也面背不同事渉欺佞非所謂論道之徳更失國士之體或有傾側當由公輩佞臣李沖曰任城王可謂忠於社稷願陛下深察其言臣等在外皆憚征行唯貴與賤不謀同辭仰願聖心裁其可否髙祖曰任城適以公等從朕有如此論不從朕者何必皆忠而通識安危也小忠是大忠之賊無乃似諸澄曰臣既愚闇不識大理所可言者雖渉小忠要是竭盡微款不知大忠者竟何據髙祖曰任城脫居台鼎之任欲令大忠在已也澄曰臣誠才非台弼智闕和鼎脫得濫居公鉉庶當官而行不負愚志髙祖大笑澄又謂亮曰昔汲黯於漢武前面折公孫食脫粟飯臥布被云其詐也于時公孫謙讓下之武帝歎汲黯至忠公孫長者二人稱賢公既道均昔士願思長者之言髙祖笑曰任城欲自比汲黯也且所言是公未知得失所在何便謝司空也駕遂南伐五等開建食邑一千户後從征至懸瓠以篤疾還京駕餞之汝濆賦詩而别車駕還洛引見王公侍臣於清徽堂髙祖曰此堂成來未與王公行宴樂之禮後東閤廡堂粗復始就故今與諸賢欲無髙而不升無小而不入因之流化渠髙祖曰此曲水者亦有其義取乾道曲成萬物無滯次之洗煩池髙祖曰此池中亦有嘉魚澄曰此所謂魚在在藻有頒其首髙祖曰且取王在靈沼於牣魚躍次之觀徳殿髙祖曰射以觀徳故遂命之次之凝閑堂髙祖曰名目要有其義此葢取夫子閑居之義不可縱奢以忘儉自安以忘危故此堂後作茅茨堂謂李沖曰此東曰歩元廡西曰遊凱廡此堂雖無唐堯之君卿等當無愧於元凱沖對曰臣既遭唐堯之君不敢辭元凱之譽髙祖曰光景垂落朕同宗則有載考之義卿等將出無遠何得黙爾不示徳音即命黄門侍郎崔光郭祚通直郎邢巒崔休等賦詩言志燭至公卿辭退李沖再拜上千萬歲壽髙祖曰卿向以燭至致辭復獻千萬之壽朕報卿以南山之詩髙祖曰燭至辭退庶姓之禮在夜載考宗族之義卿等且還朕與諸王宗室欲成此夜飲又從幸鄴還洛以出納之勞增邑五百户坐公事免官尋兼吏部尚書恒州刺史穆泰在州謀反推朔州刺史陽平王頤為主頤表其狀髙祖召澄入見凝閑堂曰適得陽平表曰穆泰謀為不軌招誘宗室脫或必然遷京甫爾北人戀舊南北紛擾朕洛陽不立也此事非任城不辦可謂我力疾向北如其弱也直往擒翦若其勢彊可承制發并肆兵以殄之雖知王患既是國家大事不容辭也澄曰泰等愚惑正戀本為此非有遠圖臣誠怯弱不憚是輩雖復患惙豈敢有辭謹當罄盡心力繼之以死願陛下勿憂髙祖笑曰得任城此行朕復何憂也遂授節銅虎竹使符御仗左右仍行恒州事行逹鴈門太守夜告泰已握衆西就陽平城下聚結唯見弓仗澄聞便速進時右丞孟斌曰事不可量湏依勅召并肆兵然後徐動澄曰泰既構逆應據堅城而更迎陽平度其所為似當勢弱泰既不相拒無故發兵非宜也但速往鎮之民心自定遂倍道兼行出其不意又遣治書侍御史李煥先赴至即擒泰民情怡然窮其黨與罪人皆得鉅鹿公陸叡安樂侯元隆等百餘人皆獄禁具狀表聞髙祖覽表大悅召集公卿以下以表示之曰我任城可謂社稷臣也尋其罪案正復臯陶斷獄豈能過之顧謂咸陽王等曰汝等脫當其處不能辦此車駕尋幸平城勞澄曰任城此行深副逺寄對曰陛下威靈逺被罪人無所逃刑臣何勞之有引見逆徒無一人稱枉時人莫不歎之髙祖顧謂左右曰昔仲尼云聽訟吾猶人也必也使無訟乎然聖人之聽訟殆非常人所匹必也無訟今日見之矣以澄正尚書車駕南伐留澄居守復兼右僕射澄表請以國秩一歳租布帛助供軍資詔受其半髙祖幸鄴值髙車樹者反叛車駕將親討之澄表諫不宜親行會江陽王繼平之乃止髙祖還洛引見公卿髙祖曰營國之本禮教為先朕離京邑以來禮教為日新以不澄對曰臣謂日新髙祖曰朕昨入城見車上婦人冠帽而著小襦襖者若為如此尚書何為不察澄曰著猶少於不著者髙祖曰深可怪也任城意欲令全著乎一言可以喪邦者斯之謂歟可命史官書之又曰王者不降佐於蒼昊皆拔才而用之朕失於舉人任許一羣婦人輩竒事當更銓簡耳任城在省為舉天下綱維為當署事而已澄曰臣實署事而已髙祖曰如此便一令史足矣何待任城又曰我遣舍人宣詔何為使小人聞之澄曰時雖有幹吏去榜亦遠髙祖曰遠則不聞聞則不遠既得聞詔理故可知於是留守羣臣遂免冠謝罪尋除尚書右僕射蕭寶卷遣其太尉陳顯逹入寇漢陽是時髙祖不豫引澄入見清徽堂詔曰顯逹侵亂沔陽不安朕不親行莫攘此賊朕疾患淹年氣力惙敝如有非常委任城大事是役任城必湏從朕澄涕泣對曰臣謹當竭股肱之力以命上報遂從駕南伐髙祖崩澄受顧命世宗初有降人嚴叔懋告尚書令王肅遣孔思逹潛通寳卷圖為叛逆寳卷遣俞公喜送勅於肅公喜還南肅與裴叔業馬為信澄信之乃表肅將叛輒下禁止咸陽北海二王奏澄擅禁宰輔免官歸第尋出為平西將軍梁州刺史辭以母老除安東將軍相州刺史復固辭改授安西將軍雍州刺史尋徴赴季秋講武除都督淮南諸軍事鎮南大將軍開府揚州刺史下車封孫叔敖之墓毁蔣子文之廟頻表南伐世宗不許又辭母老乞解州任寢而不報加散騎常侍澄表曰臣參訓先朝藉規有日前言舊軌頗亦聞之又昔在恒代親習皇宗熟祕序疑庭無闕日臣每於侍坐先帝未嘗不以書典在懷禮經為事周旋之則不輟於時自鳯舉中京方隆禮教宗室之範每蒙委及四門之選負荷銓量自先皇升遐未遑修述學宮虚荷四門之名宗人有闕四時之業青衿之緒於兹将廢臣每惟其事竊所傷懷伏惟聖略宏遠四方罕務宴安之辰於是乎在何為太平之世而令子衿之歎興焉聖明之日而使宗人之訓闕焉愚謂可勅有司修復皇宗之學開闢四門之教使將落之族日就月將詔曰胄子崇業自古盛典國均之訓無應久廢尚書更可量宜修立澄又表母疾解州任不聽蕭衍將張囂之寇陷夷陵戍澄遣輔國將軍成興歩騎赴討大破之復夷陵囂之遁走又遣長風戍主竒道顯攻蕭衍隂山戍破之斬其戍主龍驤將軍都亭侯梅興祖仍引攻白稾戍又破之斬其寧朔將軍關内侯呉道爽澄表曰蕭衍頻斷東闗欲令巢湖汎溢湖周回四百餘里東闗合江之際廣不過數十歩若賊計得成大湖傾注者則淮南諸戍必同晉陽之事矣又吴楚便水且灌且掠淮南之地將非國有壽陽去江五百餘里衆庶惶惶竝懼水害脫乘民之願攻敵之虚豫勒諸州纂集士馬首秋大集則南瀆可為飲馬之津霍嶺必成徙倚之觀事貴應機經略湏早縱混一不可必果江西自是無虞若猶豫緩圖不加除討闗塞旣成襄陵方及平原民戍定為魚矣詔發冀定瀛相并濟六州二萬人馬一千五百匹令仲秋之中畢會淮南并壽陽先兵三萬委澄經略先是朝議有南伐之意以蕭寳夤為東揚州刺史據東城陳伯之為江州刺史戍陽石以澄總督二鎮授之節度至是勒兵進討以東闗水衝大峴險要東闗縱水陽石合肥有急懸之切不圖大峴則歴陽有乘險之援淮陵陸道九山水路竝宜經略於是遣統軍傅豎眼王神念等進次大峴東闗九山淮陵皆分部諸將倍道據之總勒大衆絡繹相接而神念剋其闗要潁川二城斬衍軍主費尼而寧朔將軍韋惠龍驤將軍李伯由仍固大峴澄遣統軍党法宗傅豎眼等進軍剋之遂圍白塔牽城數日之間便即逃潰衍青溪戍望風散走衍徐州刺史司馬明素率衆三千欲援九山徐州長史潘伯隣規固淮陵寧朔將軍王夑負險焦城法宗進克焦城破淮陵擒明素斬伯隣其濟隂太守王厚彊廬江太守裴邃即亦奔退詔澄曰將軍文徳内昭武功外暢奮揚大略將蕩江呉長旌始舒賊徒懾氣鋭旅方馳東闗席卷想江湖弭波在旦夕耳所送首虜竝已聞之初澄出討之後衍將姜慶真襲據壽春外郭齊王蕭寳夤擊走之長史韋績坐免官澄以在外無坐遂攻鍾離又詔鍾離若食盡三月已前固有可剋如至四月淮水泛長舟行無礙宜善量之前事捷也此實將軍經略勲有常焉如或以水盛難圖亦可為萬全之計不宜昧利無成以貽後悔也蕭衍冠軍將軍張惠紹遊擊將軍殷暹驍騎將軍趙景悅龍驤將軍張景仁等率衆五千送糧鍾離澄遣統軍王足劉思祖等邀撃惠紹等大破之獲惠紹殷暹景仁及其屯騎校尉史文淵等軍主以上二十七人既而遇雨淮水暴長引歸壽春還既狼狽失兵四千餘人頻表解州世宗不許有司奏軍還失路奪其開府又降三階時蕭衍有移求換張惠紹澄表請不許詔付八座會議尚書令廣陽王嘉等奏宜還之詔乃聽還後果復寇邊轉澄鎮北大将軍定州刺史初民中每有横調百姓煩苦前後牧守未能蠲除澄多所省減民以忻賴又明黜陟賞罰之法表減公園之地以給無業貧口禁造布絹不任衣者母孟太妃薨居喪毁瘠當世稱之服闋除太子太保於是髙肈當朝猜忌賢戚澄為肈間構常恐不全乃終日昏飲以示荒敗所作詭越時謂為狂世宗夜崩時事倉卒髙肈擁兵於外肅宗沖幼朝野不安澄疎斥不預機要而朝望所屬領軍于忠侍中崔光等奏澄為尚書令於是衆心忻服又加散騎常侍驃騎大將軍尋遷司空加侍中俄詔領尚書令初正始之末詔百司普昇一級而執事者不逹㫖意刺史守令限而不及澄奏曰竊惟雲構鬱起澤及百司企春望榮内外同慶至於賞渉不及守宰爾來十年寃訟不絶封回自鎮遠安州入為太尉長史元匡自征虜恒州入作宗卿二人遷授竝在先詔應蒙之理備在於斯兼州佐停私之徒陪臣郡丞之例尚蒙天澤下降榮及當時然參佐之來皆因府主今府主不霑佐官獨預棄本賞末愚謂未允今計刺史守宰之官請凖封回悉同汎限上允初㫖百司之章下覆訟者元元之心詔曰自今已後内外之事嘗經先朝者不得重聞澄奏曰臣聞堯懸諫諍之鼓舜置誹謗之木皆所以廣耳目於芻蕘逹四聰於天下伏惟太祖開基化隆自遠累聖相承於今九帝重光疊照汚隆必同與奪随時道無恒體思過如渇言重千金故稱無諱之朝邁蹤三五髙祖沖年纂厯文明協統變官易律未為違典及慈聖臨朝毋儀㝢縣爰發慈令垂心滯獄深枉者仰日月於九泉微屈者希曲照於盆下今乃格以先朝限以一例斯誠奉遵之本心實乖元元之至望在于謙挹有乖舊典謹尋抱枉求直或經累朝毫釐之差正之宜速謬若千里駟馬弗追故禮有損益事有可否父有諍子君有諫臣琴瑟不調理宜改作是以防川之論小決則通鄉校之言擁則敗國矧伊陳屈而可抑以先朝且先朝屈者非故屈之或有司愛憎或執事濁僻空文致法以誤視聽如此寃塞彌在可哀僭之與濫寧失不經乞收今㫖還依前詔詔曰省奏深體毗贊之情三皇異軌五代殊風一時之制何必詮改必謂虚文設㫖理在可申者何容不同來執可依往制澄表上皇誥宗制并訓詁各一卷意欲皇太后覽之思勸戒之益又奏利國濟民所宜振舉者十條一曰律度量衡公私不同所宜一之二曰宜興學校以明黜陟之法三曰宜興滅繼絶各舉所知四曰五調之外一不煩民任民之力不過三日五曰臨民之官皆湏黜陟以旌賞罰六曰逃亡代輸去來年久者若非伎作任聽即住七曰邊兵逃走或實陷没皆湏精檢三長及近親若實隱之徴其代輸不隱勿論八曰工商世業之户復徴租調無以堪濟今請免之使專其業九曰三長禁姦不得隔越相領户不滿者随近并合十曰羽林虎賁邊方有事暫可赴戰常戍宜遣蕃兵代之靈太后下其奏百寮議之事有同否時四中郎將兵數寡弱不足以襟帶京師澄奏宜以東中帶滎陽郡南中帶魯陽郡西中帶恒農郡北中帶河内郡選二品三品親賢兼稱者居之省非急之作配以彊兵如此則深根固本彊幹弱枝之義也靈太后初将從之後議者不同乃止澄又重奏曰固本宜彊防微在豫故雖有文事不忘武功况今南蠻仍獷北妖頻結來事難圖勢同往變脫暴勃忽起振動關畿四府羸卒何以防擬平康之世可以寄安遺之久長恐非善策如臣愚見郎将領兵兼總民職省官實祿於是乎在求還依前増兵益號將位既重則念報亦深軍郡相依則表裏俱濟朝廷無四顧之憂姦宄絶窺覦之望矣卒不納又以流人初至遠鎮衣食無資多有死者奏并其妻子給糧一歲從之尋以疾患求解任不許蕭衍於浮山斷淮為堰以灌壽春乃除使持節大将軍大都督南討諸軍事勒衆十萬将出彭宋尋淮堰自壞不行澄以北邊鎮將選舉彌輕恐賊虜闚邊山陵危廹奏求重鎮将之選修警備之嚴詔不從賊虜入寇至於舊都鎮將多非其人所在叛亂犯逼山陵如澄所慮澄奏都城府寺猶未周悉今軍旅初寧無宜發衆請取諸職人及司州郡縣犯十杖已上百鞭已下收贖之物絹一匹輸塼二百以漸修造詔從之太傅清河王懌表奏其事遂寢不行澄又奏曰臣聞賞必以道用防淫人之姦罰不濫及以戒良士之困刑者侀也毎垂三宥秉律執請不得已而用之是故小大之獄察之以情一人呼嗟或虧王道刑罰得失乃興廢之所由也竊聞司州牧髙陽王臣雍拷殺奉朝請韓元昭前門下錄事姚敬賢雖因公事理實未盡何者太平之世草不横伐行葦之感事驗隆周若昭等狀彰死罪以定應刑於都市與衆棄之如其疑似不分情理未究不宜以三清九流之官杖下便死輕絶民命傷理敗法往年州於大市鞭殺五人及檢贓狀全無寸尺今復酷害一至於此朝野云云咸懷驚愕若殺生在下虐專於臣人君之權安所復用自開古以來明明之世未聞斯比也武王曰吾不以一人之命而易天下蓋重民命也請以見事付廷尉推究驗其為劫之狀察其拷殺之理使是非分明幽魂獲雪詔從之澄當官而行無所回避又奏墾田授受之制八條甚有綱貫大便於時前來尚書文簿諸曹須則出借時公車署以理寃事重奏請真案澄執奏以尚書政本特宜遠慎故凡所奏事閣道通之蓋以祕要之切防其宣露寧有古制所重今反輕之内猶設禁外更寛也宜繕寫事意以付公車詔從之西域嚈噠波斯諸國各因公使並遺澄駿馬一匹澄請付太僕以充國閑詔曰王廉貞之徳有過楚相可勑付廐以成君子大哉之美御史中尉東平王匡奏請取景明元年以來内外考簿吏部除書中兵勲案并諸殿最欲以案校竊階盜官之人靈太后許之澄表曰臣聞三季之弊由於煩刑火徳之興在於三約是以老聃云法令滋彰盜賊多有又曰其政察察其民缺缺又曰天網恢恢疎而不漏是故欲求治本莫若省事清心昔漢文斷獄四百幾致刑措省事所致也蕭曹為相載其清静畫一之歌清心之本也今欲求之於本宜以省事為先使在位羣官纂蕭曹之心以毗聖化如此則上下相安遠近相信百司不怠事無愆失豈宜擾世敎以深文烹小鮮以煩手哉臣竊惟景明之初暨永平之末内外羣官三經考課逮延昌之始方加黜陟五品以上引之朝堂親決聖目六品以下例由勑判自世宗晏駕大宥三行所以蕩除故意與物更始革世之事方相窮覈以臣愚見謂為不可又尚書職分樞機出納昔魏明帝卒至尚書門陳矯亢辭帝慙而返夫以萬乘之重非所宜行猶屈一言慙而回駕羣官百司而可相亂乎故陳平不知錢榖之數丙吉不問僵道之死當時以為逹治歴代用為美談但宜各守其職思不出位潔已以勵時靖恭以致節又尋御史之體風聞是司至於冒勲妄考皆有處别若一處有風謡即應攝其一簿研檢虚實若差舛不同偽情自露然後繩以典刑人孰不服豈有移一省之案取天下之簿尋兩紀之事窮革世之尤如此求過誰堪其罪斯實聖朝所宜重慎也靈太后納之乃止後遷司徒公侍中尚書令如故澄又表曰伏惟世宗宣武皇帝命将授旗随陸啟顙運籌制勝淮漢自賔節用勞心志清六合是故纘武修文仍世彌盛陛下當周康靖治之時豈得宴安於𤣥默然取外之理要由内彊圖人之本先在自備蕭衍雖虐使其民而窺覦不已若遇我虚疲士民凋窘賊衍年老志張思播虺毒此之弗圖恐受其病伏惟陛下妙齡在位聖徳方昇皇太后總御天機乾乾夕惕若留意於負荷忿車書之未一進賢拔能重官人之舉標賞忠清旌養人之器修干戈之用畜熊虎之士愛時鄙財輕寳重榖七八年間陛下聖略方剛親王徳幹壮茂将相膂力未衰愚臣猶堪戎伍荷戈帶甲之衆蓄銳於今燕弧冀馬之盛充牣在昔又賊衍惡積禍盈勢不能久子弟闇悖釁逆已彰亂亡之兆灼然可見兼弱有徴天與不遠大同之機宜湏蓄備昔漢帝力疾討滅英布髙皇臥病親除顯逹夫以萬乘之主豈忘宴安實以侵名亂正計不得已今宜慕二帝之遠圖以肅寧為大任然頃年以來東西難寇艱虞之興首尾連接雖尋得翦除亦大損財力且饑饉之氓散亡莫保收入之賦不増出用之費彌衆不愛力以悅民無豊資以待敵此臣所以夙夜懷憂悚息不寧者也易曰何以守位曰仁何以聚人曰財故曰財者非天不生非地不長非時不成非人不聚生聚之由如此其難集人守位若此之重興替之道焉可不慮又古者使民歲不過三日食壮者之糧任老者之智此雖太平之法難卒而因然妨民害財不亦宜戒今墉雉素修廐庫崇列雖府寺膠塾少有未周大抵省府粗得庇憇理務諸寺靈塔俱足致虔講道唯明堂辟雍國禮之大來冬司徒兵至請籌量減徹專力經營務令早就其廣濟數施之財酬商互市之弊凡所營造自非供御切湏戎仗急要亦宜微減以務阜積庶府無横損民有全力夫食上簋而嬀徳昭寢畢室而禹功盛章臺麗而楚力衰阿宮壮而秦財竭存亡之由灼然可覩願思前王一同之功畜力聚財以待時會靈太后銳於繕興在京師則起永寧太上公等佛寺功費不少外州各造五級佛圖又數為一切齋會施物動至萬計百姓疲於土木之功金銀之價為之踊上削奪百官事力費損庫藏兼曲賚左右日有數千澄故有此表雖卒不從常優答禮之政無大小皆引參决澄亦盡心匡輔事有不便於民者必於諫諍雖不見用殷勤不已内外咸敬憚之神龜二年薨年五十三賻布一千二百匹錢六十萬蠟四百斤給東園溫明祕器朝服一具衣一襲大鴻臚監護喪事詔百寮興喪贈假黄鉞使持節都督中外諸軍事太傅領太尉公加以殊禮備九錫依晉大司馬齊王攸故事諡曰文宣王澄之葬也凶飾甚盛靈太后親送郊外停輿悲哭哀動左右百官㑹赴千餘人莫不歔欷當時以為哀榮之極第四子彞襲彝字子倫繼室馮氏所生頗有父風拜通直散騎常侍及元义專權而彜恥於託附故不得顯職荘帝初河隂遇害贈車騎将軍儀同三司青州刺史諡曰文子度世襲武定中金紫光祿大夫齊受禪爵例降彜兄順字子和九歲師事樂安陳豐初書王羲之小學篇數千言晝夜誦之旬有五日一皆通徹豐竒之白澄曰豐十五從師迄于白首耳目所經未見此比江夏黃童不得無雙也澄笑曰藍田生玉何容不爾十六通杜氏春秋恒集門生討論異同于時四方無事國富民康豪貴子弟率以朋遊為樂而順下帷讀書篤志愛古性謇諤淡於榮利好飲酒解鼓琴每長吟永歎吒詠虚室世宗時上魏頌文多不載起家為給事中時尚書令髙肇帝舅權重天下人士望塵拜伏順曽懷刺詣肇門門者以其年少答云在坐大有貴客不肯為通順叱之曰任城王兒可是賤也及見直往登牀捧手抗禮王公先逹莫不怪慴而順辭吐傲然若無所覩肇謂衆賔曰此兒豪氣尚爾况其父乎及出肇加敬送之澄聞之大怒杖之數十後超轉中書侍郎俄遷太常少卿以父憂去職哭泣嘔血身自負土時年二十五便有白髮免喪抽去不復更生世人以為孝思所致尋除給事黄門侍郎時領軍元义威勢尤盛凡有遷授莫不造門謝謁順拜表而已曽不詣义义謂順曰卿何謂聊不見我順正色曰天子富於春秋委政宗輔叔父宜以至公為心舉士報國如何賣恩責人私謝豈所望也至於朝論得失順常鯁言正議曽不阿旨由此見憚出除平北將軍恒州刺史順謂义曰北鎮紛紜方為國梗桑乾舊都根本所繫請假都督為國捍屏义心疑難不欲授以兵官謂順曰此朝廷之事非我所裁順曰叔父既握國柄殺生由己自言天之歴數應在我躬何得復有朝廷也义彌忿憚之轉為安東將軍齊州刺史順自負有才不得居内每懷鬱怏形於言色遂縱酒歡娱不親政事义解領軍徴為給事黄門侍郎親友郊迎賀其得入順曰不患不入正恐入而復出耳俄兼殿中尚書轉侍中初中山王熙起兵討元义不果而誅及靈太后反政方得改葬順侍坐西遊園因奏太后曰臣昨往看中山家葬非唯宗親京其寃酷行路士女見其一家七䘮皆為澘然莫不酸泣义妻時在太后側順指之曰陛下柰何以一妹之故不服元义之罪使天下懷寃太后嘿然不語就徳興反於營州使尚書盧同往討之大敗而返屬侍中穆紹與順侍坐因論同之罪同先有近宅借紹紹頗欲為言順勃然曰盧同終將無罪太后曰何得如侍中之言順曰同有好宅與要勢侍中豈慮罪也紹慙不敢復言靈太后頗事糚飾數出遊幸順面諍曰禮婦人夫䘮自稱未亡人首去珠玉衣不被綵陛下母臨天下年垂不惑過甚修飾何以示後世靈太后慙而不出還入宮責順曰千里相徴豈欲衆中見辱也順曰陛下盛服炫容不畏天下所笑何恥臣之一言乎初城陽王徽慕順才名偏相結納而廣陽王淵姦徽妻于氏大為嫌隙及淵自定州被徴入為吏部尚書兼中領軍順為詔書辭頗優美徽疑順為淵左右由是與徐紇間順於靈太后出順為護軍將軍太常卿順奉辭於西遊園徽紇侍側順指之謂靈太后曰此人魏之宰嚭魏國不滅終不死亡紇脅肩而出順遂抗聲叱之曰爾刀筆小人正堪為機案之吏寧應忝兹執㦸虧我彜倫遂振衣而起靈太后嘿而不言時追論順父顧託之功増任城王彜邑二千户又析彜邑五百户以封順為東阿縣開國公順疾徽等間之遂為蠅賦曰余以仲秋休沐端坐衡門寄想琴書託情紙翰而蒼蠅小蟲往來牀几疾其變白聊為賦云遐哉大道廓矣洪氛肈立秋夏爰啟冬春既含育於萬性又芻狗而不仁随因緣以授體齊美惡而無分生兹穢類靡益於人名備羣品聲損衆倫欹脛纖翼紫首蒼身飛不能逈聲若遠聞點緇成素變白為黒寡愛蘭芳偏貪穢食集桓公之屍居平叔之側亂鷄鳴之響毁皇宮之飾習習户庭營營榛棘反覆往還譬彼讒賊膚受既通譖潤罔極緝緝幡幡交亂四國於是妖姬進邪士來聖賢擁忠孝摧周昌拘於牖里天乙囚於夏臺伯竒為之痛結申生為之蒙災鴟鴞悲其室採葛懼其懷小弁隕其涕靈均表其哀自古明哲猶如此何况中庸與凡才若夫天生地養各有所親獸必依地鳥亦憑雲或來儀以呈祉或自擾而見文或負圖而歸徳或銜書以告真或夭胎而奉味或殘軀以獻珍或主皮而興禮或牢豢以供神雖死生之異質俱有益於國人非如蒼蠅之無用唯構亂於蒸民遂屬疾在家杜絕慶弔後除吏部尚書兼右僕射及上省登階向榻見榻甚故問都令史徐仵起仵起曰此榻曽經先王坐順即哽塞涕泗交流久而不能言遂令換之時三公曹令史朱暉素事錄尚書髙陽王雍雍欲以為廷尉評頻請託順順不為用雍遂下命用之順投之於地雍聞之大怒昧爽坐都廳召尚書及丞郎畢集欲待順至於衆挫之順日髙方至雍攘𬒮撫几而言曰身天子之子天子之弟天子之叔天子之相四海之内親尊莫二元順何人以身成命投棄於地順鬚鬢俱張仰面看屋憤氣奔涌長歔而不言久之搖一白羽扇徐而謂雍曰髙祖遷宅中土剏定九流官方清濁軌儀萬古而朱暉小人身為省吏何合為廷尉清官殿下既先皇同氣宜遵成㫖自有恒規而復踰之也雍曰身為丞相錄尚書如何不得用一人為官順曰庖人雖不治庖尸祝不得越樽俎而代之未聞有别旨令殿下參選事順又厲聲曰殿下必如是順當依事奏聞雍遂笑而言曰豈可以朱暉小人便相忿恨遂起呼順入室與之極飲順之亢毅不撓皆此類也後除征南將軍右光祿大夫轉兼左僕射爾朱榮之奉荘帝召百官悉至河隂素聞順數諫諍惜其亮直謂朱瑞曰可語元僕射但在省不湏來順不逹其旨聞害衣冠遂便出走為陵戸鮮于康奴所害家徒四壁無物斂屍止有書數千卷而已門下通事令史王才逹裂裳覆之荘帝還宮遣黄門侍郎山偉廵喻京邑偉臨順喪悲慟無已既還荘帝怪而問曰黄門何為聲散偉以狀對莊帝勑侍中元祉曰宗室䘮亡非一不可周贍元僕射清苦之節死乃益彰特贈絹百匹餘不得例贈驃騎大將軍尚書令司徒公定州刺史諡曰文烈順撰帝錄二十卷詩賦表頌數十篇今多亡失長子朗時年十七枕戈潛伏積年乃手刃康奴以首祭於順墓然後詣闕請罪朝廷嘉而不問朗渉歴書記為司徒屬天平中為奴所害贈都督瀛冀二州諸軍事闕二字將軍尚書右僕射冀州刺史順弟淑淑弟悲並早卒悲弟紀字子綱永熙中給事黄門侍郎隨出帝沒於闗中澄弟嵩字道岳髙祖時自中大夫遷員外常侍轉歩兵校尉大司馬安定王休薨未及卒哭嵩便遊田髙祖聞而大怒詔曰嵩不能克己復禮企心典憲大司馬薨殂甫爾便以鷹鷂自娱有如父之痛無猶子之情捐心棄禮何其太速便可免官後從平沔北累有戰功除左中郎將兼武衞將軍髙祖南伐蕭寶卷將陳顯逹率衆拒戰嵩身備三仗免胄直前將士從之顯逹奔潰斬獲萬計嵩於爾日勇冠三軍髙祖大悦而言曰任城康王大有福徳文武頓出其門以功賜爵髙平縣侯賚帛二千五百疋初髙祖之發洛也馮皇后以罪幽於宮内既平顯逹回次榖唐原高祖疾甚將賜后死曰使人不易可得顧謂任城王澄曰任城必不負我嵩亦當不負任城可使嵩也於是引嵩入内親詔遣之世宗即位以武衛將軍兼侍中出為平南將軍荆州刺史嵩表曰蕭寳卷骨肉相殘忠良先戮臣下囂然莫不離背君臣擕貳干戈日尋流聞寳卷雍州刺史蕭衍兄懿於建業阻兵與寳卷相持荆郢二州刺史並是寳卷之弟必有圖衍之志臣若遣書相聞迎其本謀冀獲同心并力除衍一衍之後彼必旋師赴救丹陽當不能復經營疆陲全固襄沔臣之軍威已得臨據則沔南之地可一舉而收緣漢曜兵示以威徳思歸有道者則引而納之受疑告危者則援而接之總兵竚鋭觀釁伺隙若其零落之形已彰怠懈之勢已著便可順流摧鋒長驅席卷詔曰所陳嘉謀深是良計如當機形可進任將軍裁之既而蕭衍尋克建業乃止除平北將軍恒州刺史轉平東將軍徐州刺史又轉安南將軍揚州刺史蕭衍湘州刺史楊公則率衆二萬屯軍洛口姜慶真領卒五千據於首陂又遣其左軍將軍騫小眼軍主何天祚張俊興等率衆七千攻圍陸城嵩乃遣統軍封邁王會等步騎八千討之邁逹陸城賊皆夜遁追擊破之斬獲數千公則慶真退還馬頭衍徐州刺史昌義之屯據髙皇遣三軍潛寇隂陵以淮水淺竭不通舩艦屯於馬頭衍將田道龍何景先等領卒三千已至衡山規寇陸城寇並充逼嵩遣兼統軍李叔仁等援合肥小峴楊石頻戰破之衍征虜將軍趙革屯於黄口嵩遣軍司趙熾等往討之先遣統軍安伯醜潛師夜渡伏兵下蔡革率卒四千逆來拒戰伯醜與下蔡戍主王虎等前後夾擊大敗之俘斬溺死四千徐人統軍李叔仁等夜襲硤石之賊又破之衍將姜慶真專據肥汭冠軍將軍曹天寳屯於鷄口軍主尹明世屯東硤石嵩遣别將羊引次于淮西去賊營十里司馬趙熾率兵一萬為表裏聲勢衆軍既會分擊賊之四壘四壘之賊戰敗奔走斬獲數千溺死萬數統軍牛敬賔攻硤石明世宵遁慶真合餘燼浮淮下下蔡戍主王略截流擊之俘斬大半於是威名大振後為蒼頭李太伯等同謀害嵩並妻穆氏及子世賢世宗為嵩舉哀於東堂賻絹一千疋贈車騎將軍領軍諡曰剛侯第二子世儁頗有幹用而無行業襲爵除給事中東宮舎人伯父澄表求轉階授之於是除員外散騎常侍肅宗時追論嵩勲封世儁衛縣開國男食邑二百户遷冠軍將軍宗正少卿又為散騎常侍安南將軍武衛將軍河南尹尋除鎮東將軍青州刺史轉征東將軍加散騎常侍邢杲之亂圍逼州城世儁憑城拒守遂得保全孝荘時除衛將軍吏部尚書尒朱兆寇京師詔世儁以本官為都督防守河橋及兆至河世儁初無拒守意便隔岸遙拜時論疾之前廢帝世為驃騎將軍仍加尚書尤為尒朱世隆所昵出帝初加儀同三司改封武陽縣開國子食邑五百戸世儁居選曹不能厲心多所受納為中尉彈紏坐免官尋復本職孝静初加侍中尚書右僕射遷尚書令世儁輕薄好去就詔送晉陽興和中薨贈侍中都督冀定瀛殷四州諸軍事驃騎大將軍太傅定州刺史尚書令開國公如故諡曰躁戾子景遠襲散騎侍郎世賢弟世哲武定中吏部郎嵩弟贍字道周髙祖時自闕大夫稍遷宗正少卿龍驤將軍光州刺史散騎常侍左將軍遷平東將軍兖州刺史頗愛書史而貪暴好殺澄深恥忿之絕其往來有四子長子遠尚書郎史臣曰顯祖之將禪讓可謂國之大節康王毅然庭諍徳音孔昭一言興邦其斯之謂歟文宣貞固俊遠鬱為宗傑身因累朝寧濟夷險既社稷是任其梁棟之望也順謇諤俶儻有汲黯之風不用於時横招非命惜矣嵩有行陳之氣儁則裂冠之徒歟魏書卷十九中魏書卷十九中考證任城王雲傳拜都督中外諸軍事中都坐大官北史作中}
+  - {type: punctuation, offset: 692, content: ．, id: KR2a0020_ZHSJ_019-bkkpn149}
+  - {type: 'tls:seg', offset: 692, content: '', id: KR2a0020_ZHSJ_019-d19p8s12}
+  - {type: variant, offset: 692, length: 0, content: '', WYG: 無坐字諸寺靈塔石林燕語漢以來九卿官府皆名曰寺鴻臚共一也本以待四裔賔客明帝時攝摩騰竺法蘭自西域以白馬負經至舍於鴻臚寺既死尸不壊因留寺中後遂以為浮圖之居即雒中白馬寺也僧居稱寺本此魏書卷十九中考證欽定四庫全書魏書卷十九下齊魏收撰列傳第七下景穆十二王南安王城陽王章武王樂陵王安定王南安王楨皇興二年封加征南大將軍中都大官尋遷内都大官髙祖即位除涼州鎭都大將尋以綏撫有能加都督西戎諸軍事征西大將軍領護西域校尉儀同三司涼州刺史徴為内都大官出為使持節侍中本將軍開府長安鎭都大將雍州刺史楨性忠謹事母以孝聞賜帛千匹以襃之徴赴講武髙祖引見於皇信堂戒之曰翁孝行著於私庭令問彰於邦國每欽忠懿思一言展故因講武逺徴赴闕仰戀仁慈情在未已但長安鎮年饑民儉理須綏撫不容久留翁今還州其勤隠恤無令境内有飢餒之民翁既國之懿親終無貧賤之慮所宜慎者畧有三事一者恃親驕矜違禮僭度二者傲慢貪奢不恤政事三者飲酒遊逸不擇交友三者不去患禍將生但能慎此足以全身逺害光國榮家終始之德成矣而楨不能遵奉後乃聚斂肆情文明太后髙祖並臨皇信堂引見王公太后令曰汝隂王天賜南安王楨不順法度黷貨聚斂依犯論坐將至不測卿等為當存親以毁令為欲滅親以明法羣臣咸以二王託體先皇宜蒙矜恕太后不答髙祖乃詔曰南安王楨以懿戚之貴作鎮闗右不能潔已奉公助宣皇度方肆貪欲殖貨私庭放縱姦囚壅絶訴訟貨遺諸使邀求虚稱二三之狀皆犯刑書昔魏武翦髪以齊衆叔向戮弟以明法克己忍親以率天下夫豈不懷有為而然耳今者所犯事重疇日循古推刑實在難恕皇太后天慈寛篤恩矜國屬每一尋惟髙宗孔懷之近發言哽塞悲慟于懷且以南安王孝養之名聞於内外特一原恕削除封爵以庶人歸第禁錮終身後髙祖南伐楨從至洛及議遷都首從大計髙祖甚悦楨母劉太妃薨髙祖親幸臨慰及葬贈布帛綵五百段又以楨議定遷都復封南安王食邑一千户出為鎮北大將軍相州刺史髙祖餞楨於華林都亭詔曰從祖南安既之蕃任將曠違千里豫懷惘戀然今者之集雖曰分岐實為曲宴並可賦詩申意射者可以觀德不能賦詩者可聽射也當使武士彎弓文人下筆髙祖送楨於階下流涕而别太和二十年五月至鄴入治日暴風大雨凍死者十數人楨又以旱祈雨于羣神鄴城有石虎廟人奉祀之楨告虎神像云三日不雨當加鞭罰請雨不驗遂鞭像一百是月疽發背}
+  - {type: page-break, offset: 692, content: '', id: KR2a0020_WYG_019-63b, image: WYG0261/WYG0261-0306d.png}
+  - {type: page-break, offset: 692, content: '', id: KR2a0020_WYG_019-64a, image: WYG0261/WYG0261-0307a.png}
+  - {type: page-break, offset: 692, content: '', id: KR2a0020_WYG_019-64b, image: WYG0261/WYG0261-0307b.png}
+  - {type: page-break, offset: 692, content: '', id: KR2a0020_WYG_019-65a, image: WYG0261/WYG0261-0307c.png}
+  - {type: page-break, offset: 692, content: '', id: KR2a0020_WYG_019-65b, image: WYG0261/WYG0261-0307d.png}
+  - {type: page-break, offset: 692, content: '', id: KR2a0020_WYG_019-66a, image: WYG0261/WYG0261-0308a.png}
+  - {type: page-break, offset: 692, content: '', id: KR2a0020_WYG_019-66b, image: WYG0261/WYG0261-0308b.png}
+  - {type: variant, offset: 692, length: 0, content: '', krp: 無坐字諸寺靈塔石林燕語漢以來九卿官府皆名曰寺鴻臚共一也本以待四裔賔客明帝時攝摩騰竺法蘭自西域以白馬負經至舍於鴻臚寺既死尸不壊因留寺中後遂以為浮圖之居即雒中白馬寺也僧居稱寺本此魏書卷十九中考證欽定四庫全書魏書卷十九下齊魏收撰列傳第七下景穆十二王南安王城陽王章武王樂陵王安定王南安王楨皇興二年封加征南大將軍中都大官尋遷内都大官髙祖即位除涼州鎭都大將尋以綏撫有能加都督西戎諸軍事征西大將軍領護西域校尉儀同三司涼州刺史徴為内都大官出為使持節侍中本將軍開府長安鎭都大將雍州刺史楨性忠謹事母以孝聞賜帛千匹以襃之徴赴講武髙祖引見於皇信堂戒之曰翁孝行著於私庭令問彰於邦國每欽忠懿思一言展故因講武逺徴赴闕仰戀仁慈情在未已但長安鎮年饑民儉理須綏撫不容久留翁今還州其勤隠恤無令境内有飢餒之民翁既國之懿親終無貧賤之慮所宜慎者畧有三事一者恃親驕矜違禮僭度二者傲慢貪奢不恤政事三者飲酒遊逸不擇交友三者不去患禍將生但能慎此足以全身逺害光國榮家終始之德成矣而楨不能遵奉後乃聚斂肆情文明太后髙祖並臨皇信堂引見王公太后令曰汝隂王天賜南安王楨不順法度黷貨聚斂依犯論坐將至不測卿等為當存親以毁令為欲滅親以明法羣臣咸以二王託體先皇宜蒙矜恕太后不答髙祖乃詔曰南安王楨以懿戚之貴作鎮闗右不能潔已奉公助宣皇度方肆貪欲殖貨私庭放縱姦囚壅絶訴訟貨遺諸使邀求虚稱二三之狀皆犯刑書昔魏武翦髪以齊衆叔向戮弟以明法克己忍親以率天下夫豈不懷有為而然耳今者所犯事重疇日循古推刑實在難恕皇太后天慈寛篤恩矜國屬每一尋惟髙宗孔懷之近發言哽塞悲慟于懷且以南安王孝養之名聞於内外特一原恕削除封爵以庶人歸第禁錮終身後髙祖南伐楨從至洛及議遷都首從大計髙祖甚悦楨母劉太妃薨髙祖親幸臨慰及葬贈布帛綵五百段又以楨議定遷都復封南安王食邑一千户出為鎮北大將軍相州刺史髙祖餞楨於華林都亭詔曰從祖南安既之蕃任將曠違千里豫懷惘戀然今者之集雖曰分岐實為曲宴並可賦詩申意射者可以觀德不能賦詩者可聽射也當使武士彎弓文人下筆髙祖送楨於階下流涕而别太和二十年五月至鄴入治日暴風大雨凍死者十數人楨又以旱祈雨于羣神鄴城有石虎廟人奉祀之楨告虎神像云三日不雨當加鞭罰請雨不驗遂鞭像一百是月疽發背}
+  - {type: punctuation, offset: 693, content: ，, id: KR2a0020_ZHSJ_019-bkkpn150}
+  - {type: 'tls:seg', offset: 693, content: '', id: KR2a0020_ZHSJ_019-d19p8s13}
+  - {type: variant, offset: 695, length: 6, content: 簡王永昌王健, WYG: 惠贈帛一千疋及葬又賜帛千疋遣黄門郎監護喪事及恒州刺史穆}
+  - {type: variant, offset: 695, length: 6, content: 簡王永昌王健, krp: 惠贈帛一千疋及葬又賜帛千疋遣黄門郎監護喪事及恒州刺史穆}
+  - {type: punctuation, offset: 697, content: ．, id: KR2a0020_ZHSJ_019-bkkpn151}
+  - {type: xml-element, offset: 697, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele16}
+  - {type: xml-element, offset: 697, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele17}
+  - {type: 'tls:seg', offset: 697, content: '', id: KR2a0020_ZHSJ_019-d19p9s1}
+  - {type: line-break, offset: 697, content: '', id: ZHSJ__dup4924}
+  - {type: punctuation, offset: 701, content: ，, id: KR2a0020_ZHSJ_019-bkkpn152}
+  - {type: 'tls:seg', offset: 701, content: '', id: KR2a0020_ZHSJ_019-d19p9s2}
+  - {type: variant, offset: 702, length: 3, content: 常七年, WYG: 謀反楨知而不告雖薨猶追奪爵}
+  - {type: variant, offset: 702, length: 3, content: 常七年, krp: 謀反楨知而不告雖薨猶追奪爵}
+  - {type: punctuation, offset: 706, content: ．, id: KR2a0020_ZHSJ_019-bkkpn153}
+  - {type: 'tls:seg', offset: 706, content: '', id: KR2a0020_ZHSJ_019-d19p9s3}
+  - {type: variant, offset: 706, length: 6, content: 健姿貌魁壯善, WYG: 國除有五子子英字虎兒性識聰敏博聞彊記便}
+  - {type: variant, offset: 706, length: 6, content: 健姿貌魁壯善, krp: 國除有五子子英字虎兒性識聰敏博聞彊記便}
+  - {type: punctuation, offset: 711, content: ，, id: KR2a0020_ZHSJ_019-bkkpn154}
+  - {type: 'tls:seg', offset: 711, content: '', id: KR2a0020_ZHSJ_019-d19p9s4}
+  - {type: punctuation, offset: 714, content: ，, id: KR2a0020_ZHSJ_019-bkkpn155}
+  - {type: 'tls:seg', offset: 714, content: '', id: KR2a0020_ZHSJ_019-d19p9s5}
+  - {type: variant, offset: 714, length: 0, content: '', WYG: 解吹笛微曉醫術髙祖時為平北將軍武川鎮都大將假魏公未幾遷都督梁益寧三州諸軍事安南將軍領護西戎校尉仇池鎮都大將梁州刺史髙祖南伐為梁漢别道都將後大駕臨鍾離詔英率衆備宼境上英以大駕親動勢傾東南漢中有可乘之㑹表求進討髙祖許之師次沮水蕭鸞將蕭懿遣將尹紹祖梁季羣等領衆二萬徼山立柵分為數處居髙視下隔水為營英乃謀曰彼帥賤民慢莫能相服衆而無上罔知適從若選精卒幷攻一營彼不相救我克必矣若克一軍四營自拔於是簡兵三面騰上果不相救既破一處四營俱潰生擒梁季羣斬三千餘級俘七百人鸞白馬戍將其夜逃潰乘勝長驅將逼南鄭漢川之民以為神也相率歸附梁州民李天幹等詣英降待以國士之禮天幹等家在南鄭之西請師迎接英遣迎之蕭懿聞而遣將姜脩率衆追襲逮夜交戰頗有殺傷脩後屢敗復更請軍懿遣衆赴之迎者告急英率騎一千倍道赴救未至賊已退還英恐其入城别遣統軍元拔以隨其後英徼其前合擊之盡俘其衆懿續遣軍英不虞賊至且衆力已疲軍少人懼咸欲奔走英乃緩騎徐行神色自若登髙望賊東西指麾狀似處分然後整列而前賊謂有伏兵俄然賊退乘勢追殄遂圍南鄭禁止三軍一無所犯逺近皆供租運先是英未至也蕭懿遣軍主范潔領三千餘人伐獠潔聞大軍圍城欲還救援英遣統軍李平敵李鐵騎等收合巴西晉壽土人以斷其路潔以死決戰遂敗平敵之軍英候其稍近以奇兵掩之盡皆擒獲攻圍九十餘日戰無不克被勑班師英於是先遣老弱身勒精卒留後遣使與懿告别懿以為詐也英還一日猶閉門不開二日之後懿乃遣將追英英親自殿後與士卒下馬交戰賊衆莫敢逼之四日四夜然後賊退全軍而還㑹山氐並反斷英歸路英勒衆奮擊且戰且行為流矢所中軍人莫有知者以功遷安南大將軍賜爵廣武伯在仇池六載甚有威惠之稱父憂解任髙祖討漢陽起英為左衛將軍加前將軍尋遷大宗正又轉尚書仍本將軍鎮荆州蕭寶卷將陳顯}
+  - {type: page-break, offset: 714, content: '', id: KR2a0020_WYG_019-67a, image: WYG0261/WYG0261-0308c.png}
+  - {type: page-break, offset: 714, content: '', id: KR2a0020_WYG_019-67b, image: WYG0261/WYG0261-0308d.png}
+  - {type: page-break, offset: 714, content: '', id: KR2a0020_WYG_019-68a, image: WYG0261/WYG0261-0309a.png}
+  - {type: page-break, offset: 714, content: '', id: KR2a0020_WYG_019-68b, image: WYG0261/WYG0261-0309b.png}
+  - {type: variant, offset: 714, length: 0, content: '', krp: 解吹笛微曉醫術髙祖時為平北將軍武川鎮都大將假魏公未幾遷都督梁益寧三州諸軍事安南將軍領護西戎校尉仇池鎮都大將梁州刺史髙祖南伐為梁漢别道都將後大駕臨鍾離詔英率衆備宼境上英以大駕親動勢傾東南漢中有可乘之㑹表求進討髙祖許之師次沮水蕭鸞將蕭懿遣將尹紹祖梁季羣等領衆二萬徼山立柵分為數處居髙視下隔水為營英乃謀曰彼帥賤民慢莫能相服衆而無上罔知適從若選精卒幷攻一營彼不相救我克必矣若克一軍四營自拔於是簡兵三面騰上果不相救既破一處四營俱潰生擒梁季羣斬三千餘級俘七百人鸞白馬戍將其夜逃潰乘勝長驅將逼南鄭漢川之民以為神也相率歸附梁州民李天幹等詣英降待以國士之禮天幹等家在南鄭之西請師迎接英遣迎之蕭懿聞而遣將姜脩率衆追襲逮夜交戰頗有殺傷脩後屢敗復更請軍懿遣衆赴之迎者告急英率騎一千倍道赴救未至賊已退還英恐其入城别遣統軍元拔以隨其後英徼其前合擊之盡俘其衆懿續遣軍英不虞賊至且衆力已疲軍少人懼咸欲奔走英乃緩騎徐行神色自若登髙望賊東西指麾狀似處分然後整列而前賊謂有伏兵俄然賊退乘勢追殄遂圍南鄭禁止三軍一無所犯逺近皆供租運先是英未至也蕭懿遣軍主范潔領三千餘人伐獠潔聞大軍圍城欲還救援英遣統軍李平敵李鐵騎等收合巴西晉壽土人以斷其路潔以死決戰遂敗平敵之軍英候其稍近以奇兵掩之盡皆擒獲攻圍九十餘日戰無不克被勑班師英於是先遣老弱身勒精卒留後遣使與懿告别懿以為詐也英還一日猶閉門不開二日之後懿乃遣將追英英親自殿後與士卒下馬交戰賊衆莫敢逼之四日四夜然後賊退全軍而還㑹山氐並反斷英歸路英勒衆奮擊且戰且行為流矢所中軍人莫有知者以功遷安南大將軍賜爵廣武伯在仇池六載甚有威惠之稱父憂解任髙祖討漢陽起英為左衛將軍加前將軍尋遷大宗正又轉尚書仍本將軍鎮荆州蕭寶卷將陳顯}
+  - {type: variant, offset: 715, length: 0, content: '', WYG: 等宼荆州英連戰失利車駕至南陽免英官爵世宗即位行徐州還復尚書廣武伯蕭寶卷遣將軍陳伯之宼淮南司徒彭城王勰鎮壽春以英為鎮南將軍率衆討之英未至賊已引退勰還詔英行揚州後英還京師上表曰臣聞取亂侮亡有國之常道陳師鞠旅因機而致發竊以區區寶卷罔顧天常慿恃山河敢抗中國今妖逆數亡驕縱日甚威侮五行怠棄三正滛刑以逞虐害無辜其雍州刺史蕭衍東伐秣陵埽土興}
+  - {type: page-break, offset: 715, content: '', id: KR2a0020_WYG_019-69a, image: WYG0261/WYG0261-0309c.png}
+  - {type: variant, offset: 715, length: 0, content: '', krp: 等宼荆州英連戰失利車駕至南陽免英官爵世宗即位行徐州還復尚書廣武伯蕭寶卷遣將軍陳伯之宼淮南司徒彭城王勰鎮壽春以英為鎮南將軍率衆討之英未至賊已引退勰還詔英行揚州後英還京師上表曰臣聞取亂侮亡有國之常道陳師鞠旅因機而致發竊以區區寶卷罔顧天常慿恃山河敢抗中國今妖逆數亡驕縱日甚威侮五行怠棄三正滛刑以逞虐害無辜其雍州刺史蕭衍東伐秣陵埽土興}
+  - {type: variant, offset: 716, length: 1, content: 法, WYG: 順流而下唯有孤城更無重衛此則皇天授我之日曠載一逢之秋事易走丸理同拾芥此而不乘將欲何待臣乞躬率步騎三萬直指沔隂據襄陽之城斷黒水之路昏虐君臣自相魚肉我居上流威震遐邇長驅南出進拔江陵其路既近不盈五百則三楚之地一朝可收岷蜀之道自成斷絶又命揚徐二州聲言俱舉縁江焚毁靡使所遺建業窮蹙魚遊釡内士治之師再興孫皓之縛重至齊文軌而大同混天地而為一伏惟陛下暫闢旒纊少垂聽覧獨決聖心無取疑議此期脱爽幷吞未日事寢不報英又奏曰臣聞乘虚討弱事在速舉因危攻昧徼㨗可期今寶卷亂常骨肉相賊蕃戍鼎立莫知所歸義陽孤絶密邇天境外靡糧援之期内無兵儲之固此乃臨焚之鳥不可去薪授首之寇何容緩斧若此行有果則江右之地斯為經畧之基如脱否也非直後舉難圖亦或居要生疾今豫州刺史司馬悦已戒嚴垂邁而東豫州刺史田益宗方擬守三闗請遣軍司為之節度世宗遣直寢羊靈引為軍司以軍功拜吏部尚書以前後軍功進爵常山侯英奏謹案學令諸州郡學生三年一校所通經數因正使列之然後遣使就郡練考臣伏惟聖明崇道顯成均之風藴義光膠序之美是以太學之館久置於下國四門之敎方構於京廛計習訓淹年聽受累紀然儁造之流應問於魏闕不革之輩宜返於齊民使就郡練考覈其最殿頃以皇都遷構江揚未一故鄉校之訓弗遑正試致使薰蕕之質均誨學庭蘭蕭之體等敎文肆今外宰京官銓考向訖求遣四門博士明通五經者道别校練依令黜陟詔曰學業墮廢為日已久非一使能勸比當别勑尋詔英使持節假鎮南將軍都督征義陽諸軍事率衆南討蕭衍司州刺史蔡道恭聞英將至遣其驍騎將軍楊由率城外居民三千餘家於城西南十里賢首山即嶺為二柵作表裏之勢英勒諸軍圍賢首壘焚其柵門楊由乃驅水牛從營而出繼之以兵軍人避牛師遂退下尋分兵圍守其夜柵民任馬駒斬由以降三軍館穀降民安堵蕭衍遣其平西將軍曹景宗後將軍王僧炳等率步騎三萬來救義陽僧炳統衆二萬據鑿峴景宗率一萬繼後英遣冠軍將軍元逞揚烈將軍曹文敬進據樊城以抗之英部勒將士掎角討之大破僧炳軍俘斬四千餘人英又於士雅山結壘與景宗相抗分遣諸統伏於四山示之以弱衍將馬仙琕率衆萬餘來掩英營英命諸軍偽北誘之既至平地統軍𫝊永等三軍擊之賊便奔退進擊潰之斬首二千三百級斬賊羽林監軍鄧終年仙琕又率一萬餘人重來決戰英勒諸將隨便分擊又破之復斬賊將陳秀之統軍王買奴别破東嶺之陣斬首五百道恭憂死驍騎將軍行州事蔡靈恩復憑窮城短兵日接景宗仙琕知城將拔盡鋭決戰一日三交皆大敗而返靈恩勢窘遂降三闗戍聞之亦棄城而走詔曰知賊城已下復克三闗展威闢境聲畧宣振公私稱泰良以欣然將軍淵䂓内斷忠謨外舉受律揚旌克申廟算雖方叔之制蠻荆召虎之掃淮浦匹兹蔑如也新州初附宜廣經畧想善加檢督必令周固有所委付然後凱旋耳初髙祖之平漢陽英有戰功許復其封反為顯達所敗遂寢是役也世宗大悦乃復之改封中山王食邑一千戸遣大使鴻臚少卿睦延吉持節就拜英送蔡靈恩及衍尚書郎蔡僧勰前軍將軍義陽太守馮道要遊擊將軍鮑懐慎天門太守王承伯平北府司馬宗象平北府諮議參軍伏粲給事中寧朔將軍蔡道基中兵參軍龎脩等數十人詔曰㑹平江南此等便可放歸也英既還世宗引見深嘉勞之後増封一千户蕭衍遣將軍寇肥梁詔英使持節加散騎常侍征南將軍都督揚徐二道諸軍事率衆十萬討之}
+  - {type: page-break, offset: 716, content: '', id: KR2a0020_WYG_019-69b, image: WYG0261/WYG0261-0309d.png}
+  - {type: page-break, offset: 716, content: '', id: KR2a0020_WYG_019-70a, image: WYG0261/WYG0261-0310a.png}
+  - {type: page-break, offset: 716, content: '', id: KR2a0020_WYG_019-70b, image: WYG0261/WYG0261-0310b.png}
+  - {type: page-break, offset: 716, content: '', id: KR2a0020_WYG_019-71a, image: WYG0261/WYG0261-0310c.png}
+  - {type: page-break, offset: 716, content: '', id: KR2a0020_WYG_019-71b, image: WYG0261/WYG0261-0310d.png}
+  - {type: page-break, offset: 716, content: '', id: KR2a0020_WYG_019-72a, image: WYG0261/WYG0261-0311a.png}
+  - {type: page-break, offset: 716, content: '', id: KR2a0020_WYG_019-72b, image: WYG0261/WYG0261-0311b.png}
+  - {type: page-break, offset: 716, content: '', id: KR2a0020_WYG_019-73a, image: WYG0261/WYG0261-0311c.png}
+  - {type: variant, offset: 716, length: 1, content: 法, krp: 順流而下唯有孤城更無重衛此則皇天授我之日曠載一逢之秋事易走丸理同拾芥此而不乘將欲何待臣乞躬率步騎三萬直指沔隂據襄陽之城斷黒水之路昏虐君臣自相魚肉我居上流威震遐邇長驅南出進拔江陵其路既近不盈五百則三楚之地一朝可收岷蜀之道自成斷絶又命揚徐二州聲言俱舉縁江焚毁靡使所遺建業窮蹙魚遊釡内士治之師再興孫皓之縛重至齊文軌而大同混天地而為一伏惟陛下暫闢旒纊少垂聽覧獨決聖心無取疑議此期脱爽幷吞未日事寢不報英又奏曰臣聞乘虚討弱事在速舉因危攻昧徼㨗可期今寶卷亂常骨肉相賊蕃戍鼎立莫知所歸義陽孤絶密邇天境外靡糧援之期内無兵儲之固此乃臨焚之鳥不可去薪授首之寇何容緩斧若此行有果則江右之地斯為經畧之基如脱否也非直後舉難圖亦或居要生疾今豫州刺史司馬悦已戒嚴垂邁而東豫州刺史田益宗方擬守三闗請遣軍司為之節度世宗遣直寢羊靈引為軍司以軍功拜吏部尚書以前後軍功進爵常山侯英奏謹案學令諸州郡學生三年一校所通經數因正使列之然後遣使就郡練考臣伏惟聖明崇道顯成均之風藴義光膠序之美是以太學之館久置於下國四門之敎方構於京廛計習訓淹年聽受累紀然儁造之流應問於魏闕不革之輩宜返於齊民使就郡練考覈其最殿頃以皇都遷構江揚未一故鄉校之訓弗遑正試致使薰蕕之質均誨學庭蘭蕭之體等敎文肆今外宰京官銓考向訖求遣四門博士明通五經者道别校練依令黜陟詔曰學業墮廢為日已久非一使能勸比當别勑尋詔英使持節假鎮南將軍都督征義陽諸軍事率衆南討蕭衍司州刺史蔡道恭聞英將至遣其驍騎將軍楊由率城外居民三千餘家於城西南十里賢首山即嶺為二柵作表裏之勢英勒諸軍圍賢首壘焚其柵門楊由乃驅水牛從營而出繼之以兵軍人避牛師遂退下尋分兵圍守其夜柵民任馬駒斬由以降三軍館穀降民安堵蕭衍遣其平西將軍曹景宗後將軍王僧炳等率步騎三萬來救義陽僧炳統衆二萬據鑿峴景宗率一萬繼後英遣冠軍將軍元逞揚烈將軍曹文敬進據樊城以抗之英部勒將士掎角討之大破僧炳軍俘斬四千餘人英又於士雅山結壘與景宗相抗分遣諸統伏於四山示之以弱衍將馬仙琕率衆萬餘來掩英營英命諸軍偽北誘之既至平地統軍𫝊永等三軍擊之賊便奔退進擊潰之斬首二千三百級斬賊羽林監軍鄧終年仙琕又率一萬餘人重來決戰英勒諸將隨便分擊又破之復斬賊將陳秀之統軍王買奴别破東嶺之陣斬首五百道恭憂死驍騎將軍行州事蔡靈恩復憑窮城短兵日接景宗仙琕知城將拔盡鋭決戰一日三交皆大敗而返靈恩勢窘遂降三闗戍聞之亦棄城而走詔曰知賊城已下復克三闗展威闢境聲畧宣振公私稱泰良以欣然將軍淵䂓内斷忠謨外舉受律揚旌克申廟算雖方叔之制蠻荆召虎之掃淮浦匹兹蔑如也新州初附宜廣經畧想善加檢督必令周固有所委付然後凱旋耳初髙祖之平漢陽英有戰功許復其封反為顯達所敗遂寢是役也世宗大悦乃復之改封中山王食邑一千戸遣大使鴻臚少卿睦延吉持節就拜英送蔡靈恩及衍尚書郎蔡僧勰前軍將軍義陽太守馮道要遊擊將軍鮑懐慎天門太守王承伯平北府司馬宗象平北府諮議參軍伏粲給事中寧朔將軍蔡道基中兵參軍龎脩等數十人詔曰㑹平江南此等便可放歸也英既還世宗引見深嘉勞之後増封一千户蕭衍遣將軍寇肥梁詔英使持節加散騎常侍征南將軍都督揚徐二道諸軍事率衆十萬討之}
+  - {type: punctuation, offset: 717, content: ，, id: KR2a0020_ZHSJ_019-bkkpn156}
+  - {type: 'tls:seg', offset: 717, content: '', id: KR2a0020_ZHSJ_019-d19p9s6}
+  - {type: variant, offset: 719, length: 0, content: '', WYG: 皆以便宜從事詔英曰賊勢滋甚圍逼肥梁邊將後䂓以至於此故有斯舉必期勝㨗而出軍淹滯肥梁已䧟聞之惋懣實乖本圖今衆軍雲集十有五萬進取之方其算安在克殄之期復當逺近竟以幾日可至賊所必勝之䂓何者為先故遣步兵校尉領中書舎人王雲指取機要英表陳事機乃擊破隂陵斬衍將二十五人及虜首五千餘級又頻破賊軍於梁城斬其支將四十二人殺獲及溺死者將五萬衍中軍大將軍臨川王蕭宏尚書左僕射桞惔等大將五人㳂淮南走凡收米三十萬石詔勞英曰知大摧鯨寇威振南海江浦無塵三楚卷􅅽聲被荒隅同軌斯始公私慶慰良副朕懐便當乘威藉響長驅吳㑹翦拉遺燼截彼東南也英追至于馬頭衍馬頭戍主委城遁走遂圍鍾離詔曰師行已久士馬疲瘠賊城險固卒難攻屠冬春之交稍非勝便十萬之衆日費無貲方圖後舉不待全事且可密装徐嚴為振旅之意整疆完土開示威畧左右蠻楚素應逃亡或竄山湖或難制掠若凶渠黠黨有須翦除者便可撲掃以清疆界如其彊狡憑阻未易致力者亦不煩肆兵凱旋遲近不復委曲英表曰臣奉辭伐罪志殄逋寇想敵量攻期至二月將末三月之初理在必克但自此月一日以來霖雨連併可謂天違人願然王者行師舉動不易不可以少致睽淹便生異議臣亦諦思若入三月已後天晴地燥憑陵是常如其連雨仍接不得進攻者臣已更髙邵陽之橋防其汎突意外洪長慮其破橋臣亦部分造船復於鍾離城隨水狹處營造浮橋至三月中旬橋必克成晴則攻騰雨則圍守水陸二圖以得為限實願朝廷特開逺畧少復賜寛假以日月無使為山之功中途而廢詔曰大軍野次已成勞久攻守之方理可豫見比頻得啓制勝不過暮春及省後表復期孟夏之末彼土蒸濘無宜久淹勢雖必取乃將軍之深計兵久力殆亦朝廷之所憂故遣主書曹道徃觀軍勢使還三具聞及道還英猶表云可克四月水盛破橋英及諸將狼狽奔走士衆沒者十有五六英至揚州遣使送節及衣冠貂蟬章綬詔以付典有司奏英經算失圖案劾處死詔恕死為民後京兆王愉反英復王封邑一千户除使持節假}
+  - {type: page-break, offset: 719, content: '', id: KR2a0020_WYG_019-73b, image: WYG0261/WYG0261-0311d.png}
+  - {type: page-break, offset: 719, content: '', id: KR2a0020_WYG_019-74a, image: WYG0261/WYG0261-0312a.png}
+  - {type: page-break, offset: 719, content: '', id: KR2a0020_WYG_019-74b, image: WYG0261/WYG0261-0312b.png}
+  - {type: page-break, offset: 719, content: '', id: KR2a0020_WYG_019-75a, image: WYG0261/WYG0261-0312c.png}
+  - {type: variant, offset: 719, length: 0, content: '', krp: 皆以便宜從事詔英曰賊勢滋甚圍逼肥梁邊將後䂓以至於此故有斯舉必期勝㨗而出軍淹滯肥梁已䧟聞之惋懣實乖本圖今衆軍雲集十有五萬進取之方其算安在克殄之期復當逺近竟以幾日可至賊所必勝之䂓何者為先故遣步兵校尉領中書舎人王雲指取機要英表陳事機乃擊破隂陵斬衍將二十五人及虜首五千餘級又頻破賊軍於梁城斬其支將四十二人殺獲及溺死者將五萬衍中軍大將軍臨川王蕭宏尚書左僕射桞惔等大將五人㳂淮南走凡收米三十萬石詔勞英曰知大摧鯨寇威振南海江浦無塵三楚卷壒聲被荒隅同軌斯始公私慶慰良副朕懐便當乘威藉響長驅吳㑹翦拉遺燼截彼東南也英追至于馬頭衍馬頭戍主委城遁走遂圍鍾離詔曰師行已久士馬疲瘠賊城險固卒難攻屠冬春之交稍非勝便十萬之衆日費無貲方圖後舉不待全事且可密装徐嚴為振旅之意整疆完土開示威畧左右蠻楚素應逃亡或竄山湖或難制掠若凶渠黠黨有須翦除者便可撲掃以清疆界如其彊狡憑阻未易致力者亦不煩肆兵凱旋遲近不復委曲英表曰臣奉辭伐罪志殄逋寇想敵量攻期至二月將末三月之初理在必克但自此月一日以來霖雨連併可謂天違人願然王者行師舉動不易不可以少致睽淹便生異議臣亦諦思若入三月已後天晴地燥憑陵是常如其連雨仍接不得進攻者臣已更髙邵陽之橋防其汎突意外洪長慮其破橋臣亦部分造船復於鍾離城隨水狹處營造浮橋至三月中旬橋必克成晴則攻騰雨則圍守水陸二圖以得為限實願朝廷特開逺畧少復賜寛假以日月無使為山之功中途而廢詔曰大軍野次已成勞久攻守之方理可豫見比頻得啓制勝不過暮春及省後表復期孟夏之末彼土蒸濘無宜久淹勢雖必取乃將軍之深計兵久力殆亦朝廷之所憂故遣主書曹道徃觀軍勢使還三具聞及道還英猶表云可克四月水盛破橋英及諸將狼狽奔走士衆沒者十有五六英至揚州遣使送節及衣冠貂蟬章綬詔以付典有司奏英經算失圖案劾處死詔恕死為民後京兆王愉反英復王封邑一千户除使持節假}
+  - {type: variant, offset: 720, length: 0, content: '', WYG: 東將軍都督冀州諸軍事英未發而冀州已平時郢州治中督榮祖潛引蕭衍軍以義陽應之三闗之戍並據城降衍郢州刺史婁悦嬰城自守懸瓠城民白早生等殺豫州刺史司馬悦據城南叛衍將齊茍仁率衆守懸瓠悦子尚華陽公主幷為所刼詔英使持節都督南征諸軍事假征南將軍出自汝南世宗引英謂之曰婁悦綏御失和銓衡闇於簡授故使郢民引寇闗戍外奔義陽孤窘有倒懸之切王國之召虎威名宿震故屈王親總元戎掃清氛穢昔衛霍以匈奴之故居無寧歲今南疆不靖王不得以屢勞為辭也英對曰臣才非韓白識闇孫吳徒以宗室之長頻荷推轂之寄規略淺短失律喪師宜章子反之戮以謝天下陛下慈深念屨愛等鍾牛使臣得同荀伯再生明世誓追孟氏以報復為期闗郢微寇何足平殄滅賊方畧已在臣目中願陛下勿勞聖慮也世宗曰截彼東南再清隨楚所望於將軍鍾離一眚豈足以損大徳今王董彼三軍朕無憂矣世宗以邢巒頻破早生詔英南赴義陽英以衆少累表請軍世宗弗許而英輒與邢巒分兵共攻懸瓠克之乃引軍而進初茍仁之據懸瓠衍寧朔將軍張道凝等率衆據楚城聞英將至棄城南走英追擊斬道凝及衍虎賁中郎曹苦生盡俘其衆既次義陽將取三闗英䇿之曰三闗相須如左右手若克一闗兩闗不待攻而定攻難不如攻易東闗易攻宜須先取即黄石公所謂}
+  - {type: page-break, offset: 720, content: '', id: KR2a0020_WYG_019-75b, image: WYG0261/WYG0261-0312d.png}
+  - {type: page-break, offset: 720, content: '', id: KR2a0020_WYG_019-76a, image: WYG0261/WYG0261-0313a.png}
+  - {type: page-break, offset: 720, content: '', id: KR2a0020_WYG_019-76b, image: WYG0261/WYG0261-0313b.png}
+  - {type: variant, offset: 720, length: 0, content: '', krp: 東將軍都督冀州諸軍事英未發而冀州已平時郢州治中督榮祖潛引蕭衍軍以義陽應之三闗之戍並據城降衍郢州刺史婁悦嬰城自守懸瓠城民白早生等殺豫州刺史司馬悦據城南叛衍將齊茍仁率衆守懸瓠悦子尚華陽公主幷為所刼詔英使持節都督南征諸軍事假征南將軍出自汝南世宗引英謂之曰婁悦綏御失和銓衡闇於簡授故使郢民引寇闗戍外奔義陽孤窘有倒懸之切王國之召虎威名宿震故屈王親總元戎掃清氛穢昔衛霍以匈奴之故居無寧歲今南疆不靖王不得以屢勞為辭也英對曰臣才非韓白識闇孫吳徒以宗室之長頻荷推轂之寄規略淺短失律喪師宜章子反之戮以謝天下陛下慈深念屨愛等鍾牛使臣得同荀伯再生明世誓追孟氏以報復為期闗郢微寇何足平殄滅賊方畧已在臣目中願陛下勿勞聖慮也世宗曰截彼東南再清隨楚所望於將軍鍾離一眚豈足以損大徳今王董彼三軍朕無憂矣世宗以邢巒頻破早生詔英南赴義陽英以衆少累表請軍世宗弗許而英輒與邢巒分兵共攻懸瓠克之乃引軍而進初茍仁之據懸瓠衍寧朔將軍張道凝等率衆據楚城聞英將至棄城南走英追擊斬道凝及衍虎賁中郎曹苦生盡俘其衆既次義陽將取三闗英䇿之曰三闗相須如左右手若克一闗兩闗不待攻而定攻難不如攻易東闗易攻宜須先取即黄石公所謂}
+  - {type: punctuation, offset: 721, content: ，, id: KR2a0020_ZHSJ_019-bkkpn157}
+  - {type: 'tls:seg', offset: 721, content: '', id: KR2a0020_ZHSJ_019-d19p9s7}
+  - {type: variant, offset: 721, length: 0, content: '', WYG: 如風發攻如河決英恐其并力於東乃使長史李華率五統向西闗分其兵勢身督諸軍向東闗先是馬仙埤使雲騎將軍馬廣率衆拒屯於長薄軍主胡文超别屯松峴英至長薄馬廣夜遁入於武陽英進師攻之聞衍遣其冠軍將軍彭瓮生驃騎將軍徐超秀援武陽英乃緩軍曰縱之使入此城吾先曾觀其形勢易攻耳吾取之如拾遺也諸將未之信瓫生等既入武陽英促圍攻之六日而廣等降於是進擊黄峴衍太子左衛率李元履棄城奔竄又討西闗衍司州刺史馬仙琕亦即退走果如英䇿凡擒其大將六人支將二十人卒七千米四十萬石軍資稱是還朝除尚書僕射永平三年英薨給東園祕器朝服一具帛七百匹贈司徒公諡曰獻武王英五子攸字𤣥興東宫洗馬早卒贈散騎侍郎攸弟熙字真興好學俊爽有文才聲著於世然輕躁浮動英深慮非保家之主}
+  - {type: page-break, offset: 721, content: '', id: KR2a0020_WYG_019-77a, image: WYG0261/WYG0261-0313c.png}
+  - {type: page-break, offset: 721, content: '', id: KR2a0020_WYG_019-77b, image: WYG0261/WYG0261-0313d.png}
+  - {type: variant, offset: 721, length: 0, content: '', krp: 如風發攻如河決英恐其并力於東乃使長史李華率五統向西闗分其兵勢身督諸軍向東闗先是馬仙埤使雲騎將軍馬廣率衆拒屯於長薄軍主胡文超别屯松峴英至長薄馬廣夜遁入於武陽英進師攻之聞衍遣其冠軍將軍彭瓮生驃騎將軍徐超秀援武陽英乃緩軍曰縱之使入此城吾先曾觀其形勢易攻耳吾取之如拾遺也諸將未之信瓫生等既入武陽英促圍攻之六日而廣等降於是進擊黄峴衍太子左衛率李元履棄城奔竄又討西闗衍司州刺史馬仙琕亦即退走果如英䇿凡擒其大將六人支將二十人卒七千米四十萬石軍資稱是還朝除尚書僕射永平三年英薨給東園祕器朝服一具帛七百匹贈司徒公諡曰獻武王英五子攸字𤣥興東宫洗馬早卒贈散騎侍郎攸弟熙字真興好學俊爽有文才聲著於世然輕躁浮動英深慮非保家之主}
+  - {type: variant, offset: 722, length: 1, content: 有, WYG: 欲廢之立第四子畧為世子宗議不聽畧又固請乃止起家祕書郎延昌二年襲封累遷兼將作}
+  - {type: variant, offset: 722, length: 1, content: 有, krp: 欲廢之立第四子畧為世子宗議不聽畧又固請乃止起家祕書郎延昌二年襲封累遷兼將作}
+  - {type: variant, offset: 724, length: 12, content: 功才藝比陳留桓王而智略過, WYG: 匠拜太常少􅀸給事黄門侍郎尋轉光祿勲時領軍于忠執政熙忠}
+  - {type: variant, offset: 724, length: 12, content: 功才藝比陳留桓王而智略過, krp: 匠拜太常少卿給事黄門侍郎尋轉光祿勲時領軍于忠執政熙忠}
+  - {type: punctuation, offset: 725, content: ．, id: KR2a0020_ZHSJ_019-bkkpn158}
+  - {type: 'tls:seg', offset: 725, content: '', id: KR2a0020_ZHSJ_019-d19p9s8}
+  - {type: line-break, offset: 728, content: '', id: ZHSJ__dup4925}
+  - {type: punctuation, offset: 732, content: ，, id: KR2a0020_ZHSJ_019-bkkpn159}
+  - {type: 'tls:seg', offset: 732, content: '', id: KR2a0020_ZHSJ_019-d19p9s9}
+  - {type: punctuation, offset: 737, content: ．, id: KR2a0020_ZHSJ_019-bkkpn160}
+  - {type: 'tls:seg', offset: 737, content: '', id: KR2a0020_ZHSJ_019-d19p9s10}
+  - {type: variant, offset: 737, length: 8, content: 從世祖破赫連昌遂, WYG: 壻也故歲中驟遷尋除平}
+  - {type: variant, offset: 737, length: 8, content: 從世祖破赫連昌遂, krp: 壻也故歲中驟遷尋除平}
+  - {type: punctuation, offset: 744, content: ，, id: KR2a0020_ZHSJ_019-bkkpn161}
+  - {type: 'tls:seg', offset: 744, content: '', id: KR2a0020_ZHSJ_019-d19p9s11}
+  - {type: variant, offset: 746, length: 20, content: 略至木根山討和龍健別攻拔建德後平叛胡白龍, WYG: 將軍東秦州刺史進號安百將軍祕書監尋以本將軍授相州刺史熙以七月入治其日大風寒雨凍死者二十}
+  - {type: page-break, offset: 746, content: '', id: KR2a0020_WYG_019-78a, image: WYG0261/WYG0261-0314a.png}
+  - {type: variant, offset: 746, length: 20, content: 略至木根山討和龍健別攻拔建德後平叛胡白龍, krp: 將軍東秦州刺史進號安百將軍祕書監尋以本將軍授相州刺史熙以七月入治其日大風寒雨凍死者二十}
+  - {type: punctuation, offset: 751, content: ．, id: KR2a0020_ZHSJ_019-bkkpn162}
+  - {type: 'tls:seg', offset: 751, content: '', id: KR2a0020_ZHSJ_019-d19p9s12}
+  - {type: punctuation, offset: 754, content: ，, id: KR2a0020_ZHSJ_019-bkkpn163}
+  - {type: 'tls:seg', offset: 754, content: '', id: KR2a0020_ZHSJ_019-d19p9s13}
+  - {type: punctuation, offset: 760, content: ．, id: KR2a0020_ZHSJ_019-bkkpn164}
+  - {type: 'tls:seg', offset: 760, content: '', id: KR2a0020_ZHSJ_019-d19p9s14}
+  - {type: line-break, offset: 761, content: '', id: ZHSJ__dup4926}
+  - {type: variant, offset: 767, length: 28, content: 黨于西河世祖襲蠕蠕越涿邪山車駕還詔健殿後蠕蠕萬騎追之健與, WYG: 人驢馬}
+  - {type: variant, offset: 767, length: 28, content: 黨于西河世祖襲蠕蠕越涿邪山車駕還詔健殿後蠕蠕萬騎追之健與, krp: 人驢馬}
+  - {type: punctuation, offset: 771, content: ．, id: KR2a0020_ZHSJ_019-bkkpn165}
+  - {type: 'tls:seg', offset: 771, content: '', id: KR2a0020_ZHSJ_019-d19p9s15}
+  - {type: punctuation, offset: 776, content: ，, id: KR2a0020_ZHSJ_019-bkkpn166}
+  - {type: 'tls:seg', offset: 776, content: '', id: KR2a0020_ZHSJ_019-d19p9s16}
+  - {type: punctuation, offset: 780, content: ．, id: KR2a0020_ZHSJ_019-bkkpn167}
+  - {type: 'tls:seg', offset: 780, content: '', id: KR2a0020_ZHSJ_019-d19p9s17}
+  - {type: punctuation, offset: 783, content: ，, id: KR2a0020_ZHSJ_019-bkkpn168}
+  - {type: 'tls:seg', offset: 783, content: '', id: KR2a0020_ZHSJ_019-d19p9s18}
+  - {type: punctuation, offset: 787, content: ，, id: KR2a0020_ZHSJ_019-bkkpn169}
+  - {type: 'tls:seg', offset: 787, content: '', id: KR2a0020_ZHSJ_019-d19p9s19}
+  - {type: punctuation, offset: 793, content: ，, id: KR2a0020_ZHSJ_019-bkkpn170}
+  - {type: 'tls:seg', offset: 793, content: '', id: KR2a0020_ZHSJ_019-d19p9s20}
+  - {type: line-break, offset: 795, content: '', id: ZHSJ__dup4927}
+  - {type: variant, offset: 797, length: 2, content: 騎擊, WYG: 匹熙聞其祖父前事心惡}
+  - {type: variant, offset: 797, length: 2, content: 騎擊, krp: 匹熙聞其祖父前事心惡}
+  - {type: punctuation, offset: 800, content: ，, id: KR2a0020_ZHSJ_019-bkkpn171}
+  - {type: 'tls:seg', offset: 800, content: '', id: KR2a0020_ZHSJ_019-d19p9s21}
+  - {type: variant, offset: 800, length: 1, content: 矢, WYG: 又有蛆生其庭初熙兄弟並為清河王懌所昵及劉騰元义隔絶二宫矯詔殺懌熙乃起兵上表曰臣聞安危無常時有休否臣早屬休明晚逢多難自皇基綿茂九葉承光高祖世宗徽明相襲皇太后聖敬自天徳同馬鄧至尊神叡纂御神鑒燭逺四海晏如八表歸化而領軍將軍元义寵藉外親叨榮左右豺狼為心飽便反嚙遂使二宫阻隔温凊闕禮又太傅清河王横被屠害致使忠臣烈士喪氣闕庭親賢宗戚憤恨内外妄指鹿馬孰能踰之王董權逼方此非譬臣仰瞻雲闕泣血而生以細草}
+  - {type: page-break, offset: 800, content: '', id: KR2a0020_WYG_019-78b, image: WYG0261/WYG0261-0314b.png}
+  - {type: variant, offset: 800, length: 1, content: 矢, krp: 又有蛆生其庭初熙兄弟並為清河王懌所昵及劉騰元义隔絶二宫矯詔殺懌熙乃起兵上表曰臣聞安危無常時有休否臣早屬休明晚逢多難自皇基綿茂九葉承光高祖世宗徽明相襲皇太后聖敬自天徳同馬鄧至尊神叡纂御神鑒燭逺四海晏如八表歸化而領軍將軍元义寵藉外親叨榮左右豺狼為心飽便反嚙遂使二宫阻隔温凊闕禮又太傅清河王横被屠害致使忠臣烈士喪氣闕庭親賢宗戚憤恨内外妄指鹿馬孰能踰之王董權逼方此非譬臣仰瞻雲闕泣血而生以細草}
+  - {type: variant, offset: 802, length: 1, content: 虛, WYG: 除將為爛漫況义悖逆如此孰可忍之臣忝藉枝蕚思盡力命碎首屠肝甘之若薺今輒起義兵實甲八萬大徒既進文武爭先與幷州刺史城陽王徽恒州刺史廣陽王淵徐州刺史齊王蕭寶夤等同以今月十四日俱}
+  - {type: variant, offset: 802, length: 1, content: 虛, krp: 除將為爛漫況义悖逆如此孰可忍之臣忝藉枝蕚思盡力命碎首屠肝甘之若薺今輒起義兵實甲八萬大徒既進文武爭先與幷州刺史城陽王徽恒州刺史廣陽王淵徐州刺史齊王蕭寶夤等同以今月十四日俱}
+  - {type: punctuation, offset: 804, content: ，, id: KR2a0020_ZHSJ_019-bkkpn172}
+  - {type: 'tls:seg', offset: 804, content: '', id: KR2a0020_ZHSJ_019-d19p9s22}
+  - {type: variant, offset: 804, length: 5, content: 所中皆應弦, WYG: 庶仰憑祖宗之靈俯罄義夫之命掃翦兇醜更清京邑臣親總三軍星邁赴難置兵温城伏聽天㫖王公宰輔或世著忠烈或宿佩恩顧如能同力翦除元义使太后至尊忻然奉對者臣即解甲散兵赴謝朝闕臣雖才乖昔人位居蕃屏寧容坐觀姦醜虚受榮禄哉熙兵起甫十日為其長史栁元章别駕游荆魏郡太守李孝怡率諸城人鼓譟}
+  - {type: page-break, offset: 804, content: '', id: KR2a0020_WYG_019-79a, image: WYG0261/WYG0261-0314c.png}
+  - {type: variant, offset: 804, length: 5, content: 所中皆應弦, krp: 庶仰憑祖宗之靈俯罄義夫之命掃翦兇醜更清京邑臣親總三軍星邁赴難置兵温城伏聽天㫖王公宰輔或世著忠烈或宿佩恩顧如能同力翦除元义使太后至尊忻然奉對者臣即解甲散兵赴謝朝闕臣雖才乖昔人位居蕃屏寧容坐觀姦醜虚受榮禄哉熙兵起甫十日為其長史栁元章别駕游荆魏郡太守李孝怡率諸城人鼓譟}
+  - {type: variant, offset: 810, length: 24, content: 斃遂退威震漠北尋從平涼州健功居多又討破禿髮保周自, WYG: 入}
+  - {type: variant, offset: 810, length: 24, content: 斃遂退威震漠北尋從平涼州健功居多又討破禿髮保周自, krp: 入}
+  - {type: punctuation, offset: 811, content: ，, id: KR2a0020_ZHSJ_019-bkkpn173}
+  - {type: 'tls:seg', offset: 811, content: '', id: KR2a0020_ZHSJ_019-d19p9s23}
+  - {type: punctuation, offset: 813, content: ．, id: KR2a0020_ZHSJ_019-bkkpn174}
+  - {type: 'tls:seg', offset: 813, content: '', id: KR2a0020_ZHSJ_019-d19p9s24}
+  - {type: punctuation, offset: 817, content: ．, id: KR2a0020_ZHSJ_019-bkkpn175}
+  - {type: 'tls:seg', offset: 817, content: '', id: KR2a0020_ZHSJ_019-d19p9s25}
+  - {type: punctuation, offset: 822, content: ，, id: KR2a0020_ZHSJ_019-bkkpn176}
+  - {type: 'tls:seg', offset: 822, content: '', id: KR2a0020_ZHSJ_019-d19p9s26}
+  - {type: punctuation, offset: 826, content: ．, id: KR2a0020_ZHSJ_019-bkkpn177}
+  - {type: 'tls:seg', offset: 826, content: '', id: KR2a0020_ZHSJ_019-d19p9s27}
+  - {type: line-break, offset: 828, content: '', id: ZHSJ__dup4928}
+  - {type: punctuation, offset: 833, content: ，, id: KR2a0020_ZHSJ_019-bkkpn178}
+  - {type: 'tls:seg', offset: 833, content: '', id: KR2a0020_ZHSJ_019-d19p9s28}
+  - {type: punctuation, offset: 835, content: ，, id: KR2a0020_ZHSJ_019-bkkpn179}
+  - {type: 'tls:seg', offset: 835, content: '', id: KR2a0020_ZHSJ_019-d19p9s29}
+  - {type: variant, offset: 835, length: 0, content: '', WYG: 熙左右四十餘人執熙置之髙樓并其子弟义遣尚書左丞盧同斬之於鄴街}
+  - {type: variant, offset: 835, length: 0, content: '', krp: 熙左右四十餘人執熙置之髙樓并其子弟义遣尚書左丞盧同斬之於鄴街}
+  - {type: punctuation, offset: 839, content: ；, id: KR2a0020_ZHSJ_019-bkkpn180}
+  - {type: 'tls:seg', offset: 839, content: '', id: KR2a0020_ZHSJ_019-d19p9s30}
+  - {type: variant, offset: 839, length: 0, content: '', WYG: 始熙妃于氏知熙必敗不從其謀自初哭泣不絶至於熙死熙臨刑為五言詩示其竂吏曰義實動君子主辱死忠臣何以明是節將解七尺身與知友别曰平生方寸心殷勤屬知已從今一銷化悲傷無極已熙既蕃王之貴加有文學好奇愛異交結偉俊風氣甚髙名美當世先達後進多造其門始熙之鎮鄴也知友才學之士袁飜李琰李神儁王誦兄弟裴敬憲等咸餞於河梁賦詩告别及熙將死}
+  - {type: page-break, offset: 839, content: '', id: KR2a0020_WYG_019-79b, image: WYG0261/WYG0261-0314d.png}
+  - {type: variant, offset: 839, length: 0, content: '', krp: 始熙妃于氏知熙必敗不從其謀自初哭泣不絶至於熙死熙臨刑為五言詩示其竂吏曰義實動君子主辱死忠臣何以明是節將解七尺身與知友别曰平生方寸心殷勤屬知已從今一銷化悲傷無極已熙既蕃王之貴加有文學好奇愛異交結偉俊風氣甚髙名美當世先達後進多造其門始熙之鎮鄴也知友才學之士袁飜李琰李神儁王誦兄弟裴敬憲等咸餞於河梁賦詩告别及熙將死}
+  - {type: variant, offset: 840, length: 0, content: '', WYG: 與知故書曰吾與弟並蒙皇太后知遇兄據大州弟則入侍殷勤言色恩同慈母今皇太后見廢北宫太傅清河王横受屠酷主上幼年獨在前殿君親如此無以自安故率兵民建大義於天下但智力淺短旋見囚執上慙朝廷下愧相知本以名義干心不得不爾流腸碎首復何言哉昔李斯憶上蔡黄犬陸機想華亭鶴唳豈不以恍惚無際一去不還者乎今欲對秋月臨春風藉芳草䕃花樹廣召名勝賦詩洛濱其可得乎凡百君子各敬爾宜為國為身善朂名節立功立事為身而已吾何言哉時人憐之又熙於任城王澄薨前夢有人告之曰任城當死死後二百日外君亦不免若其不信試看任城家熙夢中顧瞻任城第舎四面牆崩無遺堵焉熙惡之覺而以告所親及熙之死也果如所夢兄弟三人毎從英征伐在軍貪暴或因迎}
+  - {type: page-break, offset: 840, content: '', id: KR2a0020_WYG_019-80a, image: WYG0261/WYG0261-0315a.png}
+  - {type: page-break, offset: 840, content: '', id: KR2a0020_WYG_019-80b, image: WYG0261/WYG0261-0315b.png}
+  - {type: variant, offset: 840, length: 0, content: '', krp: 與知故書曰吾與弟並蒙皇太后知遇兄據大州弟則入侍殷勤言色恩同慈母今皇太后見廢北宫太傅清河王横受屠酷主上幼年獨在前殿君親如此無以自安故率兵民建大義於天下但智力淺短旋見囚執上慙朝廷下愧相知本以名義干心不得不爾流腸碎首復何言哉昔李斯憶上蔡黄犬陸機想華亭鶴唳豈不以恍惚無際一去不還者乎今欲對秋月臨春風藉芳草䕃花樹廣召名勝賦詩洛濱其可得乎凡百君子各敬爾宜為國為身善朂名節立功立事為身而已吾何言哉時人憐之又熙於任城王澄薨前夢有人告之曰任城當死死後二百日外君亦不免若其不信試看任城家熙夢中顧瞻任城第舎四面牆崩無遺堵焉熙惡之覺而以告所親及熙之死也果如所夢兄弟三人毎從英征伐在軍貪暴或因迎}
+  - {type: variant, offset: 841, length: 2, content: 沮渠, WYG: 逐北至有斬殺}
+  - {type: variant, offset: 841, length: 2, content: 沮渠, krp: 逐北至有斬殺}
+  - {type: variant, offset: 844, length: 4, content: 諱無疾薨, WYG: 辜多増首級以為功狀又于忠之誣郭祚裴植也忠意未決害之由熙勸奬遂至極法世以為寃及熙之禍議者以為有報應焉靈太后反政贈使持節都督冀定瀛相幽五州諸軍事大將軍太尉公冀州刺史増本封一千户}
+  - {type: page-break, offset: 844, content: '', id: KR2a0020_WYG_019-81a, image: WYG0261/WYG0261-0315c.png}
+  - {type: variant, offset: 844, length: 4, content: 諱無疾薨, krp: 辜多増首級以為功狀又于忠之誣郭祚裴植也忠意未決害之由熙勸奬遂至極法世以為寃及熙之禍議者以為有報應焉靈太后反政贈使持節都督冀定瀛相幽五州諸軍事大將軍太尉公冀州刺史増本封一千户}
+  - {type: punctuation, offset: 845, content: ．, id: KR2a0020_ZHSJ_019-bkkpn181}
+  - {type: 'tls:seg', offset: 845, content: '', id: KR2a0020_ZHSJ_019-d19p9s31}
+  - {type: punctuation, offset: 848, content: ，, id: KR2a0020_ZHSJ_019-bkkpn182}
+  - {type: 'tls:seg', offset: 848, content: '', id: KR2a0020_ZHSJ_019-d19p9s32}
+  - {type: variant, offset: 850, length: 0, content: '', WYG: 文}
+  - {type: variant, offset: 850, length: 0, content: '', krp: 文}
+  - {type: punctuation, offset: 852, content: ．, id: KR2a0020_ZHSJ_019-bkkpn183}
+  - {type: xml-element, offset: 852, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele18}
+  - {type: xml-element, offset: 852, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele19}
+  - {type: 'tls:seg', offset: 852, content: '', id: KR2a0020_ZHSJ_019-d19p10s1}
+  - {type: line-break, offset: 852, content: '', id: ZHSJ__dup4929}
+  - {type: variant, offset: 852, length: 0, content: '', WYG: 長}
+  - {type: variant, offset: 852, length: 0, content: '', krp: 長}
+  - {type: variant, offset: 853, length: 0, content: '', WYG: 景獻次仲獻次叔獻並與熙同被害後贈景獻中軍將軍青州刺史葬以王禮仲獻左將軍兗州刺史叔獻右將軍齊州刺史叔獻弟叔}
+  - {type: variant, offset: 853, length: 0, content: '', krp: 景獻次仲獻次叔獻並與熙同被害後贈景獻中軍將軍青州刺史葬以王禮仲獻左將軍兗州刺史叔獻右將軍齊州刺史叔獻弟叔}
+  - {type: punctuation, offset: 854, content: ，, id: KR2a0020_ZHSJ_019-bkkpn184}
+  - {type: 'tls:seg', offset: 854, content: '', id: KR2a0020_ZHSJ_019-d19p10s2}
+  - {type: variant, offset: 854, length: 0, content: '', WYG: 以年幼獲全與母于氏徙朔州孝昌初靈太后詔叔仁歸京師還其財宅}
+  - {type: variant, offset: 854, length: 0, content: '', krp: 以年幼獲全與母于氏徙朔州孝昌初靈太后詔叔仁歸京師還其財宅}
+  - {type: punctuation, offset: 855, content: ．, id: KR2a0020_ZHSJ_019-bkkpn185}
+  - {type: 'tls:seg', offset: 855, content: '', id: KR2a0020_ZHSJ_019-d19p10s3}
+  - {type: variant, offset: 855, length: 4, content: 仁亦驍勇, WYG: 先爵除征虜將軍通直散騎常侍孝莊初遇害於河隂贈衛大將軍儀同三司并州刺史子琳襲齊受禪爵例降熙弟誘字惠興自員外郎稍遷通直郎太子中庶子征虜將軍衛尉少卿出為右將軍南秦州刺史义斬之於岐州妻子得不坐追贈車騎大將軍雍州刺史後贈儀同三司追封都昌縣開國伯食邑八百户諡曰恭子始伯襲給事中齊受禪爵例降誘弟略字儁興才氣劣於熙而}
+  - {type: page-break, offset: 855, content: '', id: KR2a0020_WYG_019-81b, image: WYG0261/WYG0261-0315d.png}
+  - {type: variant, offset: 855, length: 4, content: 仁亦驍勇, krp: 先爵除征虜將軍通直散騎常侍孝莊初遇害於河隂贈衛大將軍儀同三司并州刺史子琳襲齊受禪爵例降熙弟誘字惠興自員外郎稍遷通直郎太子中庶子征虜將軍衛尉少卿出為右將軍南秦州刺史义斬之於岐州妻子得不坐追贈車騎大將軍雍州刺史後贈儀同三司追封都昌縣開國伯食邑八百户諡曰恭子始伯襲給事中齊受禪爵例降誘弟略字儁興才氣劣於熙而}
+  - {type: punctuation, offset: 859, content: ，, id: KR2a0020_ZHSJ_019-bkkpn186}
+  - {type: 'tls:seg', offset: 859, content: '', id: KR2a0020_ZHSJ_019-d19p10s4}
+  - {type: variant, offset: 860, length: 3, content: 父風世, WYG: 和邃之譽自員外郎稍遷羽林監通直散騎常侍冠軍將軍給事黄門侍郎清河王懌死後义黜略為懐朔鎮副將未及赴任㑹熙起兵與畧書來去尋值熙敗畧遂濳行自託舊識河内司馬始賓始賓便為荻茷夜與畧俱渡盟津詣上黨屯留縣栗法光法光素敦信義忻而納之畧舊識刁雙時為西河太守略復歸之停止經年雙乃令從子昌送畧濳遁江左蕭衍甚禮敬之封畧為中山王邑一千户宣城太守俄而徐州刺史元法僧據城南叛州内士庶皆為法僧擁逼衍乃以畧為大都督令詣彭城接誘初附畧至屯於河南為安樂王鑒所破畧唯數十騎入城衍尋遣其豫章王綜鎮徐州徴畧與法僧同還畧雖在江南自以家禍晨夜哭泣身若居喪又惡法僧為人與法僧言未嘗一笑衍復除畧衡州刺史未行㑹綜以城歸國綜長史江革司馬}
+  - {type: page-break, offset: 860, content: '', id: KR2a0020_WYG_019-82a, image: WYG0261/WYG0261-0316a.png}
+  - {type: page-break, offset: 860, content: '', id: KR2a0020_WYG_019-82b, image: WYG0261/WYG0261-0316b.png}
+  - {type: variant, offset: 860, length: 3, content: 父風世, krp: 和邃之譽自員外郎稍遷羽林監通直散騎常侍冠軍將軍給事黄門侍郎清河王懌死後义黜略為懐朔鎮副將未及赴任㑹熙起兵與畧書來去尋值熙敗畧遂濳行自託舊識河内司馬始賓始賓便為荻茷夜與畧俱渡盟津詣上黨屯留縣栗法光法光素敦信義忻而納之畧舊識刁雙時為西河太守略復歸之停止經年雙乃令從子昌送畧濳遁江左蕭衍甚禮敬之封畧為中山王邑一千户宣城太守俄而徐州刺史元法僧據城南叛州内士庶皆為法僧擁逼衍乃以畧為大都督令詣彭城接誘初附畧至屯於河南為安樂王鑒所破畧唯數十騎入城衍尋遣其豫章王綜鎮徐州徴畧與法僧同還畧雖在江南自以家禍晨夜哭泣身若居喪又惡法僧為人與法僧言未嘗一笑衍復除畧衡州刺史未行㑹綜以城歸國綜長史江革司馬}
+  - {type: punctuation, offset: 862, content: ，, id: KR2a0020_ZHSJ_019-bkkpn187}
+  - {type: 'tls:seg', offset: 862, content: '', id: KR2a0020_ZHSJ_019-d19p10s5}
+  - {type: variant, offset: 864, length: 1, content: 奇, WYG: 暅將士五千人悉見擒虜肅宗勑有司悉遣革等還南因以徴畧衍乃備禮遣}
+  - {type: variant, offset: 864, length: 1, content: 奇, krp: 暅將士五千人悉見擒虜肅宗勑有司悉遣革等還南因以徴畧衍乃備禮遣}
+  - {type: punctuation, offset: 866, content: ．, id: KR2a0020_ZHSJ_019-bkkpn188}
+  - {type: 'tls:seg', offset: 866, content: '', id: KR2a0020_ZHSJ_019-d19p10s6}
+  - {type: variant, offset: 866, length: 3, content: 後與濮, WYG: 畧之將還也衍為置酒餞别賜金銀百斤衍之百官悉送别江上遣其右衛徐確率百餘人送至京師肅宗詔光禄大夫刁雙境首勞問又勑徐州賜絹布各一千匹除畧侍中義}
+  - {type: page-break, offset: 866, content: '', id: KR2a0020_WYG_019-83a, image: WYG0261/WYG0261-0316c.png}
+  - {type: variant, offset: 866, length: 3, content: 後與濮, krp: 畧之將還也衍為置酒餞别賜金銀百斤衍之百官悉送别江上遣其右衛徐確率百餘人送至京師肅宗詔光禄大夫刁雙境首勞問又勑徐州賜絹布各一千匹除畧侍中義}
+  - {type: variant, offset: 871, length: 2, content: 閭若, WYG: 食邑一千户還達石人驛亭詔宗室親黨内外百官先相識者聽迎之近郊賜帛三千匹宅一區粟五千石奴婢三十人其司馬始賓除給事中領直後栗法光本縣令刁昌東平太守刁雙西兗州刺史其畧所至一餐一宿之處無不霑賞尋改封東平王又拜車騎大將軍左光禄大夫儀同三司領左衛將軍侍中如故又本官領國子祭酒遷大將軍尚書令靈太后甚寵任之其見委信殆與元徽相埓於時天下多事軍國萬端畧守常自保無他禆益唯唯具臣而已尒朱榮畧之姑夫畧素所輕忽畧又黨於鄭儼徐紇榮兼銜之榮入洛也見害於河隂贈以本官加太保司空徐州刺史諡曰}
+  - {type: page-break, offset: 871, content: '', id: KR2a0020_WYG_019-83b, image: WYG0261/WYG0261-0316d.png}
+  - {type: variant, offset: 871, length: 2, content: 閭若, krp: 食邑一千户還達石人驛亭詔宗室親黨内外百官先相識者聽迎之近郊賜帛三千匹宅一區粟五千石奴婢三十人其司馬始賓除給事中領直後栗法光本縣令刁昌東平太守刁雙西兗州刺史其畧所至一餐一宿之處無不霑賞尋改封東平王又拜車騎大將軍左光禄大夫儀同三司領左衛將軍侍中如故又本官領國子祭酒遷大將軍尚書令靈太后甚寵任之其見委信殆與元徽相埓於時天下多事軍國萬端畧守常自保無他禆益唯唯具臣而已尒朱榮畧之姑夫畧素所輕忽畧又黨於鄭儼徐紇榮兼銜之榮入洛也見害於河隂贈以本官加太保司空徐州刺史諡曰}
+  - {type: variant, offset: 874, length: 1, content: 謀, WYG: 貞子景式襲武定中北廣平太守齊受禪爵例降畧弟纂字紹興頗有將畧}
+  - {type: variant, offset: 874, length: 1, content: 謀, krp: 貞子景式襲武定中北廣平太守齊受禪爵例降畧弟纂字紹興頗有將畧}
+  - {type: variant, offset: 876, length: 0, content: '', WYG: 司徒祭酒聞熙舉兵因逃奔於鄴至即見擒與熙俱死追封北平縣公贈安北將軍恒州刺史改封髙唐縣開國侯食邑八百户子子獻襲卒於涇州司馬熙異母弟義興出後叔父並洛肅宗初除員外散騎侍郎及熙之遇害也義興以别後故得}
+  - {type: page-break, offset: 876, content: '', id: KR2a0020_WYG_019-84a, image: WYG0261/WYG0261-0317a.png}
+  - {type: variant, offset: 876, length: 0, content: '', krp: 司徒祭酒聞熙舉兵因逃奔於鄴至即見擒與熙俱死追封北平縣公贈安北將軍恒州刺史改封髙唐縣開國侯食邑八百户子子獻襲卒於涇州司馬熙異母弟義興出後叔父並洛肅宗初除員外散騎侍郎及熙之遇害也義興以别後故得}
+  - {type: variant, offset: 877, length: 17, content: 軌發覺賜死國除建寧王崇泰常七年封拜, WYG: 坐稍遷}
+  - {type: variant, offset: 877, length: 17, content: 軌發覺賜死國除建寧王崇泰常七年封拜, krp: 坐稍遷}
+  - {type: punctuation, offset: 878, content: ，, id: KR2a0020_ZHSJ_019-bkkpn189}
+  - {type: 'tls:seg', offset: 878, content: '', id: KR2a0020_ZHSJ_019-d19p10s7}
+  - {type: punctuation, offset: 880, content: ，, id: KR2a0020_ZHSJ_019-bkkpn190}
+  - {type: 'tls:seg', offset: 880, content: '', id: KR2a0020_ZHSJ_019-d19p10s8}
+  - {type: punctuation, offset: 882, content: ，, id: KR2a0020_ZHSJ_019-bkkpn191}
+  - {type: 'tls:seg', offset: 882, content: '', id: KR2a0020_ZHSJ_019-d19p10s9}
+  - {type: line-break, offset: 882, content: '', id: ZHSJ__dup4930}
+  - {type: punctuation, offset: 884, content: ．, id: KR2a0020_ZHSJ_019-bkkpn192}
+  - {type: xml-element, offset: 884, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele20}
+  - {type: xml-element, offset: 884, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele21}
+  - {type: 'tls:seg', offset: 884, content: '', id: KR2a0020_ZHSJ_019-d19p11s1}
+  - {type: line-break, offset: 884, content: '', id: ZHSJ__dup4931}
+  - {type: punctuation, offset: 888, content: ，, id: KR2a0020_ZHSJ_019-bkkpn193}
+  - {type: 'tls:seg', offset: 888, content: '', id: KR2a0020_ZHSJ_019-d19p11s2}
+  - {type: punctuation, offset: 893, content: ，, id: KR2a0020_ZHSJ_019-bkkpn194}
+  - {type: 'tls:seg', offset: 893, content: '', id: KR2a0020_ZHSJ_019-d19p11s3}
+  - {type: punctuation, offset: 898, content: ．, id: KR2a0020_ZHSJ_019-bkkpn195}
+  - {type: 'tls:seg', offset: 898, content: '', id: KR2a0020_ZHSJ_019-d19p11s4}
+  - {type: variant, offset: 898, length: 4, content: 從討北虜, WYG: 通直散騎常侍孝莊初於河隂遇害贈中軍將軍瀛州刺史後贈散騎常侍征東將軍餘如故義興妻趙郡李氏李頗}
+  - {type: variant, offset: 898, length: 4, content: 從討北虜, krp: 通直散騎常侍孝莊初於河隂遇害贈中軍將軍瀛州刺史後贈散騎常侍征東將軍餘如故義興妻趙郡李氏李頗}
+  - {type: variant, offset: 903, length: 4, content: 功高宗時, WYG: 婦工為尒朱榮妻所親昵永安中追}
+  - {type: variant, offset: 903, length: 4, content: 功高宗時, krp: 婦工為尒朱榮妻所親昵永安中追}
+  - {type: punctuation, offset: 904, content: ．, id: KR2a0020_ZHSJ_019-bkkpn196}
+  - {type: 'tls:seg', offset: 904, content: '', id: KR2a0020_ZHSJ_019-d19p11s5}
+  - {type: punctuation, offset: 907, content: ，, id: KR2a0020_ZHSJ_019-bkkpn197}
+  - {type: 'tls:seg', offset: 907, content: '', id: KR2a0020_ZHSJ_019-d19p11s6}
+  - {type: variant, offset: 908, length: 1, content: 崇, WYG: 義興燕郡王邑五百户尋改封鉅鹿王又改封武邑王}
+  - {type: variant, offset: 908, length: 1, content: 崇, krp: 義興燕郡王邑五百户尋改封鉅鹿王又改封武邑王}
+  - {type: page-break, offset: 909, content: '', id: KR2a0020_WYG_019-84b, image: WYG0261/WYG0261-0317b.png}
+  - {type: variant, offset: 910, length: 2, content: 麗濟, WYG: 述襲天平中通直郎齊受禪爵例降英弟怡起家步兵校尉轉城門校尉遷鄯善鎮將所在貪暴為有司所紏逃竄得免延昌中卒莊帝初以尒朱榮婦兄超贈驃騎大將軍太尉公雍州刺史扶風王長子肅起家員外散騎侍郎轉直寢莊帝初封肅魯郡王邑千户除散騎常侍出為後將軍廣州刺史後除衛將軍肆州刺史其弟曄僭立拜肅侍中太師録尚書事尋改除使持節都督青膠光齊}
+  - {type: variant, offset: 910, length: 2, content: 麗濟, krp: 述襲天平中通直郎齊受禪爵例降英弟怡起家步兵校尉轉城門校尉遷鄯善鎮將所在貪暴為有司所紏逃竄得免延昌中卒莊帝初以尒朱榮婦兄超贈驃騎大將軍太尉公雍州刺史扶風王長子肅起家員外散騎侍郎轉直寢莊帝初封肅魯郡王邑千户除散騎常侍出為後將軍廣州刺史後除衛將軍肆州刺史其弟曄僭立拜肅侍中太師録尚書事尋改除使持節都督青膠光齊}
+  - {type: variant, offset: 913, length: 0, content: '', WYG: 青五州諸軍事驃騎大將軍東南道大行臺青州刺史不行永熙二年薨贈使持節侍中都督并恒二州諸軍事本將軍司徒公并州刺史子道與襲除前將軍齊受禪爵例降曄字華興小字益子性輕躁有膂力起家祕書郎稍遷通直散騎常侍莊帝初封長廣}
+  - {type: page-break, offset: 913, content: '', id: KR2a0020_WYG_019-85a, image: WYG0261/WYG0261-0317c.png}
+  - {type: variant, offset: 913, length: 0, content: '', krp: 青五州諸軍事驃騎大將軍東南道大行臺青州刺史不行永熙二年薨贈使持節侍中都督并恒二州諸軍事本將軍司徒公并州刺史子道與襲除前將軍齊受禪爵例降曄字華興小字益子性輕躁有膂力起家祕書郎稍遷通直散騎常侍莊帝初封長廣}
+  - {type: punctuation, offset: 914, content: ．, id: KR2a0020_ZHSJ_019-bkkpn198}
+  - {type: 'tls:seg', offset: 914, content: '', id: KR2a0020_ZHSJ_019-d19p11s7}
+  - {type: variant, offset: 914, length: 1, content: 後, WYG: 邑一千户出為太原太守行并州事尒朱榮之死也世隆等奔還并州}
+  - {type: variant, offset: 914, length: 1, content: 後, krp: 邑一千户出為太原太守行并州事尒朱榮之死也世隆等奔還并州}
+  - {type: line-break, offset: 916, content: '', id: ZHSJ__dup4932}
+  - {type: variant, offset: 916, length: 1, content: 京, WYG: 尒朱}
+  - {type: variant, offset: 916, length: 1, content: 京, krp: 尒朱}
+  - {type: variant, offset: 918, length: 0, content: '', WYG: 㑹於建興乃推曄為主大赦所部號年建明尋為世隆等所廢前廢帝立封曄為東海}
+  - {type: page-break, offset: 918, content: '', id: KR2a0020_WYG_019-85b, image: WYG0261/WYG0261-0317d.png}
+  - {type: variant, offset: 918, length: 0, content: '', krp: 㑹於建興乃推曄為主大赦所部號年建明尋為世隆等所廢前廢帝立封曄為東海}
+  - {type: variant, offset: 919, length: 1, content: 杜, WYG: 邑}
+  - {type: variant, offset: 919, length: 1, content: 杜, krp: 邑}
+  - {type: variant, offset: 920, length: 1, content: 元, WYG: 萬}
+  - {type: variant, offset: 920, length: 1, content: 元, krp: 萬}
+  - {type: variant, offset: 921, length: 1, content: 寶, WYG: 戸}
+  - {type: variant, offset: 921, length: 1, content: 寶, krp: 戸}
+  - {type: variant, offset: 922, length: 1, content: 謀, WYG: 出}
+  - {type: variant, offset: 922, length: 1, content: 謀, krp: 出}
+  - {type: variant, offset: 923, length: 1, content: 逆, WYG: 帝}
+  - {type: variant, offset: 923, length: 1, content: 逆, krp: 帝}
+  - {type: punctuation, offset: 924, content: ，, id: KR2a0020_ZHSJ_019-bkkpn199}
+  - {type: 'tls:seg', offset: 924, content: '', id: KR2a0020_ZHSJ_019-d19p11s8}
+  - {type: variant, offset: 924, length: 1, content: 父, WYG: 初}
+  - {type: variant, offset: 924, length: 1, content: 父, krp: 初}
+  - {type: variant, offset: 925, length: 1, content: 子, WYG: 坐}
+  - {type: variant, offset: 925, length: 1, content: 子, krp: 坐}
+  - {type: variant, offset: 926, length: 1, content: 並, WYG: 事}
+  - {type: variant, offset: 926, length: 1, content: 並, krp: 事}
+  - {type: punctuation, offset: 929, content: ．, id: KR2a0020_ZHSJ_019-bkkpn200}
+  - {type: 'tls:seg', offset: 929, content: '', id: KR2a0020_ZHSJ_019-d19p11s9}
+  - {type: page-break, offset: 929, content: '', id: KR2a0020_ZHSJ_019-0416a}
+  - {type: line-break, offset: 929, content: '', id: ZHSJ__dup4933}
+  - {type: xml-element, offset: 929, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele22}
+  - {type: xml-element, offset: 929, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele23}
+  - {type: 'tls:seg', offset: 929, content: '', id: KR2a0020_ZHSJ_019-d19p12s1}
+  - {type: line-break, offset: 929, content: '', id: ZHSJ__dup4934}
+  - {type: variant, offset: 929, length: 1, content: 新, WYG: 於第無子爵除城陽王長壽皇}
+  - {type: variant, offset: 929, length: 1, content: 新, krp: 於第無子爵除城陽王長壽皇}
+  - {type: variant, offset: 931, length: 5, content: 王俊泰常七, WYG: 二}
+  - {type: variant, offset: 931, length: 5, content: 王俊泰常七, krp: 二}
+  - {type: punctuation, offset: 933, content: ，, id: KR2a0020_ZHSJ_019-bkkpn201}
+  - {type: 'tls:seg', offset: 933, content: '', id: KR2a0020_ZHSJ_019-d19p12s2}
+  - {type: punctuation, offset: 938, content: ，, id: KR2a0020_ZHSJ_019-bkkpn202}
+  - {type: 'tls:seg', offset: 938, content: '', id: KR2a0020_ZHSJ_019-d19p12s3}
+  - {type: variant, offset: 939, length: 0, content: '', WYG: 征西大將軍外都大官出為沃野鎮都大將性聰惠善撫接在鎮甚有威名延興五年薨諡康王長子多侯早卒次子鸞字宣明始繼叔章武敬王及兄卒還襲父爵身長八尺腰帶十圍以武藝著稱頻為北都大將髙祖時拜外都大官又出為持節都督河西諸軍事征西大將軍領護西戎校尉涼州鎮都大將改鎮立州以鸞為涼州刺史姑臧鎮都大將餘如故後朝于京師㑹車駕南討領鎮軍將軍定都洛陽髙祖幸鄴詔鸞留守及開建五等食邑一千户除使持節征南大將軍都督豫荆郢三州河内山陽東郡諸軍事與安南將軍盧淵李佐攻赭陽不克敗退而還時髙祖幸瑕丘鸞請罪行宮髙祖引見鸞等責之曰卿等總率戎徒義應奮節而進不能夷㧞賊城退不能殄兹小寇虧損王威罪應大辟朕革變之始事從寛貸今捨卿等死罪城陽降為定襄縣王削户五百古者軍行必載廟社之主所以示其威惠各有攸歸今徴卿等敗軍之罪於社主之前以彰厥咎後以留守之功還復本封増邑二百户除冠軍將軍河内太守轉并州刺史世宗初除平東將軍青州刺史後轉安北將軍定州刺史鸞愛樂佛道脩持五戒不飲酒食肉積歲長齋繕起佛寺勸率百姓共為土木之勞公私費擾頗為民患世宗聞而詔曰鸞親唯宗懿作牧大州民物殷繁綏寧所屬宜克己厲誠崇清樹惠而乃驟相徴發專為煩擾編户嗷嗷家懐嗟怨北州土廣姦亂是由凖法尋愆應加肅黜以鸞戚屬情有未忍可遣使者以義督責奪禄一周微示威罰也正始二年薨時年三十八贈帛六百匹詔中書舍人王雲宣㫖臨弔贈鎮北將軍冀州刺史諡懐王子徽字顯順粗涉書史頗有吏才世宗時襲封除遊擊將軍出為河内太守在郡清整有民譽徴拜長兼散騎常侍肅宗時除右將軍涼州刺史徽以徑途阻逺固請不行除散騎常侍其年除後將軍幷州刺史先是州界夏霜禾稼不熟民庶逃散安業者少徽輒開倉賑之文武咸共諫止徽曰昔汲長孺郡守耳尚輒開倉救民災敝況我皇家親近受委大藩豈可拘法而不救民困也先給後表肅宗嘉之加安北將軍後拜安西將軍秦州刺史詔書旦至夕發徽以將之秦部請詣闕恭授仍表啓固陳請不之職改授輔國將軍加度支尚書進號鎮軍將軍于時戎馬在郊王師屢敗徽以軍旅之費上國封絹二千匹粟一萬石以助軍用肅宗不納又以本官兼吏部尚書加侍中征東將軍遷衛將軍右光禄大夫拜尚書左僕射轉車騎將軍儀同三司固辭不拜聽解侍中然後受詔尋除尚書令加開府西道行臺不行時靈太后專制朝綱頺禠徽既居寵任無所匡弼與鄭儼之徒更相阿黨外似柔謹内多猜忌睚眦之忿必思報復識者嫉之又不能防閑其妻于氏遂與廣陽王淵姦通及淵受任軍府每有表啓論徽罪過雖涉誣毁頗亦實焉莊帝踐阼拜司州牧尋除司徒仍領牧元顥入洛徽從莊帝北巡及車駕還宫以與謀之功除侍中大司馬太尉公加羽葆鼓吹増邑通前二萬户餘官如故徽表辭官封前後屢上又啓云河上之功將士之力求回所封加諸勲義徽為莊帝親待内懼榮寵故有此辭以防外議莊帝識其意聽其辭封不許讓官徽後妻莊帝舅女侍中李彧帝之姊婿徽性侫媚善自取容挾内外之意宗室親戚莫與比焉遂與彧等勸帝圖榮莊帝亦先有意榮死世隆等屯據不解除徽太保仍大司馬宗師録尚書事總統内外徽本意謂榮死後枝葉自應散亡及尒朱宗族聚結謀難徽筭畧無出憂怖而已性多嫉妬不欲人居其前毎入參謀議獨與帝決朝臣有上軍國籌䇿者並勸帝不納乃云小賊何慮不除又恡惜財用自家及國於是有所賞賜咸出薄少或多而中減與而復追徒有糜費恩不感物莊帝雅自約狹尤亦徽所贊成太府少卿李苗徽司徒時司馬也徽待之頗厚苗每致忠言徽自得志多不採納苗謂人曰城陽本自蜂目而豺聲復將露也及尒朱兆之入禁衛奔散莊帝歩出雲龍門徽乘馬奔度帝頻呼之徽不顧而去遂走山南至故吏寇彌宅彌外雖容納内不自安乃怖徽云官捕將至令其避他所使人於路邀害送屍於尒朱兆出帝初贈使持節侍中太師大司馬録尚書事司州牧諡曰文獻子延襲爵武定末官至太子中庶子齊受禪爵例降徽兄顯魏給事中司徒掾卒贈輔國將軍東豫州刺史徽次兄顯恭字懐忠揚州别駕以軍功封平陽縣開國子邑三百户孝莊初除北中郎將遷左將軍東徐州刺史入為安東將軍大司農卿尋除中軍將軍荆州刺史莊帝既殺尒朱榮乃除顯恭使持節都督晉建南汾三州諸軍事鎮西將軍兼尚書左僕射西北道行臺晉州刺史尒朱兆入洛後死於晉陽出帝初贈衛大將軍并州刺史重贈車騎大將軍儀同三司子彦昭襲武定中漁陽太守齊受禪爵例降顯恭弟旭字顯和莊帝時封襄城郡王邑一千户武定末位至大司馬齊受禪爵例降章武王太洛皇興二年薨追贈征北大將軍章武郡王諡曰敬無子髙祖初以南安惠王第二子彬為後彬字豹兒襲爵勇健有武用出為使持節都督東秦豳夏三州諸軍事鎮西大將軍西戎校尉統萬鎮都大將朔州刺史以貪惏削封是時吐京胡反詔彬持節假平北將軍行汾州事率幷肆之衆往討之胡平仍除征虜將軍汾州刺史胡民去居等六百餘人保險謀反扇動徒類彬請兵二萬有司奏許之髙祖大怒曰何有動兵馬理也可隨宜肅治若不能權方静帖必須大衆者則先斬刺史然後發兵彬奉詔大懼而率州兵身先將士討胡平之太和二十三年卒賜錢十萬絹二百匹贈以本官加散騎常侍彬有五子長子融字永興儀貌壯麗衣冠甚偉性通率有豪氣高祖時拜祕書郎世宗初復先爵除驍騎將軍蕭衍遣將寇逼淮陽梁城陷没詔融假節征虜將軍别將南討大摧賊衆還復梁城于時揚州刺史元嵩為奴所害勑融行揚州事尋除假節征虜將軍幷州刺史及世宗崩兼司空營陪景陵拜宗正卿以本官行瀛州事遇疾不行未幾除散騎常侍平東將軍青州刺史還為祕書監遷中護軍進號撫軍將軍領河南尹加征東將軍性尤貪殘恣情聚斂為中尉紏弹削除官爵汾夏山胡叛逆連結正平平陽詔復融前封征東將軍持節都督以討之融寡於經畧為胡所敗久之加散騎常侍衛將軍左光禄大夫後賊帥鮮于脩禮寇暴瀛定二州長孫稚等討之失利除融車騎將軍為前驅左軍都督與廣陽王淵等共討脩禮師渡交津葛榮殺脩禮而自立轉營至白牛邏輕騎擊融融苦戰終日更無外援遂大奔敗於陳見殺肅宗為舉哀於東堂賜東園祕器朝服一具綵二千八百叚贈侍中都督雍華岐三州諸軍事本將軍司空雍州刺史尋以融死王事進贈司徒加前後部鼓吹諡曰莊武子景哲襲武定中開府儀同三司齊受禪爵例降景哲弟朗即後廢帝語在帝紀子黄頭襲封安定王改封安平王齊受禪爵例降融弟凝字定興起家恒州征虜錄事參軍累遷護軍長史凝姑尒朱榮妻莊帝初封東安王食邑五百户除持節安東將軍兗州刺史轉濟州刺史仍本將軍永熙二年薨贈持節都督滄瀛冀三州諸軍事驃騎大將軍冀州刺史子彦友襲武定中光禄大夫齊受禪爵例降凝弟湛字鎮興起家祕書郎轉尚書左司郎中遷廷尉少卿莊帝初遇害河隂贈征東將軍青州刺史追封漁陽王食邑五百户子俊襲齊受禪爵例降湛弟晏字俊興卒於祕書丞贈平東將軍祕書監豫州刺史樂陵王胡兒和平四年薨追封樂陵王贈征北大將軍諡曰康無子顯祖詔胡兒兄汝隂王天賜之第二子永全後之襲封後改名思譽髙祖初蠕蠕犯塞以思譽為鎮北大將軍北征大都將後除使持節本將軍領護匈奴校尉都督中軍都將出為使持節}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-86a, image: WYG0261/WYG0261-0318a.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-86b, image: WYG0261/WYG0261-0318b.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-87a, image: WYG0261/WYG0261-0318c.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-87b, image: WYG0261/WYG0261-0318d.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-88a, image: WYG0261/WYG0261-0319a.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-88b, image: WYG0261/WYG0261-0319b.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-89a, image: WYG0261/WYG0261-0319c.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-89b, image: WYG0261/WYG0261-0319d.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-90a, image: WYG0261/WYG0261-0320a.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-90b, image: WYG0261/WYG0261-0320b.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-91a, image: WYG0261/WYG0261-0320c.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-91b, image: WYG0261/WYG0261-0320d.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-92a, image: WYG0261/WYG0261-0321a.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-92b, image: WYG0261/WYG0261-0321b.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-93a, image: WYG0261/WYG0261-0321c.png}
+  - {type: page-break, offset: 939, content: '', id: KR2a0020_WYG_019-93b, image: WYG0261/WYG0261-0321d.png}
+  - {type: variant, offset: 939, length: 0, content: '', krp: 征西大將軍外都大官出為沃野鎮都大將性聰惠善撫接在鎮甚有威名延興五年薨諡康王長子多侯早卒次子鸞字宣明始繼叔章武敬王及兄卒還襲父爵身長八尺腰帶十圍以武藝著稱頻為北都大將髙祖時拜外都大官又出為持節都督河西諸軍事征西大將軍領護西戎校尉涼州鎮都大將改鎮立州以鸞為涼州刺史姑臧鎮都大將餘如故後朝于京師㑹車駕南討領鎮軍將軍定都洛陽髙祖幸鄴詔鸞留守及開建五等食邑一千户除使持節征南大將軍都督豫荆郢三州河内山陽東郡諸軍事與安南將軍盧淵李佐攻赭陽不克敗退而還時髙祖幸瑕丘鸞請罪行宮髙祖引見鸞等責之曰卿等總率戎徒義應奮節而進不能夷㧞賊城退不能殄兹小寇虧損王威罪應大辟朕革變之始事從寛貸今捨卿等死罪城陽降為定襄縣王削户五百古者軍行必載廟社之主所以示其威惠各有攸歸今徴卿等敗軍之罪於社主之前以彰厥咎後以留守之功還復本封増邑二百户除冠軍將軍河内太守轉并州刺史世宗初除平東將軍青州刺史後轉安北將軍定州刺史鸞愛樂佛道脩持五戒不飲酒食肉積歲長齋繕起佛寺勸率百姓共為土木之勞公私費擾頗為民患世宗聞而詔曰鸞親唯宗懿作牧大州民物殷繁綏寧所屬宜克己厲誠崇清樹惠而乃驟相徴發專為煩擾編户嗷嗷家懐嗟怨北州土廣姦亂是由凖法尋愆應加肅黜以鸞戚屬情有未忍可遣使者以義督責奪禄一周微示威罰也正始二年薨時年三十八贈帛六百匹詔中書舍人王雲宣㫖臨弔贈鎮北將軍冀州刺史諡懐王子徽字顯順粗涉書史頗有吏才世宗時襲封除遊擊將軍出為河内太守在郡清整有民譽徴拜長兼散騎常侍肅宗時除右將軍涼州刺史徽以徑途阻逺固請不行除散騎常侍其年除後將軍幷州刺史先是州界夏霜禾稼不熟民庶逃散安業者少徽輒開倉賑之文武咸共諫止徽曰昔汲長孺郡守耳尚輒開倉救民災敝況我皇家親近受委大藩豈可拘法而不救民困也先給後表肅宗嘉之加安北將軍後拜安西將軍秦州刺史詔書旦至夕發徽以將之秦部請詣闕恭授仍表啓固陳請不之職改授輔國將軍加度支尚書進號鎮軍將軍于時戎馬在郊王師屢敗徽以軍旅之費上國封絹二千匹粟一萬石以助軍用肅宗不納又以本官兼吏部尚書加侍中征東將軍遷衛將軍右光禄大夫拜尚書左僕射轉車騎將軍儀同三司固辭不拜聽解侍中然後受詔尋除尚書令加開府西道行臺不行時靈太后專制朝綱頺禠徽既居寵任無所匡弼與鄭儼之徒更相阿黨外似柔謹内多猜忌睚眦之忿必思報復識者嫉之又不能防閑其妻于氏遂與廣陽王淵姦通及淵受任軍府每有表啓論徽罪過雖涉誣毁頗亦實焉莊帝踐阼拜司州牧尋除司徒仍領牧元顥入洛徽從莊帝北巡及車駕還宫以與謀之功除侍中大司馬太尉公加羽葆鼓吹増邑通前二萬户餘官如故徽表辭官封前後屢上又啓云河上之功將士之力求回所封加諸勲義徽為莊帝親待内懼榮寵故有此辭以防外議莊帝識其意聽其辭封不許讓官徽後妻莊帝舅女侍中李彧帝之姊婿徽性侫媚善自取容挾内外之意宗室親戚莫與比焉遂與彧等勸帝圖榮莊帝亦先有意榮死世隆等屯據不解除徽太保仍大司馬宗師録尚書事總統内外徽本意謂榮死後枝葉自應散亡及尒朱宗族聚結謀難徽筭畧無出憂怖而已性多嫉妬不欲人居其前毎入參謀議獨與帝決朝臣有上軍國籌䇿者並勸帝不納乃云小賊何慮不除又恡惜財用自家及國於是有所賞賜咸出薄少或多而中減與而復追徒有糜費恩不感物莊帝雅自約狹尤亦徽所贊成太府少卿李苗徽司徒時司馬也徽待之頗厚苗每致忠言徽自得志多不採納苗謂人曰城陽本自蜂目而豺聲復將露也及尒朱兆之入禁衛奔散莊帝歩出雲龍門徽乘馬奔度帝頻呼之徽不顧而去遂走山南至故吏寇彌宅彌外雖容納内不自安乃怖徽云官捕將至令其避他所使人於路邀害送屍於尒朱兆出帝初贈使持節侍中太師大司馬録尚書事司州牧諡曰文獻子延襲爵武定末官至太子中庶子齊受禪爵例降徽兄顯魏給事中司徒掾卒贈輔國將軍東豫州刺史徽次兄顯恭字懐忠揚州别駕以軍功封平陽縣開國子邑三百户孝莊初除北中郎將遷左將軍東徐州刺史入為安東將軍大司農卿尋除中軍將軍荆州刺史莊帝既殺尒朱榮乃除顯恭使持節都督晉建南汾三州諸軍事鎮西將軍兼尚書左僕射西北道行臺晉州刺史尒朱兆入洛後死於晉陽出帝初贈衛大將軍并州刺史重贈車騎大將軍儀同三司子彦昭襲武定中漁陽太守齊受禪爵例降顯恭弟旭字顯和莊帝時封襄城郡王邑一千户武定末位至大司馬齊受禪爵例降章武王太洛皇興二年薨追贈征北大將軍章武郡王諡曰敬無子髙祖初以南安惠王第二子彬為後彬字豹兒襲爵勇健有武用出為使持節都督東秦豳夏三州諸軍事鎮西大將軍西戎校尉統萬鎮都大將朔州刺史以貪惏削封是時吐京胡反詔彬持節假平北將軍行汾州事率幷肆之衆往討之胡平仍除征虜將軍汾州刺史胡民去居等六百餘人保險謀反扇動徒類彬請兵二萬有司奏許之髙祖大怒曰何有動兵馬理也可隨宜肅治若不能權方静帖必須大衆者則先斬刺史然後發兵彬奉詔大懼而率州兵身先將士討胡平之太和二十三年卒賜錢十萬絹二百匹贈以本官加散騎常侍彬有五子長子融字永興儀貌壯麗衣冠甚偉性通率有豪氣高祖時拜祕書郎世宗初復先爵除驍騎將軍蕭衍遣將寇逼淮陽梁城陷没詔融假節征虜將軍别將南討大摧賊衆還復梁城于時揚州刺史元嵩為奴所害勑融行揚州事尋除假節征虜將軍幷州刺史及世宗崩兼司空營陪景陵拜宗正卿以本官行瀛州事遇疾不行未幾除散騎常侍平東將軍青州刺史還為祕書監遷中護軍進號撫軍將軍領河南尹加征東將軍性尤貪殘恣情聚斂為中尉紏弹削除官爵汾夏山胡叛逆連結正平平陽詔復融前封征東將軍持節都督以討之融寡於經畧為胡所敗久之加散騎常侍衛將軍左光禄大夫後賊帥鮮于脩禮寇暴瀛定二州長孫稚等討之失利除融車騎將軍為前驅左軍都督與廣陽王淵等共討脩禮師渡交津葛榮殺脩禮而自立轉營至白牛邏輕騎擊融融苦戰終日更無外援遂大奔敗於陳見殺肅宗為舉哀於東堂賜東園祕器朝服一具綵二千八百叚贈侍中都督雍華岐三州諸軍事本將軍司空雍州刺史尋以融死王事進贈司徒加前後部鼓吹諡曰莊武子景哲襲武定中開府儀同三司齊受禪爵例降景哲弟朗即後廢帝語在帝紀子黄頭襲封安定王改封安平王齊受禪爵例降融弟凝字定興起家恒州征虜錄事參軍累遷護軍長史凝姑尒朱榮妻莊帝初封東安王食邑五百户除持節安東將軍兗州刺史轉濟州刺史仍本將軍永熙二年薨贈持節都督滄瀛冀三州諸軍事驃騎大將軍冀州刺史子彦友襲武定中光禄大夫齊受禪爵例降凝弟湛字鎮興起家祕書郎轉尚書左司郎中遷廷尉少卿莊帝初遇害河隂贈征東將軍青州刺史追封漁陽王食邑五百户子俊襲齊受禪爵例降湛弟晏字俊興卒於祕書丞贈平東將軍祕書監豫州刺史樂陵王胡兒和平四年薨追封樂陵王贈征北大將軍諡曰康無子顯祖詔胡兒兄汝隂王天賜之第二子永全後之襲封後改名思譽髙祖初蠕蠕犯塞以思譽為鎮北大將軍北征大都將後除使持節本將軍領護匈奴校尉都督中軍都將出為使持節}
+  - {type: punctuation, offset: 944, content: ．, id: KR2a0020_ZHSJ_019-bkkpn203}
+  - {type: 'tls:seg', offset: 944, content: '', id: KR2a0020_ZHSJ_019-d19p12s4}
+  - {type: variant, offset: 944, length: 0, content: '', WYG: 和龍鎮都大將營州刺史加領護東夷校尉轉為鎮北將軍行鎮北大將軍高祖引見百官於光極堂謂思譽曰恒代路懸舊都意重故屈叔父逺臨此任不可不敬慎所臨以副朕望及穆泰隂謀不軌思譽知而不告恕死削封為庶人太和末還復其王封正始四年薨贈光州刺史諡曰密王子景畧字世彦世宗時襲封拜驍騎將軍除持節冠軍將軍幽州刺史熙平元年薨贈本將軍豫州刺史賜帛四百疋諡曰惠王子霸字休邦襲武定中鉅鹿太守齊受禪爵例降景畧弟慶畧散騎侍郎子子政通直散騎常侍慶畧弟洪畧恒農太守中軍將軍行東雍州刺史洪畧弟子業平原太守定安王休皇興二年封拜征南大將軍外都大官休}
+  - {type: page-break, offset: 944, content: '', id: KR2a0020_WYG_019-94a, image: WYG0261/WYG0261-0322a.png}
+  - {type: page-break, offset: 944, content: '', id: KR2a0020_WYG_019-94b, image: WYG0261/WYG0261-0322b.png}
+  - {type: variant, offset: 944, length: 0, content: '', krp: 和龍鎮都大將營州刺史加領護東夷校尉轉為鎮北將軍行鎮北大將軍高祖引見百官於光極堂謂思譽曰恒代路懸舊都意重故屈叔父逺臨此任不可不敬慎所臨以副朕望及穆泰隂謀不軌思譽知而不告恕死削封為庶人太和末還復其王封正始四年薨贈光州刺史諡曰密王子景畧字世彦世宗時襲封拜驍騎將軍除持節冠軍將軍幽州刺史熙平元年薨贈本將軍豫州刺史賜帛四百疋諡曰惠王子霸字休邦襲武定中鉅鹿太守齊受禪爵例降景畧弟慶畧散騎侍郎子子政通直散騎常侍慶畧弟洪畧恒農太守中軍將軍行東雍州刺史洪畧弟子業平原太守定安王休皇興二年封拜征南大將軍外都大官休}
+  - {type: variant, offset: 945, length: 0, content: '', WYG: 而聰慧治斷有稱高祖初庫莫奚寇邊以休為使持節侍中都督諸軍事征東大將軍領護東夷校尉儀同三司和龍鎮將休撫防有方賊乃款附入為中都大官蠕蠕犯塞出為使持節征北大將軍撫㝠鎮大將休身先將士擊虜退之入為内都大官遷太傅及開建五等食邑二千户車駕南伐領大司馬髙祖親行諸軍遇休以三盗人狥於六軍將斬之有詔赦之休執曰陛下將逺清衡霍故親御六師跋涉野次軍行始爾已有姦竊如其不斬何以息盗請必行刑以肅姦慝詔曰大司馬執憲誠應如是但因緣㑹朕聞王者之體亦時有非常之澤雖違軍法可特原之休乃奉詔髙祖謂司徒馮誕曰大司馬嚴而秉法諸軍不可不慎於是六軍肅然定都洛邑休從駕幸鄴命休率從駕文武迎家于平城髙祖親餞休於漳水之北十八年休寢疾高祖幸其第流涕問疾中使醫藥相望於路薨賵帛三千匹自薨至殯車駕三臨髙祖至其門改服裼衰素弁加絰皇太子百官皆從行弔禮及將葬又贈布帛二千匹諡曰靖王詔假黄鉞加羽葆鼓吹虎賁班劒六十三人悉凖三老尉元之儀髙祖親送出郊慟哭而返諸王恩禮莫比焉世宗世配饗廟庭長子安幼年早卒次子燮除下大夫世宗初襲拜太中大夫除征虜將軍華州刺史燮表曰謹惟州治李潤堡雖是少梁舊地晉芮錫壤然胡夷内附遂為戎落城非舊邑先代之名爰自國初護羌小戍及改鎮立郡依岳立州因籍倉府未刋名實竊見馮翊古城羌魏兩民之交許洛水陸之際先漢之左輔皇魏之右翼形勝名都實惟西蕃奥府今州之所左豈唯非舊至乃居岡飲澗井谷穢雜升降劬勞往還數里譐誻明昬有虧禮教未若馮翊面華渭包原澤井淺池平樵牧饒廣採材華隂陸運七十伐木龍門順流而下陪削舊雉功省力易人各為已不以為勞昔宋民無井穿井而忻得人況合城無水得水而不家慶竊聞前政刺史非是無意或値兵舉或遇年災緣此契闊稽延至此去歲已熟秋方大登四境晏安京師無事丁不十錢之費人無八旬之勤損輕益重乞垂昭鑒遂詔曰一勞永逸便可聽移後除征虜將軍豳州刺史延昌四年薨贈本將軍朔州刺史子超字化生肅宗初襲時以胡國珍封安定公改封北平王拜城門校尉通直散騎常侍東中郎將尋除光禄大夫領將作大匠後復本封尒朱榮之入洛超避難洛南遇寇見害荘帝初贈車騎大將軍儀同三司岐州刺史子孝景襲武定中通直郎齊受禪爵例降燮弟願平清狂無行髙祖末拜員外郎世宗初遷給事中悖惡日甚殺人刼盗公私咸患世宗以其戚近未忍致之於法乃免官禁之别館館名愁思堂冀其克念世宗崩願平乃得出靈太后臨朝以其暴亂不悛詔曰願平志行輕疎每乖憲典可還於别館依前禁錮久之解禁還家付師嚴加誨奬後拜通直散騎常侍前將軍坐祼其妻王氏於其男女之前又彊姦妻妹於妻母之側御史中丞侯剛案以不道處死絞刑㑹赦免黜為員外常侍孝昌中卒子緒幽州安西府功曹叅軍莊帝初直閤將軍尋為持節兼武衛將軍闗右慰勞十二州大使遂沒吐谷渾子長春員外散騎侍郎武定初封南郡王邑五百戸齊受禪爵例降願平弟永平征虜將軍南州刺史為城民華延明所害太昌初追贈使持節侍中都督定瀛幽三州諸軍事衛將軍定州刺史永平弟珍平司州治中子叔遵員外散騎常侍珍平弟貴平羽林監轉射聲校尉莊帝初除散騎常侍宗正少卿封東萊王邑百户除平北將軍南相州刺史莊帝既殺尒朱榮加武衛將軍兼侍中為河北山東慰勞大使至定州東北為幽州大都督侯淵所執送於晉陽後還洛前廢帝時以本官行青州事屬土民崔祖螭作逆賊徒甚盛圍逼東陽一百餘日貴平率城民固守又令將士開門交戰大軍救至遂擒祖螭等斬之還除車騎將軍加散騎常侍遷左衛將軍宗師又遷車騎大將軍左光禄大夫儀同三司貴平人才險薄為出帝所信出為青州刺史又加驃騎大將軍開府儀同三司為幽州大都督侯淵所害史臣曰南安原始要終}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-95a, image: WYG0261/WYG0261-0322c.png}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-95b, image: WYG0261/WYG0261-0322d.png}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-96a, image: WYG0261/WYG0261-0323a.png}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-96b, image: WYG0261/WYG0261-0323b.png}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-97a, image: WYG0261/WYG0261-0323c.png}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-97b, image: WYG0261/WYG0261-0323d.png}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-98a, image: WYG0261/WYG0261-0324a.png}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-98b, image: WYG0261/WYG0261-0324b.png}
+  - {type: page-break, offset: 945, content: '', id: KR2a0020_WYG_019-99a, image: WYG0261/WYG0261-0324c.png}
+  - {type: variant, offset: 945, length: 0, content: '', krp: 而聰慧治斷有稱高祖初庫莫奚寇邊以休為使持節侍中都督諸軍事征東大將軍領護東夷校尉儀同三司和龍鎮將休撫防有方賊乃款附入為中都大官蠕蠕犯塞出為使持節征北大將軍撫㝠鎮大將休身先將士擊虜退之入為内都大官遷太傅及開建五等食邑二千户車駕南伐領大司馬髙祖親行諸軍遇休以三盗人狥於六軍將斬之有詔赦之休執曰陛下將逺清衡霍故親御六師跋涉野次軍行始爾已有姦竊如其不斬何以息盗請必行刑以肅姦慝詔曰大司馬執憲誠應如是但因緣㑹朕聞王者之體亦時有非常之澤雖違軍法可特原之休乃奉詔髙祖謂司徒馮誕曰大司馬嚴而秉法諸軍不可不慎於是六軍肅然定都洛邑休從駕幸鄴命休率從駕文武迎家于平城髙祖親餞休於漳水之北十八年休寢疾高祖幸其第流涕問疾中使醫藥相望於路薨賵帛三千匹自薨至殯車駕三臨髙祖至其門改服裼衰素弁加絰皇太子百官皆從行弔禮及將葬又贈布帛二千匹諡曰靖王詔假黄鉞加羽葆鼓吹虎賁班劒六十三人悉凖三老尉元之儀髙祖親送出郊慟哭而返諸王恩禮莫比焉世宗世配饗廟庭長子安幼年早卒次子燮除下大夫世宗初襲拜太中大夫除征虜將軍華州刺史燮表曰謹惟州治李潤堡雖是少梁舊地晉芮錫壤然胡夷内附遂為戎落城非舊邑先代之名爰自國初護羌小戍及改鎮立郡依岳立州因籍倉府未刋名實竊見馮翊古城羌魏兩民之交許洛水陸之際先漢之左輔皇魏之右翼形勝名都實惟西蕃奥府今州之所左豈唯非舊至乃居岡飲澗井谷穢雜升降劬勞往還數里譐誻明昬有虧禮教未若馮翊面華渭包原澤井淺池平樵牧饒廣採材華隂陸運七十伐木龍門順流而下陪削舊雉功省力易人各為已不以為勞昔宋民無井穿井而忻得人況合城無水得水而不家慶竊聞前政刺史非是無意或値兵舉或遇年災緣此契闊稽延至此去歲已熟秋方大登四境晏安京師無事丁不十錢之費人無八旬之勤損輕益重乞垂昭鑒遂詔曰一勞永逸便可聽移後除征虜將軍豳州刺史延昌四年薨贈本將軍朔州刺史子超字化生肅宗初襲時以胡國珍封安定公改封北平王拜城門校尉通直散騎常侍東中郎將尋除光禄大夫領將作大匠後復本封尒朱榮之入洛超避難洛南遇寇見害荘帝初贈車騎大將軍儀同三司岐州刺史子孝景襲武定中通直郎齊受禪爵例降燮弟願平清狂無行髙祖末拜員外郎世宗初遷給事中悖惡日甚殺人刼盗公私咸患世宗以其戚近未忍致之於法乃免官禁之别館館名愁思堂冀其克念世宗崩願平乃得出靈太后臨朝以其暴亂不悛詔曰願平志行輕疎每乖憲典可還於别館依前禁錮久之解禁還家付師嚴加誨奬後拜通直散騎常侍前將軍坐祼其妻王氏於其男女之前又彊姦妻妹於妻母之側御史中丞侯剛案以不道處死絞刑㑹赦免黜為員外常侍孝昌中卒子緒幽州安西府功曹叅軍莊帝初直閤將軍尋為持節兼武衛將軍闗右慰勞十二州大使遂沒吐谷渾子長春員外散騎侍郎武定初封南郡王邑五百戸齊受禪爵例降願平弟永平征虜將軍南州刺史為城民華延明所害太昌初追贈使持節侍中都督定瀛幽三州諸軍事衛將軍定州刺史永平弟珍平司州治中子叔遵員外散騎常侍珍平弟貴平羽林監轉射聲校尉莊帝初除散騎常侍宗正少卿封東萊王邑百户除平北將軍南相州刺史莊帝既殺尒朱榮加武衛將軍兼侍中為河北山東慰勞大使至定州東北為幽州大都督侯淵所執送於晉陽後還洛前廢帝時以本官行青州事屬土民崔祖螭作逆賊徒甚盛圍逼東陽一百餘日貴平率城民固守又令將士開門交戰大軍救至遂擒祖螭等斬之還除車騎將軍加散騎常侍遷左衛將軍宗師又遷車騎大將軍左光禄大夫儀同三司貴平人才險薄為出帝所信出為青州刺史又加驃騎大將軍開府儀同三司為幽州大都督侯淵所害史臣曰南安原始要終}
+  - {type: variant, offset: 946, length: 3, content: 騎射多, WYG: 不掩惡英將帥之用有聲於時熙畧兄弟早播民譽或}
+  - {type: page-break, offset: 946, content: '', id: KR2a0020_WYG_019-99b, image: WYG0261/WYG0261-0324d.png}
+  - {type: variant, offset: 946, length: 3, content: 騎射多, krp: 不掩惡英將帥之用有聲於時熙畧兄弟早播民譽或}
+  - {type: punctuation, offset: 948, content: ，, id: KR2a0020_ZHSJ_019-bkkpn204}
+  - {type: 'tls:seg', offset: 948, content: '', id: KR2a0020_ZHSJ_019-d19p12s5}
+  - {type: variant, offset: 950, length: 21, content: 藝坐法削爵為公俊好酒色多越法度又以母先遇罪, WYG: 疎志大或器狹任廣咸不能就其功名俱至非命惜也康王不永鸞起家聲徽飾智矯情外詔内忌永安之禍誰任其責宛其}
+  - {type: variant, offset: 950, length: 21, content: 藝坐法削爵為公俊好酒色多越法度又以母先遇罪, krp: 疎志大或器狹任廣咸不能就其功名俱至非命惜也康王不永鸞起家聲徽飾智矯情外詔内忌永安之禍誰任其責宛其}
+  - {type: punctuation, offset: 951, content: ．, id: KR2a0020_ZHSJ_019-bkkpn205}
+  - {type: 'tls:seg', offset: 951, content: '', id: KR2a0020_ZHSJ_019-d19p12s6}
+  - {type: punctuation, offset: 953, content: ，, id: KR2a0020_ZHSJ_019-bkkpn206}
+  - {type: 'tls:seg', offset: 953, content: '', id: KR2a0020_ZHSJ_019-d19p12s7}
+  - {type: punctuation, offset: 957, content: ．, id: KR2a0020_ZHSJ_019-bkkpn207}
+  - {type: 'tls:seg', offset: 957, content: '', id: KR2a0020_ZHSJ_019-d19p12s8}
+  - {type: line-break, offset: 960, content: '', id: ZHSJ__dup4935}
+  - {type: punctuation, offset: 961, content: ，, id: KR2a0020_ZHSJ_019-bkkpn208}
+  - {type: 'tls:seg', offset: 961, content: '', id: KR2a0020_ZHSJ_019-d19p12s9}
+  - {type: punctuation, offset: 965, content: ．, id: KR2a0020_ZHSJ_019-bkkpn209}
+  - {type: 'tls:seg', offset: 965, content: '', id: KR2a0020_ZHSJ_019-d19p12s10}
+  - {type: punctuation, offset: 972, content: ，, id: KR2a0020_ZHSJ_019-bkkpn210}
+  - {type: 'tls:seg', offset: 972, content: '', id: KR2a0020_ZHSJ_019-d19p12s11}
+  - {type: variant, offset: 972, length: 12, content: 而己被貶削懷怨望頗有悖心, WYG: 也固其宜哉章武樂陵蓋不足數静王聰斷威重見稱太和美矣魏書卷十九下魏書卷十九下考證南安王楨傳景宗率一萬繼}
+  - {type: page-break, offset: 972, content: '', id: KR2a0020_WYG_019-100a, image: WYG0261/WYG0261-0325a.png}
+  - {type: variant, offset: 972, length: 12, content: 而己被貶削懷怨望頗有悖心, krp: 也固其宜哉章武樂陵蓋不足數静王聰斷威重見稱太和美矣魏書卷十九下魏書卷十九下考證南安王楨傳景宗率一萬繼}
+  - {type: punctuation, offset: 977, content: ，, id: KR2a0020_ZHSJ_019-bkkpn211}
+  - {type: 'tls:seg', offset: 977, content: '', id: KR2a0020_ZHSJ_019-d19p12s12}
+  - {type: punctuation, offset: 980, content: ，, id: KR2a0020_ZHSJ_019-bkkpn212}
+  - {type: 'tls:seg', offset: 980, content: '', id: KR2a0020_ZHSJ_019-d19p12s13}
+  - {type: punctuation, offset: 984, content: ．, id: KR2a0020_ZHSJ_019-bkkpn213}
+  - {type: 'tls:seg', offset: 984, content: '', id: KR2a0020_ZHSJ_019-d19p12s14}
+  - {type: variant, offset: 985, length: 6, content: 事發賜死國除, WYG: 萬監本誤驍今改正魏書卷十九下考證}
+  - {type: page-break, offset: 985, content: '', id: KR2a0020_WYG_019-100b, image: WYG0261/WYG0261-0325b.png}
+  - {type: variant, offset: 985, length: 6, content: 事發賜死國除, krp: 萬監本誤驍今改正魏書卷十九下考證}
+  - {type: punctuation, offset: 987, content: ，, id: KR2a0020_ZHSJ_019-bkkpn214}
+  - {type: 'tls:seg', offset: 987, content: '', id: KR2a0020_ZHSJ_019-d19p12s15}
+  - {type: punctuation, offset: 989, content: ，, id: KR2a0020_ZHSJ_019-bkkpn215}
+  - {type: 'tls:seg', offset: 989, content: '', id: KR2a0020_ZHSJ_019-d19p12s16}
+  - {type: punctuation, offset: 991, content: ．, id: KR2a0020_ZHSJ_019-bkkpn216}
+  - {type: xml-element, offset: 991, content: '', id: KR2a0020_ZHSJ_019-bkkxmlele24}
+  - {type: xml-element, offset: 991, content: '', id: KR2a0020_ZHSJ_019-d19n1}
+  - {type: xml-element, offset: 991, content: '', id: KR2a0020_ZHSJ_019-d19n1_end}
+  back: []
+hash: sha256:d5f48417a0b50653c002370e6327e48f9d7ea99aec2d6001e2876e15cfcf4357
