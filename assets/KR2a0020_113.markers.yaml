@@ -203,7 +203,6 @@ markers:
   - {type: 'tls:seg', offset: 253, content: '', id: KR2a0020_ZHSJ_113-d113p14s4}
   - {type: punctuation, offset: 255, content: ．, id: KR2a0020_ZHSJ_113-bkkpn55}
   - {type: 'tls:seg', offset: 255, content: '', id: KR2a0020_ZHSJ_113-d113p14s5}
-  - {type: substitution, offset: 258, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3483}}
   - {type: punctuation, offset: 265, content: ，, id: KR2a0020_ZHSJ_113-bkkpn56}
   - {type: 'tls:seg', offset: 265, content: '', id: KR2a0020_ZHSJ_113-d113p14s6}
   - {type: line-break, offset: 267, content: '', id: ZHSJ__dup28584}
@@ -491,7 +490,6 @@ markers:
   - {type: punctuation, offset: 710, content: 「, id: KR2a0020_ZHSJ_113-bkkpn166}
   - {type: punctuation, offset: 713, content: ，, id: KR2a0020_ZHSJ_113-bkkpn167}
   - {type: 'tls:seg', offset: 713, content: '', id: KR2a0020_ZHSJ_113-d113p35s5}
-  - {type: substitution, offset: 716, original: 匈, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3879}}
   - {type: punctuation, offset: 718, content: 」, id: KR2a0020_ZHSJ_113-bkkpn168}
   - {type: punctuation, offset: 718, content: ．, id: KR2a0020_ZHSJ_113-bkkpn169}
   - {type: 'tls:seg', offset: 718, content: '', id: KR2a0020_ZHSJ_113-d113p35s6}
@@ -777,7 +775,6 @@ markers:
   - {type: 'tls:seg', offset: 1132, content: '', id: KR2a0020_ZHSJ_113-d113p58s5}
   - {type: punctuation, offset: 1140, content: ，, id: KR2a0020_ZHSJ_113-bkkpn274}
   - {type: 'tls:seg', offset: 1140, content: '', id: KR2a0020_ZHSJ_113-d113p58s6}
-  - {type: substitution, offset: 1143, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 1145, content: ．, id: KR2a0020_ZHSJ_113-bkkpn275}
   - {type: xml-element, offset: 1145, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele116}
   - {type: xml-element, offset: 1145, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele117}
@@ -2367,7 +2364,6 @@ markers:
   - {type: 'tls:seg', offset: 3414, content: '', id: KR2a0020_ZHSJ_113-d113p179s8}
   - {type: variant, offset: 3419, length: 3894, content: 李訢十二月癸卯月犯南斗二年六月庚辰月犯太微東蕃南頭第一星京師不見定州以聞甲申月犯房又犯太微八月壬午月入南斗占曰大臣誅十二月誅南郡王李惠九月庚申陰雲開合月在昴蝕十月戊戌月入南斗口中占曰大臣誅三年四月雍州刺史宜都王目辰有罪賜死十一月甲子月犯鎮星十二月戊戌月入南斗口中三年正月壬子月暈觜參兩肩五車五星畢東井占曰有赦十月大赦天下二月庚寅月犯心三月庚戌月入南斗口中占曰大臣誅九月定州刺史安樂王長樂有罪徵詣京師賜死乙卯月入南斗口中七月癸未月犯心十月月犯心十二月丙戌月犯太微左執法占曰大臣有憂四年正月襄城王韓頹有罪削爵徙邊四年正月丁未月在畢暈參兩肩五車東井丁巳月犯心占曰人伐其主五年二月沙門法秀謀反伏誅戊午月又犯心二月己卯月犯軒轅北第二星辛巳月犯太微左執法占曰大臣有憂閏月頓丘王李鍾葵有罪賜死壬午月蝕乙酉月掩熒惑五年二月癸卯月犯太微西蕃南頭第一星二月甲辰月在翼暈東南不帀須臾西北有偏白暈侵五車二星東井北河北河輿鬼柳北斗紫微宮攝提翼星戊戌月犯心京師不見濟州以聞七月戊寅月犯昴占曰有白衣之六年正月任城王雲薨六年正月癸亥月在畢暈參兩肩五車三星胃昴畢京師不見營州以聞己巳月在張犯軒轅大星辛未月蝕五月戊申月入南斗口中戊寅月犯昴七月丁卯月蝕十一月辛亥朔月寅見東方京師不見平州以聞七年五月辛卯月犯南斗八年正月辛巳月在畢暈東井歲星觜參兩肩五車三月己丑月犯心四月丁亥月蝕斗癸亥月犯昴相州以聞占曰有白衣之會十一年五月南平王渾薨五月丁亥月在斗蝕盡占曰饑十二月詔以州鎮十五水旱民饑遣使者循行問所疾苦開倉賑恤九年正月丁丑月在參暈觜參兩肩東井北河五車三星占曰水是年冀定數州水民有賣男女者戊申月犯東井占曰貴人死一曰有水十月侍中司徒魏郡王陳建薨是年京師及州鎮十二水旱傷稼四月丁未月犯心十一月戊寅月蝕十年十一月辛亥月犯房十一年正月丙午月犯房鈎鈐二月癸亥月犯東井三月丙申月三暈太微庚子月蝕氐占曰糴貴是年年穀不登聽民出關就食開倉賑恤六月乙丑月犯斗丙寅月犯建星七月丁未月入東井八月己巳月蝕胃占曰有兵是月蠕蠕犯塞遣平原王陸叡討之九月戊戌陰雲離合月在胃蝕十一月乙巳月入氐十二月戊午月及熒惑合於東壁甲子月入東井犯天關十二年正月戊戌月犯左角二月壬戌月暈太微丁卯月犯氐四月癸丑月犯東井占曰將死九月司徒淮南王他薨壬戌月犯氐與歲星同在氐癸亥月犯房六月丁巳月入氐犯歲星七月乙酉月犯房庚寅月犯牽牛庚子月犯畢九月月蝕盡十一月己未月犯東井丙寅月犯左角占曰天下有兵十三年正月蕭賾遣衆寇邊淮陽太守王僧儁擊走之十二月甲申月犯畢乙未月犯氐丙申月犯房十三年正月甲寅月入東井壬戌月掩牽牛二月己丑月在角十五分蝕七三月庚申月犯歲星四月丙戌月犯房六月乙酉月掩牽牛乙未月犯畢占曰貴人死十二月司空河東王苟頹薨七月丁未月入氐戊申月犯楗閉八月丙戌天有微雲月在未蝕占曰有兵十四年四月地豆于頻犯塞詔征西大將軍陽平王頤擊走之九月丁巳月掩畢庚申月入東井十月己卯月掩熒惑又掩畢丁酉月犯楗閉十二月壬午月入東井十四年二月甲戌月犯畢六月甲戌月犯亢八月乙亥月犯牽牛辛卯月犯軒轅占曰女主當之九月文明皇太后馮氏崩十月壬午月入東井戊子月犯太微十一月戊戌月犯鎮星乙卯月犯太微右執法十二月庚辰月犯軒轅癸未月掩太微左執法十五年正月己酉月在張蝕三月丙申月掩畢占曰有邊兵十六年八月詔陽平王頤右僕射陸叡督十二將七萬騎北討蠕蠕四月庚午月犯軒轅癸酉月犯太微東蕃上將占曰貴人憂六月濟陰王鬱以貪殘賜死癸未月犯歲星五月庚子月掩太微左執法占曰大臣憂十七年二月南平王霄薨丁未月掩建星七月乙未月犯太微東蕃辛丑月掩建星癸卯月犯牽牛九月乙丑月犯牽牛占曰大臣有憂十七年蕭賾死大臣疑當作吳越癸未月入太微犯右執法占曰大臣憂十七年八月三老山陽郡開國公尉元薨十月甲午月犯鎮星戊申月犯軒轅十一月乙巳月犯畢辛未月入東井十二月辛卯月蝕盡十六年二月甲辰月入氐三月己卯月入羽林四月壬辰月入太微丙午月入羽林五月壬子月掩南斗第六星甲戌月入羽林六月戊子月犯熒惑占曰貴人死十九年五月廣川王諧薨己丑月入太微丁酉月掩建星丁未月入畢占曰有邊兵十九年正月平南將軍王肅頻破蕭鸞軍於義陽降者萬餘七月甲戌月入畢丁丑月犯軒轅八月壬辰月犯建星壬寅月犯畢甲辰月入東井戊申月犯軒轅占曰女主當之二十年七月廢皇后馮氏辛亥月入太微犯右執法九月癸亥月掩鎮星十月辛卯月入羽林癸亥月入東井十一月甲子月犯畢壬申月入太微丁丑月入氐十二月丁酉月在柳蝕占曰國有大事兵起十七年八月己丑車駕發京師南伐步騎三十餘萬十七年正月己丑月犯軒轅壬申月犯氐三月甲午月入太微壬寅月掩南斗第六星四月癸丑月入太微占曰大臣死十九年二月辛酉司徒馮誕薨壬寅月入羽林五月甲子月犯南斗第六星乙丑月掩建星六月甲午月在女蝕占曰旱二十年以南北州郡旱遣侍臣循察開倉賑恤七月壬子月入太微占曰有反臣二十年二月州刺史穆泰謀反伏誅多所連及丙辰月入氐癸未月犯南斗第六星庚申月犯建星八月庚寅月犯哭星辛卯月入羽林丁酉月入畢占曰兵起十九年二月車駕南伐鍾離辛丑月犯輿鬼乙巳月入太微犯屏星十月壬午月犯建星甲午月入東井十一月壬子月犯哭星辛酉月犯東井前星丁卯月入太微占曰大臣死有反臣二十一年四月大將軍宋王劉昶薨廣州刺史薛法護南叛壬申月入氐十二月辛巳月入羽林乙未月入太微己亥月入氐十八年二月甲午月入氐四月庚申月在斗蝕六月丁卯月入東井十九年三月己卯月犯軒轅占曰女主當之二十一年十月追廢貞皇后林氏為庶人二十年七月辛巳月掩鎮星十月丙午月在畢蝕二十一年三月丁酉月犯屏星四月庚午月掩房星六月丁卯月掩斗魁十二月乙亥月掩心二十二年正月丙申月掩軒轅占曰女主當之二十三年詔賜皇后馮氏死二月乙丑月與歲星熒惑合於右掖門內丁卯月在角蝕占曰天子憂二十三年四月高祖崩七月乙酉月掩心九月庚申月蝕昴二十三年二月壬戌月在軫蝕六月癸未月掩房南頭第二星甲申月掩箕北頭第一星八月月在壁蝕子已上十一月癸丑月在畢暈昴觜參五車十二月己卯月掩昴辛巳月掩五車世宗景明元年正月丙辰月在翼蝕十五分蝕三十二月癸未月暈太微既而有白氣長一匹廣二尺許南至七星俄而月復暈北斗大角丁亥月暈角亢房二年正月甲辰月暈井觜參兩肩昴五車占曰貴人死大赦二月甲戌大赦天下五月壬子廣陵王羽薨二月丙子月掩軒轅大星占曰女主憂正始四年十月皇后于氏崩癸未月掩房南頭第二星丙戌月入南斗距星南三尺占曰吳越有憂十二月蕭寶卷直後張齊玉殺寶卷五月丙午月掩心第三星戊申月掩斗魁第三星七月辛亥月暈婁內青外黃轢昴畢天船大陵卷舌奎婁三年正月甲寅月入斗去魁第二星四寸許占曰吳越有憂四月蕭衍又廢其主寶融四月癸酉月乘房南頭第二星己亥月暈在角亢氐房心六月戊戌月掩南斗第二星八月壬寅月暈外青內黃轢昴畢婁胃五車占曰貴人死乙卯三老元丕薨己酉月犯軒轅十一月己巳月蝕井盡十二月壬辰月掩昴占曰有白衣之會正始二年四月城陽王鸞薨乙未月暈參井鎮星占曰兵起四年氐反行梁州事楊椿左將軍羊祉大破之丙申月掩鎮星又暈四年正月庚申月暈胃昴參五車二月辛亥月掩太白三月辛酉月暈軒轅太微西垣帝坐四月丙申月掩心大星五月丁卯月在斗從地下蝕出十五分蝕十二占曰饑正始四年八月敦煌民饑開倉賑恤六月癸卯月犯昴占曰有白衣之會永平元年三月皇子昌薨丁未月掩太白七月戊午月犯房大星壬申月犯昴畢觜參東井五車五星占曰旱有大赦正始元年正月丙寅大赦改年六月詔以旱徹樂減膳十二月丁亥月暈昴畢婁胃己未月暈太微帝坐軒轅庚子月暈房心亢氐占曰有軍大戰正始元年荊州刺史楊大眼大破羣蠻樊秀安等正始元年正月乙卯月暈胃昴畢五車二星丁巳月暈婁胃昴畢戊戌月暈五車三星東井南河北河輿鬼鎮星二月甲申月暈昴畢參左肩五車二年九月癸未月在昴十五分蝕十占曰饑四年九月司州民饑開倉賑恤十一月丙子月暈東西兩珥內赤外青東有白虹長二丈許西有白虹長一匹北有虹長一丈餘外赤內青黃虹北有背外赤內青黃三年正月辛巳月暈太微帝坐軒轅左角賁疑星三月庚辰月在氐蝕盡十月甲寅月犯太白永平元年五月丁未月犯畢占曰貴人有死者九月殺太師彭城王勰六月己巳月掩畢十一月癸酉月犯左執法占曰大臣有憂四年三月壬戌廣陽王嘉薨二年正月甲午月在翼十五分蝕十二十一月丙戌月掩畢大星三年正月戊子月在張蝕閏月乙酉月在危蝕十一月壬寅月犯太白十二月壬午月在張蝕四年四月癸酉月暈太微軒轅占曰小赦延昌二年八月諸犯罪者恕死從流已下減降辛卯月犯太白於胃八月癸丑月掩輿鬼丁巳月入太微占曰大臣死延昌元年三月己未尚書左僕射安樂王詮薨辛酉月犯太白十月壬午月失行黃道北犯軒轅大星甲申月入太微十一月乙巳月犯畢占曰為邊兵十一月戊申詔李崇奚康生治兵壽春以討朐山之寇延昌元年二月庚午月暈東井輿鬼軒轅大星三月辛丑月在翼暈須臾之間再成再散壬寅月犯太微乙巳月暈角亢房心鎮歲九月丁卯月及熒惑俱在七星十月癸酉月暈東井五車畢參占曰大旱一曰為水二年四月庚子出絹十五萬匹賑恤河南饑民五月壽春水十二月戊戌月犯熒惑於太微占曰君死不出三年四年正月世宗崩二年正月庚子月暈暈東有連環轢亢房鎮織女天棓紫宮北斗二月己巳月暈熒惑軒轅太微帝座占曰旱六月乙酉青州民饑詔開倉賑恤四月丙申月掩鎮星己亥月在箕從地下蝕出還生三分漸漸而滿占曰饑三年四月青州民饑開倉賑恤六月乙巳月犯畢左股占曰為邊兵三年六月南荊州刺史桓叔興破蕭衍軍於九江七月戊午月掩鎮星十月丙申月在參蝕盡占曰軍起三年十一月詔司徒高肇為大將軍率步騎十五萬伐蜀三年二月乙酉月暈畢昴太白東井五車四月癸巳月在尾從地下蝕出十五分蝕十四占曰旱饑熙平元年四月瀛州民饑開倉賑恤九月丁卯月犯太微屏星十月壬寅月犯房第二星十二月丙午月掩熒惑四年五月庚戌月犯太微占曰貴人憂九月安定王燮薨九月乙丑月犯太微十月癸巳月入太微占曰大臣死熙平二年二月太保領司徒廣平王懷薨閏月戊午月犯軒轅占曰女主憂之神龜元年九月皇太后高尼崩于瑤光寺肅宗熙平元年八月己酉月在奎十五分蝕八占曰有兵神龜元年三月南秦州氐反遣, WYG: ''}
   - {type: variant, offset: 3419, length: 3894, content: 李訢十二月癸卯月犯南斗二年六月庚辰月犯太微東蕃南頭第一星京師不見定州以聞甲申月犯房又犯太微八月壬午月入南斗占曰大臣誅十二月誅南郡王李惠九月庚申陰雲開合月在昴蝕十月戊戌月入南斗口中占曰大臣誅三年四月雍州刺史宜都王目辰有罪賜死十一月甲子月犯鎮星十二月戊戌月入南斗口中三年正月壬子月暈觜參兩肩五車五星畢東井占曰有赦十月大赦天下二月庚寅月犯心三月庚戌月入南斗口中占曰大臣誅九月定州刺史安樂王長樂有罪徵詣京師賜死乙卯月入南斗口中七月癸未月犯心十月月犯心十二月丙戌月犯太微左執法占曰大臣有憂四年正月襄城王韓頹有罪削爵徙邊四年正月丁未月在畢暈參兩肩五車東井丁巳月犯心占曰人伐其主五年二月沙門法秀謀反伏誅戊午月又犯心二月己卯月犯軒轅北第二星辛巳月犯太微左執法占曰大臣有憂閏月頓丘王李鍾葵有罪賜死壬午月蝕乙酉月掩熒惑五年二月癸卯月犯太微西蕃南頭第一星二月甲辰月在翼暈東南不帀須臾西北有偏白暈侵五車二星東井北河北河輿鬼柳北斗紫微宮攝提翼星戊戌月犯心京師不見濟州以聞七月戊寅月犯昴占曰有白衣之六年正月任城王雲薨六年正月癸亥月在畢暈參兩肩五車三星胃昴畢京師不見營州以聞己巳月在張犯軒轅大星辛未月蝕五月戊申月入南斗口中戊寅月犯昴七月丁卯月蝕十一月辛亥朔月寅見東方京師不見平州以聞七年五月辛卯月犯南斗八年正月辛巳月在畢暈東井歲星觜參兩肩五車三月己丑月犯心四月丁亥月蝕斗癸亥月犯昴相州以聞占曰有白衣之會十一年五月南平王渾薨五月丁亥月在斗蝕盡占曰饑十二月詔以州鎮十五水旱民饑遣使者循行問所疾苦開倉賑恤九年正月丁丑月在參暈觜參兩肩東井北河五車三星占曰水是年冀定數州水民有賣男女者戊申月犯東井占曰貴人死一曰有水十月侍中司徒魏郡王陳建薨是年京師及州鎮十二水旱傷稼四月丁未月犯心十一月戊寅月蝕十年十一月辛亥月犯房十一年正月丙午月犯房鈎鈐二月癸亥月犯東井三月丙申月三暈太微庚子月蝕氐占曰糴貴是年年穀不登聽民出關就食開倉賑恤六月乙丑月犯斗丙寅月犯建星七月丁未月入東井八月己巳月蝕胃占曰有兵是月蠕蠕犯塞遣平原王陸叡討之九月戊戌陰雲離合月在胃蝕十一月乙巳月入氐十二月戊午月及熒惑合於東壁甲子月入東井犯天關十二年正月戊戌月犯左角二月壬戌月暈太微丁卯月犯氐四月癸丑月犯東井占曰將死九月司徒淮南王他薨壬戌月犯氐與歲星同在氐癸亥月犯房六月丁巳月入氐犯歲星七月乙酉月犯房庚寅月犯牽牛庚子月犯畢九月月蝕盡十一月己未月犯東井丙寅月犯左角占曰天下有兵十三年正月蕭賾遣衆寇邊淮陽太守王僧儁擊走之十二月甲申月犯畢乙未月犯氐丙申月犯房十三年正月甲寅月入東井壬戌月掩牽牛二月己丑月在角十五分蝕七三月庚申月犯歲星四月丙戌月犯房六月乙酉月掩牽牛乙未月犯畢占曰貴人死十二月司空河東王苟頹薨七月丁未月入氐戊申月犯楗閉八月丙戌天有微雲月在未蝕占曰有兵十四年四月地豆于頻犯塞詔征西大將軍陽平王頤擊走之九月丁巳月掩畢庚申月入東井十月己卯月掩熒惑又掩畢丁酉月犯楗閉十二月壬午月入東井十四年二月甲戌月犯畢六月甲戌月犯亢八月乙亥月犯牽牛辛卯月犯軒轅占曰女主當之九月文明皇太后馮氏崩十月壬午月入東井戊子月犯太微十一月戊戌月犯鎮星乙卯月犯太微右執法十二月庚辰月犯軒轅癸未月掩太微左執法十五年正月己酉月在張蝕三月丙申月掩畢占曰有邊兵十六年八月詔陽平王頤右僕射陸叡督十二將七萬騎北討蠕蠕四月庚午月犯軒轅癸酉月犯太微東蕃上將占曰貴人憂六月濟陰王鬱以貪殘賜死癸未月犯歲星五月庚子月掩太微左執法占曰大臣憂十七年二月南平王霄薨丁未月掩建星七月乙未月犯太微東蕃辛丑月掩建星癸卯月犯牽牛九月乙丑月犯牽牛占曰大臣有憂十七年蕭賾死大臣疑當作吳越癸未月入太微犯右執法占曰大臣憂十七年八月三老山陽郡開國公尉元薨十月甲午月犯鎮星戊申月犯軒轅十一月乙巳月犯畢辛未月入東井十二月辛卯月蝕盡十六年二月甲辰月入氐三月己卯月入羽林四月壬辰月入太微丙午月入羽林五月壬子月掩南斗第六星甲戌月入羽林六月戊子月犯熒惑占曰貴人死十九年五月廣川王諧薨己丑月入太微丁酉月掩建星丁未月入畢占曰有邊兵十九年正月平南將軍王肅頻破蕭鸞軍於義陽降者萬餘七月甲戌月入畢丁丑月犯軒轅八月壬辰月犯建星壬寅月犯畢甲辰月入東井戊申月犯軒轅占曰女主當之二十年七月廢皇后馮氏辛亥月入太微犯右執法九月癸亥月掩鎮星十月辛卯月入羽林癸亥月入東井十一月甲子月犯畢壬申月入太微丁丑月入氐十二月丁酉月在柳蝕占曰國有大事兵起十七年八月己丑車駕發京師南伐步騎三十餘萬十七年正月己丑月犯軒轅壬申月犯氐三月甲午月入太微壬寅月掩南斗第六星四月癸丑月入太微占曰大臣死十九年二月辛酉司徒馮誕薨壬寅月入羽林五月甲子月犯南斗第六星乙丑月掩建星六月甲午月在女蝕占曰旱二十年以南北州郡旱遣侍臣循察開倉賑恤七月壬子月入太微占曰有反臣二十年二月州刺史穆泰謀反伏誅多所連及丙辰月入氐癸未月犯南斗第六星庚申月犯建星八月庚寅月犯哭星辛卯月入羽林丁酉月入畢占曰兵起十九年二月車駕南伐鍾離辛丑月犯輿鬼乙巳月入太微犯屏星十月壬午月犯建星甲午月入東井十一月壬子月犯哭星辛酉月犯東井前星丁卯月入太微占曰大臣死有反臣二十一年四月大將軍宋王劉昶薨廣州刺史薛法護南叛壬申月入氐十二月辛巳月入羽林乙未月入太微己亥月入氐十八年二月甲午月入氐四月庚申月在斗蝕六月丁卯月入東井十九年三月己卯月犯軒轅占曰女主當之二十一年十月追廢貞皇后林氏為庶人二十年七月辛巳月掩鎮星十月丙午月在畢蝕二十一年三月丁酉月犯屏星四月庚午月掩房星六月丁卯月掩斗魁十二月乙亥月掩心二十二年正月丙申月掩軒轅占曰女主當之二十三年詔賜皇后馮氏死二月乙丑月與歲星熒惑合於右掖門內丁卯月在角蝕占曰天子憂二十三年四月高祖崩七月乙酉月掩心九月庚申月蝕昴二十三年二月壬戌月在軫蝕六月癸未月掩房南頭第二星甲申月掩箕北頭第一星八月月在壁蝕子已上十一月癸丑月在畢暈昴觜參五車十二月己卯月掩昴辛巳月掩五車世宗景明元年正月丙辰月在翼蝕十五分蝕三十二月癸未月暈太微既而有白氣長一匹廣二尺許南至七星俄而月復暈北斗大角丁亥月暈角亢房二年正月甲辰月暈井觜參兩肩昴五車占曰貴人死大赦二月甲戌大赦天下五月壬子廣陵王羽薨二月丙子月掩軒轅大星占曰女主憂正始四年十月皇后于氏崩癸未月掩房南頭第二星丙戌月入南斗距星南三尺占曰吳越有憂十二月蕭寶卷直後張齊玉殺寶卷五月丙午月掩心第三星戊申月掩斗魁第三星七月辛亥月暈婁內青外黃轢昴畢天船大陵卷舌奎婁三年正月甲寅月入斗去魁第二星四寸許占曰吳越有憂四月蕭衍又廢其主寶融四月癸酉月乘房南頭第二星己亥月暈在角亢氐房心六月戊戌月掩南斗第二星八月壬寅月暈外青內黃轢昴畢婁胃五車占曰貴人死乙卯三老元丕薨己酉月犯軒轅十一月己巳月蝕井盡十二月壬辰月掩昴占曰有白衣之會正始二年四月城陽王鸞薨乙未月暈參井鎮星占曰兵起四年氐反行梁州事楊椿左將軍羊祉大破之丙申月掩鎮星又暈四年正月庚申月暈胃昴參五車二月辛亥月掩太白三月辛酉月暈軒轅太微西垣帝坐四月丙申月掩心大星五月丁卯月在斗從地下蝕出十五分蝕十二占曰饑正始四年八月敦煌民饑開倉賑恤六月癸卯月犯昴占曰有白衣之會永平元年三月皇子昌薨丁未月掩太白七月戊午月犯房大星壬申月犯昴畢觜參東井五車五星占曰旱有大赦正始元年正月丙寅大赦改年六月詔以旱徹樂減膳十二月丁亥月暈昴畢婁胃己未月暈太微帝坐軒轅庚子月暈房心亢氐占曰有軍大戰正始元年荊州刺史楊大眼大破羣蠻樊秀安等正始元年正月乙卯月暈胃昴畢五車二星丁巳月暈婁胃昴畢戊戌月暈五車三星東井南河北河輿鬼鎮星二月甲申月暈昴畢參左肩五車二年九月癸未月在昴十五分蝕十占曰饑四年九月司州民饑開倉賑恤十一月丙子月暈東西兩珥內赤外青東有白虹長二丈許西有白虹長一匹北有虹長一丈餘外赤內青黃虹北有背外赤內青黃三年正月辛巳月暈太微帝坐軒轅左角賁疑星三月庚辰月在氐蝕盡十月甲寅月犯太白永平元年五月丁未月犯畢占曰貴人有死者九月殺太師彭城王勰六月己巳月掩畢十一月癸酉月犯左執法占曰大臣有憂四年三月壬戌廣陽王嘉薨二年正月甲午月在翼十五分蝕十二十一月丙戌月掩畢大星三年正月戊子月在張蝕閏月乙酉月在危蝕十一月壬寅月犯太白十二月壬午月在張蝕四年四月癸酉月暈太微軒轅占曰小赦延昌二年八月諸犯罪者恕死從流已下減降辛卯月犯太白於胃八月癸丑月掩輿鬼丁巳月入太微占曰大臣死延昌元年三月己未尚書左僕射安樂王詮薨辛酉月犯太白十月壬午月失行黃道北犯軒轅大星甲申月入太微十一月乙巳月犯畢占曰為邊兵十一月戊申詔李崇奚康生治兵壽春以討朐山之寇延昌元年二月庚午月暈東井輿鬼軒轅大星三月辛丑月在翼暈須臾之間再成再散壬寅月犯太微乙巳月暈角亢房心鎮歲九月丁卯月及熒惑俱在七星十月癸酉月暈東井五車畢參占曰大旱一曰為水二年四月庚子出絹十五萬匹賑恤河南饑民五月壽春水十二月戊戌月犯熒惑於太微占曰君死不出三年四年正月世宗崩二年正月庚子月暈暈東有連環轢亢房鎮織女天棓紫宮北斗二月己巳月暈熒惑軒轅太微帝座占曰旱六月乙酉青州民饑詔開倉賑恤四月丙申月掩鎮星己亥月在箕從地下蝕出還生三分漸漸而滿占曰饑三年四月青州民饑開倉賑恤六月乙巳月犯畢左股占曰為邊兵三年六月南荊州刺史桓叔興破蕭衍軍於九江七月戊午月掩鎮星十月丙申月在參蝕盡占曰軍起三年十一月詔司徒高肇為大將軍率步騎十五萬伐蜀三年二月乙酉月暈畢昴太白東井五車四月癸巳月在尾從地下蝕出十五分蝕十四占曰旱饑熙平元年四月瀛州民饑開倉賑恤九月丁卯月犯太微屏星十月壬寅月犯房第二星十二月丙午月掩熒惑四年五月庚戌月犯太微占曰貴人憂九月安定王燮薨九月乙丑月犯太微十月癸巳月入太微占曰大臣死熙平二年二月太保領司徒廣平王懷薨閏月戊午月犯軒轅占曰女主憂之神龜元年九月皇太后高尼崩于瑤光寺肅宗熙平元年八月己酉月在奎十五分蝕八占曰有兵神龜元年三月南秦州氐反遣, krp: ''}
-  - {type: substitution, offset: 3420, original: 訢, replacement: 欣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0547}}
   - {type: punctuation, offset: 3421, content: ．, id: KR2a0020_ZHSJ_113-bkkpn819}
   - {type: xml-element, offset: 3421, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele358}
   - {type: xml-element, offset: 3421, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele359}
@@ -2535,7 +2531,6 @@ markers:
   - {type: 'tls:seg', offset: 3658, content: '', id: KR2a0020_ZHSJ_113-d113p192s5}
   - {type: punctuation, offset: 3662, content: ，, id: KR2a0020_ZHSJ_113-bkkpn886}
   - {type: 'tls:seg', offset: 3662, content: '', id: KR2a0020_ZHSJ_113-d113p192s6}
-  - {type: substitution, offset: 3666, original: 頹, replacement: 頽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4562}}
   - {type: punctuation, offset: 3669, content: ，, id: KR2a0020_ZHSJ_113-bkkpn887}
   - {type: 'tls:seg', offset: 3669, content: '', id: KR2a0020_ZHSJ_113-d113p192s7}
   - {type: line-break, offset: 3671, content: '', id: ZHSJ__dup28799}
@@ -2619,7 +2614,6 @@ markers:
   - {type: 'tls:seg', offset: 3792, content: '', id: KR2a0020_ZHSJ_113-d113p196s3}
   - {type: punctuation, offset: 3795, content: ，, id: KR2a0020_ZHSJ_113-bkkpn921}
   - {type: 'tls:seg', offset: 3795, content: '', id: KR2a0020_ZHSJ_113-d113p196s4}
-  - {type: substitution, offset: 3796, original: 帀, replacement: 匝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1583}}
   - {type: punctuation, offset: 3797, content: ；, id: KR2a0020_ZHSJ_113-bkkpn922}
   - {type: 'tls:seg', offset: 3797, content: '', id: KR2a0020_ZHSJ_113-d113p196s5}
   - {type: punctuation, offset: 3805, content: ，, id: KR2a0020_ZHSJ_113-bkkpn923}
@@ -2940,7 +2934,6 @@ markers:
   - {type: 'tls:seg', offset: 4243, content: '', id: KR2a0020_ZHSJ_113-d113p216s6}
   - {type: punctuation, offset: 4247, content: ，, id: KR2a0020_ZHSJ_113-bkkpn1063}
   - {type: 'tls:seg', offset: 4247, content: '', id: KR2a0020_ZHSJ_113-d113p216s7}
-  - {type: substitution, offset: 4252, original: 叡, replacement: 睿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2361}}
   - {type: punctuation, offset: 4255, content: ．, id: KR2a0020_ZHSJ_113-bkkpn1064}
   - {type: xml-element, offset: 4255, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele432}
   - {type: xml-element, offset: 4255, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele433}
@@ -3072,7 +3065,6 @@ markers:
   - {type: line-break, offset: 4422, content: '', id: ZHSJ__dup28844}
   - {type: punctuation, offset: 4423, content: ，, id: KR2a0020_ZHSJ_113-bkkpn1113}
   - {type: 'tls:seg', offset: 4423, content: '', id: KR2a0020_ZHSJ_113-d113p226s9}
-  - {type: substitution, offset: 4429, original: 儁, replacement: 俊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0763}}
   - {type: punctuation, offset: 4433, content: ．, id: KR2a0020_ZHSJ_113-bkkpn1114}
   - {type: xml-element, offset: 4433, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele452}
   - {type: xml-element, offset: 4433, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele453}
@@ -3145,7 +3137,6 @@ markers:
   - {type: punctuation, offset: 4516, content: ，, id: KR2a0020_ZHSJ_113-bkkpn1139}
   - {type: 'tls:seg', offset: 4516, content: '', id: KR2a0020_ZHSJ_113-d113p232s8}
   - {type: punctuation, offset: 4518, content: 、, id: KR2a0020_ZHSJ_113-bkkpn1140}
-  - {type: substitution, offset: 4522, original: 頹, replacement: 頽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4562}}
   - {type: punctuation, offset: 4524, content: ．, id: KR2a0020_ZHSJ_113-bkkpn1141}
   - {type: xml-element, offset: 4524, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele464}
   - {type: xml-element, offset: 4524, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele465}
@@ -3303,7 +3294,6 @@ markers:
   - {type: punctuation, offset: 4741, content: ，, id: KR2a0020_ZHSJ_113-bkkpn1199}
   - {type: 'tls:seg', offset: 4741, content: '', id: KR2a0020_ZHSJ_113-d113p245s6}
   - {type: punctuation, offset: 4746, content: 、, id: KR2a0020_ZHSJ_113-bkkpn1200}
-  - {type: substitution, offset: 4750, original: 叡, replacement: 睿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2361}}
   - {type: punctuation, offset: 4755, content: 、, id: KR2a0020_ZHSJ_113-bkkpn1201}
   - {type: line-break, offset: 4755, content: '', id: ZHSJ__dup28865}
   - {type: punctuation, offset: 4758, content: ，, id: KR2a0020_ZHSJ_113-bkkpn1202}
@@ -4534,7 +4524,6 @@ markers:
   - {type: punctuation, offset: 6563, content: ，, id: KR2a0020_ZHSJ_113-bkkpn1735}
   - {type: 'tls:seg', offset: 6563, content: '', id: KR2a0020_ZHSJ_113-d113p320s6}
   - {type: punctuation, offset: 6566, content: 、, id: KR2a0020_ZHSJ_113-bkkpn1736}
-  - {type: substitution, offset: 6569, original: 勰, replacement: 協, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3535}}
   - {type: punctuation, offset: 6570, content: ．, id: KR2a0020_ZHSJ_113-bkkpn1737}
   - {type: xml-element, offset: 6570, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele640}
   - {type: xml-element, offset: 6570, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele641}
@@ -5472,7 +5461,6 @@ markers:
   - {type: variant, offset: 7929, length: 1, content: 發, krp: 洗馬從第二品將}
   - {type: variant, offset: 7931, length: 4, content: 自衞孝昌, WYG: 二蕃王諮議參軍事第}
   - {type: variant, offset: 7931, length: 4, content: 自衞孝昌, krp: 二蕃王諮議參軍事第}
-  - {type: substitution, offset: 7932, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: punctuation, offset: 7933, content: 」, id: KR2a0020_ZHSJ_113-bkkpn2140}
   - {type: punctuation, offset: 7933, content: ．, id: KR2a0020_ZHSJ_113-bkkpn2141}
   - {type: 'tls:seg', offset: 7933, content: '', id: KR2a0020_ZHSJ_113-d113p378s6}
@@ -5632,7 +5620,6 @@ markers:
   - {type: 'tls:seg', offset: 8138, content: '', id: KR2a0020_ZHSJ_113-d113p385s12}
   - {type: punctuation, offset: 8142, content: ，, id: KR2a0020_ZHSJ_113-bkkpn2203}
   - {type: 'tls:seg', offset: 8142, content: '', id: KR2a0020_ZHSJ_113-d113p385s13}
-  - {type: substitution, offset: 8142, original: 尒, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0101}}
   - {type: punctuation, offset: 8152, content: ，, id: KR2a0020_ZHSJ_113-bkkpn2204}
   - {type: 'tls:seg', offset: 8152, content: '', id: KR2a0020_ZHSJ_113-d113p385s14}
   - {type: line-break, offset: 8155, content: '', id: ZHSJ__dup29054}
@@ -5845,7 +5832,6 @@ markers:
   - {type: 'tls:seg', offset: 8428, content: '', id: KR2a0020_ZHSJ_113-d113p393s8}
   - {type: punctuation, offset: 8444, content: ，, id: KR2a0020_ZHSJ_113-bkkpn2284}
   - {type: 'tls:seg', offset: 8444, content: '', id: KR2a0020_ZHSJ_113-d113p393s9}
-  - {type: substitution, offset: 8449, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4348}}
   - {type: punctuation, offset: 8450, content: 、, id: KR2a0020_ZHSJ_113-bkkpn2285}
   - {type: punctuation, offset: 8458, content: ．, id: KR2a0020_ZHSJ_113-bkkpn2286}
   - {type: 'tls:seg', offset: 8458, content: '', id: KR2a0020_ZHSJ_113-d113p393s10}
@@ -5979,7 +5965,6 @@ markers:
   - {type: punctuation, offset: 8630, content: ．, id: KR2a0020_ZHSJ_113-bkkpn2343}
   - {type: punctuation, offset: 8630, content: 」, id: KR2a0020_ZHSJ_113-bkkpn2344}
   - {type: 'tls:seg', offset: 8630, content: '', id: KR2a0020_ZHSJ_113-d113p397s8}
-  - {type: substitution, offset: 8631, original: 尒, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0101}}
   - {type: punctuation, offset: 8638, content: ．, id: KR2a0020_ZHSJ_113-bkkpn2345}
   - {type: xml-element, offset: 8638, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele794}
   - {type: xml-element, offset: 8638, content: '', id: KR2a0020_ZHSJ_113-bkkxmlele795}
@@ -6025,7 +6010,6 @@ markers:
   - {type: 'tls:seg', offset: 8697, content: '', id: KR2a0020_ZHSJ_113-d113p399s13}
   - {type: punctuation, offset: 8700, content: ，, id: KR2a0020_ZHSJ_113-bkkpn2363}
   - {type: 'tls:seg', offset: 8700, content: '', id: KR2a0020_ZHSJ_113-d113p399s14}
-  - {type: substitution, offset: 8700, original: 尒, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0101}}
   - {type: punctuation, offset: 8705, content: ，, id: KR2a0020_ZHSJ_113-bkkpn2364}
   - {type: 'tls:seg', offset: 8705, content: '', id: KR2a0020_ZHSJ_113-d113p399s15}
   - {type: punctuation, offset: 8707, content: ，, id: KR2a0020_ZHSJ_113-bkkpn2365}
@@ -6712,4 +6696,4 @@ markers:
   - {type: xml-element, offset: 9646, content: '', id: KR2a0020_ZHSJ_113-d113n1}
   - {type: xml-element, offset: 9646, content: '', id: KR2a0020_ZHSJ_113-d113n1_end}
   back: []
-hash: sha256:24f11ca003fcf0d400a75a37b46177b542f907e52b0fe75f719217cda812e5db
+hash: sha256:03c5a99b323a5f52d72e067e52ff6f6dbd70e5464639a3aeb1f43199f24be6bd

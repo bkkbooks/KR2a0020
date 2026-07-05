@@ -348,7 +348,6 @@ markers:
   - {type: punctuation, offset: 555, content: 、, id: KR2a0020_ZHSJ_019-bkkpn117}
   - {type: variant, offset: 555, length: 1, content: 衞, WYG: 北討詔徵赴京朂以戰伐之事對曰當仰仗廟算使呼韓同渭橋之禮帝歎曰壯哉王言朕所望也未發遭母憂詔遣侍臣以金革敦喻既殯而發與陸叡集三道諸将議軍途所詣於是中道出黒山東道趨士盧河西道向侯延河軍過}
   - {type: variant, offset: 555, length: 1, content: 衞, krp: 北討詔徵赴京朂以戰伐之事對曰當仰仗廟算使呼韓同渭橋之禮帝歎曰壯哉王言朕所望也未發遭母憂詔遣侍臣以金革敦喻既殯而發與陸叡集三道諸将議軍途所詣於是中道出黒山東道趨士盧河西道向侯延河軍過}
-  - {type: substitution, offset: 555, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: variant, offset: 557, length: 1, content: 將, WYG: 磧大破蠕蠕頤入朝詔曰王之前言果不虚也後除朔州刺史及恒州刺史穆泰謀反遣使推頤為主頤密以狀聞泰等伏誅帝甚嘉之世宗景明元年薨於青州刺史諡曰莊王傳國至孫宗𦙍肅宗時坐殺叔父賜死爵除頤弟衍字安樂賜爵廣陵侯位梁州刺史表請假王以崇威重詔曰可謂無厭求也所請不合轉徐州刺史至州病重帝勅徐成伯乗傳療疾差成伯還帝曰卿定名醫賚絹三千匹成伯辭請受一千帝曰詩云人之云亾邦國殄瘁以是而言豈惟三千匹乎其為帝所重如此後所生母雷氏卒表請解州詔曰先君餘尊之所厭禮之明文季末陵遲斯典或廢侯既親王之子宜從餘尊之義便可大功後卒於雍州刺史諡曰康侯衍性清慎所在亷潔又不營産業歴牧四州皆有稱績亾日無歛屍具子暢暢弟融字叔融貌甚短陋驍武過人莊帝謀殺尒朱榮以融為直閤将軍及尒朱兆入洛融逃人間衍弟欽字思若位中書監尚書右僕射儀同三司欽色尤黑故時人號為黒面僕射欽滛從兄麗妻崔氏為御史中尉封回劾奏遇赦免尋除司州牧欽少好學早有令譽時人語曰皇宗畧畧壽安思若及晚年貴重不能有所匡益識者輕之欽曾託青州人髙僧壽為子求師師至未幾逃去欽以讓僧壽僧壽性滑稽反謂欽曰凡人絶粒七日乃死始經五朝便爾逃遁去食就信實有所闕欽乃大慙於是待客稍厚後除司空公封鉅平縣公於河隂遇害贈假黄鉞太師太尉公子子孝字季業早有令譽年八嵗司徒崔光見而異之曰後生領袖必此人也京兆王子推太安五年封位侍中征南大将軍長安鎮都大将子推性沉雅善於綏接秦雍之人服其威惠入為中都大官察獄有稱顯祖将禪位於子推以大臣固諫乃傳髙祖髙祖即位拜侍中本将}
   - {type: page-break, offset: 557, content: '', id: KR2a0020_WYG_019-2b, image: WYG0261/WYG0261-0276b.png}
   - {type: page-break, offset: 557, content: '', id: KR2a0020_WYG_019-3a, image: WYG0261/WYG0261-0276c.png}
@@ -953,4 +952,4 @@ markers:
   - {type: xml-element, offset: 991, content: '', id: KR2a0020_ZHSJ_019-d19n1}
   - {type: xml-element, offset: 991, content: '', id: KR2a0020_ZHSJ_019-d19n1_end}
   back: []
-hash: sha256:d5f48417a0b50653c002370e6327e48f9d7ea99aec2d6001e2876e15cfcf4357
+hash: sha256:17aaec3f4c9cfebb5771c80e6e4097d584c68c13ad28db8c2c59a7f12736ca25
