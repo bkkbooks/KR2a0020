@@ -14,10 +14,12 @@ markers:
   - {type: variant, offset: 3, length: 0, content: '', krp: 一齊魏收撰}
   - {type: variant, offset: 4, length: 7, content: 啟臣收等啟昔子, WYG: 第十六刑罰七二儀旣判彚品生焉五才兼用廢一不可金木水火土咸相愛惡陰陽所育禀氣呈形鼓之以雷霆潤之以雲雨春夏以生}
   - {type: variant, offset: 4, length: 7, content: 啟臣收等啟昔子, krp: 第十六刑罰七二儀旣判彚品生焉五才兼用廢一不可金木水火土咸相愛惡陰陽所育禀氣呈形鼓之以雷霆潤之以雲雨春夏以生}
+  - {type: substitution, offset: 4, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: xml-element, offset: 5, content: '', id: KR2a0020_ZHSJ_111-bkkxmlele2}
   - {type: xml-element, offset: 5, content: '', id: KR2a0020_ZHSJ_111-bkkxmlele3}
   - {type: 'tls:seg', offset: 5, content: '', id: KR2a0020_ZHSJ_111-d111p2s1}
   - {type: line-break, offset: 5, content: '', id: ZHSJ__dup28373}
+  - {type: substitution, offset: 8, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 9, content: ：, id: KR2a0020_ZHSJ_111-bkkpn1}
   - {type: variant, offset: 12, length: 20, content: 命世偉才孟堅冠時特秀憲章前哲裁勒墳史紀傳, WYG: 之秋冬以殺藏之斯則徳刑之設著自神道聖人處天地}
   - {type: page-break, offset: 12, content: '', id: KR2a0020_WYG_111-1b, image: WYG0262/WYG0262-0720b.png}
@@ -89,6 +91,7 @@ markers:
   - {type: 'tls:seg', offset: 106, content: '', id: KR2a0020_ZHSJ_111-d111p2s21}
   - {type: punctuation, offset: 110, content: ，, id: KR2a0020_ZHSJ_111-bkkpn25}
   - {type: 'tls:seg', offset: 110, content: '', id: KR2a0020_ZHSJ_111-d111p2s22}
+  - {type: substitution, offset: 113, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 114, content: ．, id: KR2a0020_ZHSJ_111-bkkpn26}
   - {type: 'tls:seg', offset: 114, content: '', id: KR2a0020_ZHSJ_111-d111p2s23}
   - {type: punctuation, offset: 119, content: ，, id: KR2a0020_ZHSJ_111-bkkpn27}
@@ -176,6 +179,7 @@ markers:
   - {type: 'tls:seg', offset: 257, content: '', id: KR2a0020_ZHSJ_111-d111p2s53}
   - {type: variant, offset: 259, length: 51, content: 晚始撰錄彌歷炎涼採舊增新今乃斷筆時移世易理不刻船登閣含毫論殊致河溝往時之切釋老當今之重藝文前志可尋官氏, WYG: ''}
   - {type: variant, offset: 259, length: 51, content: 晚始撰錄彌歷炎涼採舊增新今乃斷筆時移世易理不刻船登閣含毫論殊致河溝往時之切釋老當今之重藝文前志可尋官氏, krp: ''}
+  - {type: substitution, offset: 262, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 263, content: ，, id: KR2a0020_ZHSJ_111-bkkpn57}
   - {type: 'tls:seg', offset: 263, content: '', id: KR2a0020_ZHSJ_111-d111p2s54}
   - {type: punctuation, offset: 267, content: ，, id: KR2a0020_ZHSJ_111-bkkpn58}
@@ -295,6 +299,7 @@ markers:
   - {type: variant, offset: 364, length: 1, content: 啟, WYG: 詳法若畫一理尚不二不可喜怒由情而致輕重案律公私刼盜罪止流刑而比執事苦違好爲穿鑿律令之外更立餘條通相糺之路班捉獲之賞斯乃刑書徒設獄訟更煩法令滋彰盜賊多有非所謂不嚴而治遵守典故者矣臣以爲升平之美義在省刑陵遲之弊必由峻法是以漢約三章天下歸德秦酷五刑率土瓦解禮訓君子律禁小人舉罪定名國有常辟至如眚災肆赦怙終賊刑經典垂言國朝成範隨時所用各有司存不宜巨細滋煩令民豫備恐防之彌堅攻之彌甚請諸犯盜之人悉准律令以明恒憲庶使刑殺折𠂻不得棄本從末詔從之天平後遷移草剏百司多不奉法貨賄公行興和初齊文襄王入輔朝政以公平肅物大改其風至武定中法令嚴明四海知治矣魏書卷一百一}
   - {type: page-break, offset: 364, content: '', id: KR2a0020_WYG_111-24b, image: WYG0262/WYG0262-0731d.png}
   - {type: variant, offset: 364, length: 1, content: 啟, krp: 詳法若畫一理尚不二不可喜怒由情而致輕重案律公私刼盜罪止流刑而比執事苦違好爲穿鑿律令之外更立餘條通相糺之路班捉獲之賞斯乃刑書徒設獄訟更煩法令滋彰盜賊多有非所謂不嚴而治遵守典故者矣臣以爲升平之美義在省刑陵遲之弊必由峻法是以漢約三章天下歸德秦酷五刑率土瓦解禮訓君子律禁小人舉罪定名國有常辟至如眚災肆赦怙終賊刑經典垂言國朝成範隨時所用各有司存不宜巨細滋煩令民豫備恐防之彌堅攻之彌甚請諸犯盜之人悉准律令以明恒憲庶使刑殺折𠂻不得棄本從末詔從之天平後遷移草剏百司多不奉法貨賄公行興和初齊文襄王入輔朝政以公平肅物大改其風至武定中法令嚴明四海知治矣魏書卷一百一}
+  - {type: substitution, offset: 364, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 365, content: ．, id: KR2a0020_ZHSJ_111-bkkpn79}
   - {type: 'tls:seg', offset: 365, content: '', id: KR2a0020_ZHSJ_111-d111p2s76}
   - {type: line-break, offset: 365, content: '', id: ZHSJ__dup28384}
@@ -337,6 +342,7 @@ markers:
   - {type: page-break, offset: 396, content: '', id: KR2a0020_WYG_111-25b, image: WYG0262/WYG0262-0732b.png}
   - {type: variant, offset: 397, length: 34, content: 收啟平南將軍司空司馬修史臣辛元植冠軍將軍國子博士修史臣刁柔陵江將軍尚, WYG: ''}
   - {type: variant, offset: 397, length: 34, content: 收啟平南將軍司空司馬修史臣辛元植冠軍將軍國子博士修史臣刁柔陵江將軍尚, krp: ''}
+  - {type: substitution, offset: 398, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: page-break, offset: 399, content: '', id: KR2a0020_ZHSJ_111-2332a}
   - {type: line-break, offset: 399, content: '', id: ZHSJ__dup28386}
   - {type: punctuation, offset: 403, content: 、, id: KR2a0020_ZHSJ_111-bkkpn86}
@@ -349,4 +355,4 @@ markers:
   - {type: line-break, offset: 443, content: '', id: ZHSJ__dup28389}
   - {type: xml-element, offset: 455, content: '', id: KR2a0020_ZHSJ_111-bkkxmlele6}
   back: []
-hash: sha256:254a705b964bdaae575c471a74a153af8c9e4a9901f7b7baec0eb4f80a4844ea
+hash: sha256:393191af0115ffbd3050e26146ca396990295476e3d260252cee238ecacca85e

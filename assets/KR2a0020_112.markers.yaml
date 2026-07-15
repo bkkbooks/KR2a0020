@@ -190,6 +190,7 @@ markers:
   - {type: 'tls:seg', offset: 162, content: '', id: KR2a0020_ZHSJ_112-d112p2s31}
   - {type: variant, offset: 167, length: 8, content: 比入五行說七曜一, WYG: 禍世祖神䴥三年三月有白龍二見于京師家人井中眞君六年二月丙辰有白龍見于京師家人井中龍神物}
   - {type: variant, offset: 167, length: 8, content: 比入五行說七曜一, krp: 禍世祖神䴥三年三月有白龍二見于京師家人井中眞君六年二月丙辰有白龍見于京師家人井中龍神物}
+  - {type: substitution, offset: 171, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 172, content: ．, id: KR2a0020_ZHSJ_112-bkkpn35}
   - {type: 'tls:seg', offset: 172, content: '', id: KR2a0020_ZHSJ_112-d112p2s32}
   - {type: punctuation, offset: 176, content: ，, id: KR2a0020_ZHSJ_112-bkkpn36}
@@ -342,6 +343,7 @@ markers:
   - {type: 'tls:seg', offset: 286, content: '', id: KR2a0020_ZHSJ_112-d112p5s11}
   - {type: punctuation, offset: 290, content: ．, id: KR2a0020_ZHSJ_112-bkkpn59}
   - {type: 'tls:seg', offset: 290, content: '', id: KR2a0020_ZHSJ_112-d112p5s12}
+  - {type: substitution, offset: 294, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: punctuation, offset: 297, content: ．, id: KR2a0020_ZHSJ_112-bkkpn60}
   - {type: xml-element, offset: 297, content: '', id: KR2a0020_ZHSJ_112-bkkxmlele10}
   - {type: xml-element, offset: 297, content: '', id: KR2a0020_ZHSJ_112-bkkxmlele11}
@@ -772,6 +774,7 @@ markers:
   - {type: punctuation, offset: 922, content: ，, id: KR2a0020_ZHSJ_112-bkkpn189}
   - {type: 'tls:seg', offset: 922, content: '', id: KR2a0020_ZHSJ_112-d112p30s7}
   - {type: punctuation, offset: 927, content: 、, id: KR2a0020_ZHSJ_112-bkkpn190}
+  - {type: substitution, offset: 928, original: 阯, replacement: 址, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16460}}
   - {type: punctuation, offset: 935, content: ．, id: KR2a0020_ZHSJ_112-bkkpn191}
   - {type: xml-element, offset: 935, content: '', id: KR2a0020_ZHSJ_112-bkkxmlele60}
   - {type: xml-element, offset: 935, content: '', id: KR2a0020_ZHSJ_112-bkkxmlele61}
@@ -1446,6 +1449,7 @@ markers:
   - {type: 'tls:seg', offset: 1917, content: '', id: KR2a0020_ZHSJ_112-d112p73s7}
   - {type: page-break, offset: 1919, content: '', id: KR2a0020_ZHSJ_112-2340a}
   - {type: line-break, offset: 1919, content: '', id: ZHSJ__dup28492}
+  - {type: substitution, offset: 1919, original: 昇, replacement: 升, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16205}}
   - {type: punctuation, offset: 1921, content: ．, id: KR2a0020_ZHSJ_112-bkkpn413}
   - {type: xml-element, offset: 1921, content: '', id: KR2a0020_ZHSJ_112-bkkxmlele146}
   - {type: xml-element, offset: 1921, content: '', id: KR2a0020_ZHSJ_112-bkkxmlele147}
@@ -1496,6 +1500,7 @@ markers:
   - {type: 'tls:seg', offset: 2021, content: '', id: KR2a0020_ZHSJ_112-d112p76s6}
   - {type: punctuation, offset: 2024, content: ，, id: KR2a0020_ZHSJ_112-bkkpn434}
   - {type: 'tls:seg', offset: 2024, content: '', id: KR2a0020_ZHSJ_112-d112p76s7}
+  - {type: substitution, offset: 2027, original: 饑, replacement: 飢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16274}}
   - {type: punctuation, offset: 2028, content: ，, id: KR2a0020_ZHSJ_112-bkkpn435}
   - {type: 'tls:seg', offset: 2028, content: '', id: KR2a0020_ZHSJ_112-d112p76s8}
   - {type: line-break, offset: 2031, content: '', id: ZHSJ__dup28497}
@@ -1631,6 +1636,7 @@ markers:
   - {type: variant, offset: 2201, length: 12, content: 民却鐵怱聚衆反自稱水池王, WYG: 上言木連理元象元年二月洛州上言木連理五月林慮縣上言木連理八月上黨郡上言木連理興和元年九月有司奏山西採材司馬張神和上言司空谷木連理二年}
   - {type: page-break, offset: 2201, content: '', id: KR2a0020_WYG_112-73a, image: missing/missing}
   - {type: variant, offset: 2201, length: 12, content: 民却鐵怱聚衆反自稱水池王, krp: 上言木連理元象元年二月洛州上言木連理五月林慮縣上言木連理八月上黨郡上言木連理興和元年九月有司奏山西採材司馬張神和上言司空谷木連理二年}
+  - {type: substitution, offset: 2204, original: 怱, replacement: 匆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16265}}
   - {type: punctuation, offset: 2208, content: ，, id: KR2a0020_ZHSJ_112-bkkpn476}
   - {type: 'tls:seg', offset: 2208, content: '', id: KR2a0020_ZHSJ_112-d112p80s14}
   - {type: punctuation, offset: 2213, content: ．, id: KR2a0020_ZHSJ_112-bkkpn477}
@@ -1645,6 +1651,7 @@ markers:
   - {type: 'tls:seg', offset: 2219, content: '', id: KR2a0020_ZHSJ_112-d112p81s2}
   - {type: variant, offset: 2219, length: 5, content: 日暈帀西有, WYG: 越裳氏來獻四年正月上黨郡獻白雉二月并州獻白雉五月河内郡獻白雉太宗神瑞二年十}
   - {type: variant, offset: 2219, length: 5, content: 日暈帀西有, krp: 越裳氏來獻四年正月上黨郡獻白雉二月并州獻白雉五月河内郡獻白雉太宗神瑞二年十}
+  - {type: substitution, offset: 2221, original: 帀, replacement: 匝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17839}}
   - {type: punctuation, offset: 2222, content: ；, id: KR2a0020_ZHSJ_112-bkkpn479}
   - {type: 'tls:seg', offset: 2222, content: '', id: KR2a0020_ZHSJ_112-d112p81s3}
   - {type: variant, offset: 2225, length: 5, content: 背內赤外黃, WYG: 月右民尚書周幾獲白雉一於博陵安平以獻泰常三年正月渤海郡髙城縣獻白雉三月渤海郡}
@@ -2042,6 +2049,7 @@ markers:
   - {type: variant, offset: 2844, length: 305, content: 月丁卯雍州刺史尒朱天光討擒万俟醜奴蕭寶夤於安定送京師斬之三年五月戊戌辰時日暈帀內赤外白暈內有兩珥西有白虹貫日東北有一背內赤外青南有一背內赤外青東有一抱內青外赤京師不見青州表聞六月辛丑日暈白虹貫日前廢帝普泰元年三月丁亥日月並赤赭色天地溷濁六月己亥朔日蝕從西南角起雲陰不見定相二州表聞占曰主弱小人持政時尒朱世隆兄弟專擅威福後廢帝中興二年二月辛丑辰時日暈東西不合其色內赤外青南北有珥西北去暈一尺餘有一背長二丈許可廣三尺內赤外青十一月日暈再重上有背長三丈餘內青外赤出帝太昌元年五月日暈再重上有兩背一尺許癸丑午時日南有珥去日一尺餘有一背長三丈許廣五尺內赤外青十月辛酉朔日從地下蝕出虧從西南角起占曰有兵大行永熙二年正月甲午, krp: 遠奔湊}
   - {type: punctuation, offset: 2847, content: ，, id: KR2a0020_ZHSJ_112-bkkpn620}
   - {type: 'tls:seg', offset: 2847, content: '', id: KR2a0020_ZHSJ_112-d112p100s10}
+  - {type: substitution, offset: 2851, original: 尒, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16263}}
   - {type: punctuation, offset: 2861, content: 、, id: KR2a0020_ZHSJ_112-bkkpn621}
   - {type: punctuation, offset: 2867, content: ，, id: KR2a0020_ZHSJ_112-bkkpn622}
   - {type: 'tls:seg', offset: 2867, content: '', id: KR2a0020_ZHSJ_112-d112p100s11}
@@ -2052,6 +2060,7 @@ markers:
   - {type: line-break, offset: 2872, content: '', id: ZHSJ__dup28535}
   - {type: punctuation, offset: 2880, content: ，, id: KR2a0020_ZHSJ_112-bkkpn624}
   - {type: 'tls:seg', offset: 2880, content: '', id: KR2a0020_ZHSJ_112-d112p101s2}
+  - {type: substitution, offset: 2882, original: 帀, replacement: 匝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17839}}
   - {type: punctuation, offset: 2883, content: ，, id: KR2a0020_ZHSJ_112-bkkpn625}
   - {type: 'tls:seg', offset: 2883, content: '', id: KR2a0020_ZHSJ_112-d112p101s3}
   - {type: punctuation, offset: 2887, content: ，, id: KR2a0020_ZHSJ_112-bkkpn626}
@@ -2116,6 +2125,7 @@ markers:
   - {type: punctuation, offset: 2992, content: ．, id: KR2a0020_ZHSJ_112-bkkpn650}
   - {type: 'tls:seg', offset: 2992, content: '', id: KR2a0020_ZHSJ_112-d112p104s8}
   - {type: line-break, offset: 2993, content: '', id: ZHSJ__dup28540}
+  - {type: substitution, offset: 2993, original: 尒, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16263}}
   - {type: punctuation, offset: 3003, content: ．, id: KR2a0020_ZHSJ_112-bkkpn651}
   - {type: xml-element, offset: 3003, content: '', id: KR2a0020_ZHSJ_112-bkkxmlele208}
   - {type: xml-element, offset: 3003, content: '', id: KR2a0020_ZHSJ_112-bkkxmlele209}
@@ -2198,6 +2208,7 @@ markers:
   - {type: variant, offset: 3153, length: 3, content: 自晉陽, krp: 令於泉所營立廬舍尚書奏賞刺史粟千石太守粟五百石縣令粟二百石以旌善政所感先列言者依第}
   - {type: variant, offset: 3157, length: 224, content: 討尒朱兆丁酉大破之於赤洪嶺兆遁走自殺永熙二年四月己未朔日有蝕之在丙虧從正南起占曰君陰謀三年五月辛卯出帝為斛斯椿等諸佞關構猜於齊獻武王託討蕭衍盛暑徵發河南諸州之兵天下怪惡之語在斛斯椿傳三年四月癸丑日有蝕之占曰有亂殺天子者七月丁未出帝為斛斯椿等迫脅遂出於長安孝靜元象元年春正月辛丑朔日有蝕之占曰大臣死八月辛卯司徒公高敖曹戰歿於河陰六月己丑日暈一重有兩珥上有背長二丈餘十一月己巳辰時日暈南面不合東西有珥背有白虹至珥不徹二年二月己丑巳時日暈帀白虹貫日不徹興, WYG: 身詔可髙宗太}
   - {type: variant, offset: 3157, length: 224, content: 討尒朱兆丁酉大破之於赤洪嶺兆遁走自殺永熙二年四月己未朔日有蝕之在丙虧從正南起占曰君陰謀三年五月辛卯出帝為斛斯椿等諸佞關構猜於齊獻武王託討蕭衍盛暑徵發河南諸州之兵天下怪惡之語在斛斯椿傳三年四月癸丑日有蝕之占曰有亂殺天子者七月丁未出帝為斛斯椿等迫脅遂出於長安孝靜元象元年春正月辛丑朔日有蝕之占曰大臣死八月辛卯司徒公高敖曹戰歿於河陰六月己丑日暈一重有兩珥上有背長二丈餘十一月己巳辰時日暈南面不合東西有珥背有白虹至珥不徹二年二月己丑巳時日暈帀白虹貫日不徹興, krp: 身詔可髙宗太}
+  - {type: substitution, offset: 3158, original: 尒, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16263}}
   - {type: punctuation, offset: 3161, content: ．, id: KR2a0020_ZHSJ_112-bkkpn683}
   - {type: 'tls:seg', offset: 3161, content: '', id: KR2a0020_ZHSJ_112-d112p108s8}
   - {type: punctuation, offset: 3163, content: ，, id: KR2a0020_ZHSJ_112-bkkpn684}
@@ -2304,6 +2315,7 @@ markers:
   - {type: line-break, offset: 3363, content: '', id: ZHSJ__dup28556}
   - {type: punctuation, offset: 3371, content: ，, id: KR2a0020_ZHSJ_112-bkkpn728}
   - {type: 'tls:seg', offset: 3371, content: '', id: KR2a0020_ZHSJ_112-d112p112s2}
+  - {type: substitution, offset: 3373, original: 帀, replacement: 匝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17839}}
   - {type: punctuation, offset: 3374, content: ，, id: KR2a0020_ZHSJ_112-bkkpn729}
   - {type: 'tls:seg', offset: 3374, content: '', id: KR2a0020_ZHSJ_112-d112p112s3}
   - {type: punctuation, offset: 3380, content: ．, id: KR2a0020_ZHSJ_112-bkkpn730}
@@ -2411,6 +2423,7 @@ markers:
   - {type: line-break, offset: 3552, content: '', id: ZHSJ__dup28565}
   - {type: punctuation, offset: 3556, content: ，, id: KR2a0020_ZHSJ_112-bkkpn769}
   - {type: 'tls:seg', offset: 3556, content: '', id: KR2a0020_ZHSJ_112-d112p117s2}
+  - {type: substitution, offset: 3558, original: 帀, replacement: 匝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17839}}
   - {type: punctuation, offset: 3559, content: ，, id: KR2a0020_ZHSJ_112-bkkpn770}
   - {type: 'tls:seg', offset: 3559, content: '', id: KR2a0020_ZHSJ_112-d112p117s3}
   - {type: punctuation, offset: 3565, content: ，, id: KR2a0020_ZHSJ_112-bkkpn771}
@@ -2436,4 +2449,4 @@ markers:
   - {type: xml-element, offset: 3588, content: '', id: KR2a0020_ZHSJ_112-d112n1}
   - {type: xml-element, offset: 3588, content: '', id: KR2a0020_ZHSJ_112-d112n1_end}
   back: []
-hash: sha256:66ab50539fe88edd89dad30d012564efcbb7aa8116a13ecb0e891b3ef5cfa44d
+hash: sha256:5f6a75b6b370d00a5d9f8f036818e27363a685625cd543073d655fc6d461acae
