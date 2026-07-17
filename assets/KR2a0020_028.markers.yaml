@@ -711,6 +711,7 @@ markers:
   - {type: punctuation, offset: 1217, content: ．, id: KR2a0020_ZHSJ_028-bkkpn307}
   - {type: 'tls:seg', offset: 1217, content: '', id: KR2a0020_ZHSJ_028-d28p9s25}
   - {type: punctuation, offset: 1217, content: (, id: KR2a0020_ZHSJ_028-bkkpn308}
+  - {type: voice, offset: 1217, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1218, content: ), id: KR2a0020_ZHSJ_028-bkkpn309}
   - {type: punctuation, offset: 1221, content: ，, id: KR2a0020_ZHSJ_028-bkkpn310}
   - {type: 'tls:seg', offset: 1221, content: '', id: KR2a0020_ZHSJ_028-d28p9s26}
@@ -1791,4 +1792,4 @@ markers:
   - {type: page-break, offset: 3124, content: '', id: KR2a0020_WYG_028-18b, image: WYG0261/WYG0261-0431b.png}
   - {type: variant, offset: 3124, length: 0, content: '', krp: 魏書卷二十八魏書卷二十八考證劉潔傳日辰不協擊皷却陳臣人龍按漢書明帝時公卿以反支日不受章奏帝以民廢農桑逺來詣闕而拘以禁忌豈為政之意詔捐其制此言日辰不協蓋其類也潔與南康公狄隣狄北史作秋魏書卷二十八考證}
   back: []
-hash: sha256:8985660306095b4819852b0aa45b083f548f77fa9d1133cd3fbb7ea33602f9c7
+hash: sha256:8412ce5c35b0638a5b6039a5334218fccc7437f2c67aaa9bd0acb02f64637d34

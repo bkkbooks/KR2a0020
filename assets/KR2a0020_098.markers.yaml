@@ -226,6 +226,7 @@ markers:
   - {type: punctuation, offset: 379, content: ．, id: KR2a0020_ZHSJ_098-bkkpn56}
   - {type: 'tls:seg', offset: 379, content: '', id: KR2a0020_ZHSJ_098-d98p4s25}
   - {type: punctuation, offset: 379, content: (, id: KR2a0020_ZHSJ_098-bkkpn57}
+  - {type: voice, offset: 379, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 381, content: ), id: KR2a0020_ZHSJ_098-bkkpn58}
   - {type: punctuation, offset: 385, content: ，, id: KR2a0020_ZHSJ_098-bkkpn59}
   - {type: 'tls:seg', offset: 385, content: '', id: KR2a0020_ZHSJ_098-d98p4s26}
@@ -253,6 +254,7 @@ markers:
   - {type: punctuation, offset: 413, content: ．, id: KR2a0020_ZHSJ_098-bkkpn66}
   - {type: 'tls:seg', offset: 413, content: '', id: KR2a0020_ZHSJ_098-d98p4s33}
   - {type: punctuation, offset: 413, content: (, id: KR2a0020_ZHSJ_098-bkkpn67}
+  - {type: voice, offset: 413, length: 2, name: note, id: n2}
   - {type: variant, offset: 414, length: 0, content: '', WYG: 寧州刺史董蠻車駕濟淮幸八公山巡淮而東發鍾離将臨江水司徒馮誕薨乃詔班師遣使臨江數鸞罪惡鸞殺其西陽王子明南海王子罕邵陵王子真}
   - {type: variant, offset: 414, length: 0, content: '', krp: 寧州刺史董蠻車駕濟淮幸八公山巡淮而東發鍾離将臨江水司徒馮誕薨乃詔班師遣使臨江數鸞罪惡鸞殺其西陽王子明南海王子罕邵陵王子真}
   - {type: punctuation, offset: 415, content: ), id: KR2a0020_ZHSJ_098-bkkpn68}
@@ -283,6 +285,7 @@ markers:
   - {type: punctuation, offset: 447, content: ．, id: KR2a0020_ZHSJ_098-bkkpn76}
   - {type: 'tls:seg', offset: 447, content: '', id: KR2a0020_ZHSJ_098-d98p4s41}
   - {type: punctuation, offset: 447, content: (, id: KR2a0020_ZHSJ_098-bkkpn77}
+  - {type: voice, offset: 447, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 449, content: ), id: KR2a0020_ZHSJ_098-bkkpn78}
   - {type: punctuation, offset: 453, content: ，, id: KR2a0020_ZHSJ_098-bkkpn79}
   - {type: 'tls:seg', offset: 453, content: '', id: KR2a0020_ZHSJ_098-d98p4s42}
@@ -304,6 +307,7 @@ markers:
   - {type: punctuation, offset: 481, content: ．, id: KR2a0020_ZHSJ_098-bkkpn86}
   - {type: 'tls:seg', offset: 481, content: '', id: KR2a0020_ZHSJ_098-d98p4s49}
   - {type: punctuation, offset: 481, content: (, id: KR2a0020_ZHSJ_098-bkkpn87}
+  - {type: voice, offset: 481, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 483, content: ), id: KR2a0020_ZHSJ_098-bkkpn88}
   - {type: punctuation, offset: 487, content: ，, id: KR2a0020_ZHSJ_098-bkkpn89}
   - {type: 'tls:seg', offset: 487, content: '', id: KR2a0020_ZHSJ_098-d98p4s50}
@@ -323,6 +327,7 @@ markers:
   - {type: punctuation, offset: 515, content: ．, id: KR2a0020_ZHSJ_098-bkkpn96}
   - {type: 'tls:seg', offset: 515, content: '', id: KR2a0020_ZHSJ_098-d98p4s57}
   - {type: punctuation, offset: 515, content: (, id: KR2a0020_ZHSJ_098-bkkpn97}
+  - {type: voice, offset: 515, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 517, content: ), id: KR2a0020_ZHSJ_098-bkkpn98}
   - {type: punctuation, offset: 521, content: ，, id: KR2a0020_ZHSJ_098-bkkpn99}
   - {type: 'tls:seg', offset: 521, content: '', id: KR2a0020_ZHSJ_098-d98p4s58}
@@ -345,6 +350,7 @@ markers:
   - {type: punctuation, offset: 549, content: ．, id: KR2a0020_ZHSJ_098-bkkpn106}
   - {type: 'tls:seg', offset: 549, content: '', id: KR2a0020_ZHSJ_098-d98p4s65}
   - {type: punctuation, offset: 549, content: (, id: KR2a0020_ZHSJ_098-bkkpn107}
+  - {type: voice, offset: 549, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 551, content: ), id: KR2a0020_ZHSJ_098-bkkpn108}
   - {type: punctuation, offset: 555, content: ，, id: KR2a0020_ZHSJ_098-bkkpn109}
   - {type: 'tls:seg', offset: 555, content: '', id: KR2a0020_ZHSJ_098-d98p4s66}
@@ -365,6 +371,7 @@ markers:
   - {type: punctuation, offset: 583, content: ．, id: KR2a0020_ZHSJ_098-bkkpn116}
   - {type: 'tls:seg', offset: 583, content: '', id: KR2a0020_ZHSJ_098-d98p4s73}
   - {type: punctuation, offset: 583, content: (, id: KR2a0020_ZHSJ_098-bkkpn117}
+  - {type: voice, offset: 583, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 585, content: ), id: KR2a0020_ZHSJ_098-bkkpn118}
   - {type: punctuation, offset: 589, content: ，, id: KR2a0020_ZHSJ_098-bkkpn119}
   - {type: 'tls:seg', offset: 589, content: '', id: KR2a0020_ZHSJ_098-d98p4s74}
@@ -385,6 +392,7 @@ markers:
   - {type: punctuation, offset: 617, content: ．, id: KR2a0020_ZHSJ_098-bkkpn126}
   - {type: 'tls:seg', offset: 617, content: '', id: KR2a0020_ZHSJ_098-d98p4s81}
   - {type: punctuation, offset: 617, content: (, id: KR2a0020_ZHSJ_098-bkkpn127}
+  - {type: voice, offset: 617, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 619, content: ), id: KR2a0020_ZHSJ_098-bkkpn128}
   - {type: punctuation, offset: 619, content: 」, id: KR2a0020_ZHSJ_098-bkkpn129}
   - {type: xml-element, offset: 619, content: '', id: KR2a0020_ZHSJ_098-bkkxmlele8}
@@ -1814,9 +1822,10 @@ markers:
   - {type: page-break, offset: 3091, content: '', id: KR2a0020_WYG_098-39a, image: WYG0262/WYG0262-0436c.png}
   - {type: page-break, offset: 3091, content: '', id: KR2a0020_WYG_098-39b, image: WYG0262/WYG0262-0436d.png}
   - {type: variant, offset: 3091, length: 1, content: 闕, krp: 二蕭競塗泥之中同蝸角之戰或年纔三紀或身不獲終而偷名江徼自擬王者考之邃古所未前聞昔句踐致貢而延世夫差争長而後死两冦方之呉越不乃劣乎魏書卷九十八魏書卷九十八考證蕭衍傳是歲衍又改年為大通歴代甲子圖梁大通元年即魏孝昌三年此書于孝昌元年之下謂是歲改年大通互異是年衍又改號為中大通歴代甲子圖歲在丁未梁改普通為大通己酉又改中大通乙夘又改為大同即東魏孝静帝之天平二年也此書則于天平二年之下謂為中大通二年夏二年上脱年號臣人龍按本書孝静帝紀號天平者凡四年至次年正月即改元為元象又次年十一月即改元興和今上文云四年冬下文云興和二年春則此年當稱元象元年是年衍改號大同歴代甲子圖東魏興和二年為梁大同六年與書互異六年衍又改號為中大同其年又改為太清歴代甲子圖梁中大同元年即東魏武定四年又梁太清元年即東魏武定五年與此互異魏書卷九十八考證}
+  - {type: voice, offset: 3091, length: 1, name: note, id: n9}
   - {type: punctuation, offset: 3092, content: ), id: KR2a0020_ZHSJ_098-bkkpn687}
   - {type: xml-element, offset: 3092, content: '', id: KR2a0020_ZHSJ_098-bkkxmlele42}
   - {type: xml-element, offset: 3092, content: '', id: KR2a0020_ZHSJ_098-d98n1}
   - {type: xml-element, offset: 3092, content: '', id: KR2a0020_ZHSJ_098-d98n1_end}
   back: []
-hash: sha256:23b8e5d131d62e1553c3c003cffc7e19473fb99b2ad5abee5f4c7297c0c92eff
+hash: sha256:d251fd24c06b8846694f663fd50679c7e977ef4eadcb41f4f81fa46b91d05a90

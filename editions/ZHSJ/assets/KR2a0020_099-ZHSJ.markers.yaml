@@ -3970,9 +3970,10 @@ markers:
   - {type: punctuation, offset: 8798, content: ．, id: KR2a0020_ZHSJ_099-bkkpn1825}
   - {type: 'tls:seg', offset: 8798, content: '', id: KR2a0020_ZHSJ_099-d99p80s2}
   - {type: punctuation, offset: 8798, content: (, id: KR2a0020_ZHSJ_099-bkkpn1826}
+  - {type: voice, offset: 8798, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 8799, content: ), id: KR2a0020_ZHSJ_099-bkkpn1827}
   - {type: xml-element, offset: 8799, content: '', id: KR2a0020_ZHSJ_099-bkkxmlele160, name: p, role: close}
   - {type: xml-element, offset: 8799, content: '', id: KR2a0020_ZHSJ_099-d99n1, name: note, role: open, attrs: {'xml:id': KR2a0020_ZHSJ_099-d99n1, type: text-crit}}
   - {type: xml-element, offset: 8799, content: '', id: KR2a0020_ZHSJ_099-d99n1_end, name: note, role: close, attrs: {'xml:id': KR2a0020_ZHSJ_099-d99n1, type: text-crit}}
   back: []
-hash: sha256:a76303e888de67be8b5838e84e5ffc3a5717150bb65f785e77faddd6d34507a3
+hash: sha256:50d4908b3cb2f425f53ba4f0a17e365689ee622a2f6d29c029bd4ee775e5ab00

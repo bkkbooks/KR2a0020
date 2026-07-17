@@ -548,6 +548,7 @@ markers:
       ', id: KR2a0020_WYG_022-bkkkrnewl132}
   - {type: line-break, offset: 2329, content: '', id: KR2a0020_WYG_022-8a07}
   - {type: punctuation, offset: 2333, content: (, id: KR2a0020_WYG_022-bkkpn1}
+  - {type: voice, offset: 2333, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2334, content: /, id: KR2a0020_WYG_022-bkkpn2}
   - {type: punctuation, offset: 2334, content: ), id: KR2a0020_WYG_022-bkkpn3}
   - {type: 'kr:newline', offset: 2350, content: '
@@ -615,9 +616,11 @@ markers:
       ', id: KR2a0020_WYG_022-bkkkrnewl148}
   - {type: line-break, offset: 2617, content: '', id: KR2a0020_WYG_022-9a05}
   - {type: punctuation, offset: 2621, content: (, id: KR2a0020_WYG_022-bkkpn4}
+  - {type: voice, offset: 2621, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2622, content: /, id: KR2a0020_WYG_022-bkkpn5}
   - {type: punctuation, offset: 2622, content: ), id: KR2a0020_WYG_022-bkkpn6}
   - {type: punctuation, offset: 2630, content: (, id: KR2a0020_WYG_022-bkkpn7}
+  - {type: voice, offset: 2630, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2631, content: /, id: KR2a0020_WYG_022-bkkpn8}
   - {type: punctuation, offset: 2631, content: ), id: KR2a0020_WYG_022-bkkpn9}
   - {type: 'kr:newline', offset: 2638, content: '
@@ -629,6 +632,7 @@ markers:
       ', id: KR2a0020_WYG_022-bkkkrnewl150}
   - {type: line-break, offset: 2659, content: '', id: KR2a0020_WYG_022-9a07}
   - {type: punctuation, offset: 2676, content: (, id: KR2a0020_WYG_022-bkkpn10}
+  - {type: voice, offset: 2676, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 2677, content: /, id: KR2a0020_WYG_022-bkkpn11}
   - {type: punctuation, offset: 2677, content: ), id: KR2a0020_WYG_022-bkkpn12}
   - {type: 'kr:newline', offset: 2680, content: '
@@ -769,4 +773,4 @@ markers:
 
       ', id: KR2a0020_WYG_022-bkkp1}
   back: []
-hash: sha256:24bd2c5f3036cd5898520c34d1e1fd1639f3ca674182f439d3cf014a2a622496
+hash: sha256:01d6fb71fbf5bc19de6534cf4928d50ed32d2f7360c2a3ab9047c0ba0dd3020f

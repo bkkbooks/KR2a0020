@@ -568,6 +568,7 @@ markers:
   - {type: punctuation, offset: 915, content: (, id: KR2a0020_ZHSJ_037-bkkpn211}
   - {type: variant, offset: 915, length: 4, content: 闕帶金城, WYG: 澄弟仲粲武定中尚書左丞悦字慶宗自司空司馬出為立節將軍建興}
   - {type: variant, offset: 915, length: 4, content: 闕帶金城, krp: 澄弟仲粲武定中尚書左丞悦字慶宗自司空司馬出為立節將軍建興}
+  - {type: voice, offset: 915, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 916, content: ), id: KR2a0020_ZHSJ_037-bkkpn212}
   - {type: punctuation, offset: 921, content: ．, id: KR2a0020_ZHSJ_037-bkkpn213}
   - {type: 'tls:seg', offset: 921, content: '', id: KR2a0020_ZHSJ_037-d37p10s2}
@@ -3204,4 +3205,4 @@ markers:
   - {type: page-break, offset: 6062, content: '', id: KR2a0020_WYG_037-15b, image: WYG0261/WYG0261-0534b.png}
   - {type: variant, offset: 6062, length: 0, content: '', krp: 魏書巻三十七考證}
   back: []
-hash: sha256:3ade245dda353583185c38e7cf04e92c8fcd34fe615c275acdfa96d2e8c1a4bd
+hash: sha256:0e0294419df951ee5d48e171c3bd92e41a5607e5f46d679da3ab483c544a2b08

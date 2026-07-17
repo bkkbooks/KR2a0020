@@ -6830,6 +6830,7 @@ markers:
   - {type: punctuation, offset: 16258, content: ．, id: KR2a0020_ZHSJ_103-bkkpn3010}
   - {type: 'tls:seg', offset: 16258, content: '', id: KR2a0020_ZHSJ_103-d103p90s3}
   - {type: punctuation, offset: 16258, content: (, id: KR2a0020_ZHSJ_103-bkkpn3011}
+  - {type: voice, offset: 16258, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 16259, content: ), id: KR2a0020_ZHSJ_103-bkkpn3012}
   - {type: variant, offset: 16260, length: 0, content: '', WYG: 髪之野逐之無人之鄉豈好肆兵極鋭}
   - {type: variant, offset: 16260, length: 0, content: '', krp: 髪之野逐之無人之鄉豈好肆兵極鋭}
@@ -6856,4 +6857,4 @@ markers:
   - {type: xml-element, offset: 16274, content: '', id: KR2a0020_ZHSJ_103-d103n1}
   - {type: xml-element, offset: 16274, content: '', id: KR2a0020_ZHSJ_103-d103n1_end}
   back: []
-hash: sha256:a76dfc604f7eb32c46a5177fa526d99e1e9dd615eb4a78ba354ea27806ad3068
+hash: sha256:c95b765324bbed2d123d1851c6ee9ba1171034213744617ef1ed6cadf44c1093

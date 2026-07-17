@@ -762,6 +762,7 @@ markers:
   - {type: punctuation, offset: 1080, content: ．, id: KR2a0020_ZHSJ_065-bkkpn227}
   - {type: 'tls:seg', offset: 1080, content: '', id: KR2a0020_ZHSJ_065-d65p20s10}
   - {type: punctuation, offset: 1080, content: (, id: KR2a0020_ZHSJ_065-bkkpn228}
+  - {type: voice, offset: 1080, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1081, content: ), id: KR2a0020_ZHSJ_065-bkkpn229}
   - {type: punctuation, offset: 1083, content: ．, id: KR2a0020_ZHSJ_065-bkkpn230}
   - {type: 'tls:seg', offset: 1083, content: '', id: KR2a0020_ZHSJ_065-d65p20s11}
@@ -4459,6 +4460,7 @@ markers:
   - {type: punctuation, offset: 8022, content: (, id: KR2a0020_ZHSJ_065-bkkpn1775}
   - {type: variant, offset: 8022, length: 5, content: 闕沮渠牧犍, WYG: 使還除大司農卿加驃騎將軍轉祕書監遇偏風廢頓武定二年卒年四十九}
   - {type: variant, offset: 8022, length: 5, content: 闕沮渠牧犍, krp: 使還除大司農卿加驃騎將軍轉祕書監遇偏風廢頓武定二年卒年四十九}
+  - {type: voice, offset: 8022, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 8023, content: ), id: KR2a0020_ZHSJ_065-bkkpn1776}
   - {type: punctuation, offset: 8028, content: ，, id: KR2a0020_ZHSJ_065-bkkpn1777}
   - {type: 'tls:seg', offset: 8028, content: '', id: KR2a0020_ZHSJ_065-d65p107s6}
@@ -4623,4 +4625,4 @@ markers:
   - {type: xml-element, offset: 8261, content: '', id: KR2a0020_ZHSJ_065-d65n1}
   - {type: xml-element, offset: 8261, content: '', id: KR2a0020_ZHSJ_065-d65n1_end}
   back: []
-hash: sha256:27e4f85929c882d65761888bee8b2a53f63b9e805e8e69ec0986992101ef2bb0
+hash: sha256:5fac89828c9348ad76ec8d02ab74fdcb71e10ac14f95f3f7fe1999db02734a5e

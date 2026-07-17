@@ -618,6 +618,7 @@ markers:
   - {type: 'tls:seg', offset: 1022, content: '', id: KR2a0020_ZHSJ_036-d36p8s17}
   - {type: line-break, offset: 1026, content: '', id: ZHSJ__dup8813}
   - {type: punctuation, offset: 1029, content: (, id: KR2a0020_ZHSJ_036-bkkpn212}
+  - {type: voice, offset: 1029, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1030, content: ), id: KR2a0020_ZHSJ_036-bkkpn213}
   - {type: punctuation, offset: 1036, content: ．, id: KR2a0020_ZHSJ_036-bkkpn214}
   - {type: 'tls:seg', offset: 1036, content: '', id: KR2a0020_ZHSJ_036-d36p8s18}
@@ -753,6 +754,7 @@ markers:
   - {type: punctuation, offset: 1291, content: ，, id: KR2a0020_ZHSJ_036-bkkpn276}
   - {type: 'tls:seg', offset: 1291, content: '', id: KR2a0020_ZHSJ_036-d36p10s7}
   - {type: punctuation, offset: 1291, content: (, id: KR2a0020_ZHSJ_036-bkkpn277}
+  - {type: voice, offset: 1291, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1292, content: ), id: KR2a0020_ZHSJ_036-bkkpn278}
   - {type: line-break, offset: 1295, content: '', id: ZHSJ__dup8822}
   - {type: punctuation, offset: 1297, content: ，, id: KR2a0020_ZHSJ_036-bkkpn279}
@@ -1716,6 +1718,7 @@ markers:
   - {type: punctuation, offset: 3302, content: ．, id: KR2a0020_ZHSJ_036-bkkpn727}
   - {type: 'tls:seg', offset: 3302, content: '', id: KR2a0020_ZHSJ_036-d36p23s17}
   - {type: punctuation, offset: 3303, content: (, id: KR2a0020_ZHSJ_036-bkkpn728}
+  - {type: voice, offset: 3303, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3304, content: ), id: KR2a0020_ZHSJ_036-bkkpn729}
   - {type: punctuation, offset: 3306, content: 、, id: KR2a0020_ZHSJ_036-bkkpn730}
   - {type: punctuation, offset: 3308, content: ，, id: KR2a0020_ZHSJ_036-bkkpn731}
@@ -2909,6 +2912,7 @@ markers:
   - {type: punctuation, offset: 5712, content: ．, id: KR2a0020_ZHSJ_036-bkkpn1254}
   - {type: 'tls:seg', offset: 5712, content: '', id: KR2a0020_ZHSJ_036-d36p45s7}
   - {type: punctuation, offset: 5712, content: (, id: KR2a0020_ZHSJ_036-bkkpn1255}
+  - {type: voice, offset: 5712, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 5713, content: ), id: KR2a0020_ZHSJ_036-bkkpn1256}
   - {type: punctuation, offset: 5717, content: ．, id: KR2a0020_ZHSJ_036-bkkpn1257}
   - {type: 'tls:seg', offset: 5717, content: '', id: KR2a0020_ZHSJ_036-d36p45s8}
@@ -3045,4 +3049,4 @@ markers:
   - {type: page-break, offset: 5865, content: '', id: KR2a0020_WYG_036-29b, image: WYG0261/WYG0261-0526d.png}
   - {type: variant, offset: 5865, length: 0, content: '', krp: 啓皇祖於庚寅本書本無注此獨引李伯仁上東門銘厥位在寅王武子詩嚴恭唯寅作注又與本句庚寅全不相渉未詳其故魏書卷三十六考證}
   back: []
-hash: sha256:8bb32dd50f6795c445afb245f9be01cf6827439681832c8ccd65a95beae0c135
+hash: sha256:05eb12d5d2edafd50211768fc8a090d17a3b74814e3379e4c221d881f720714f

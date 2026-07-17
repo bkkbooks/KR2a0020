@@ -12,6 +12,7 @@ markers:
   - {type: xml-element, offset: 28, content: '', id: KR2a0020_CHANT_013-bkkxmlele3, name: p, role: open}
   - {type: 'tls:seg', offset: 28, content: '', id: KR2a0020_CHANT_013-1a.3}
   - {type: punctuation, offset: 31, content: (, id: KR2a0020_CHANT_013-bkkpn3}
+  - {type: voice, offset: 31, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 32, content: ), id: KR2a0020_CHANT_013-bkkpn4}
   - {type: xml-element, offset: 32, content: '', id: KR2a0020_CHANT_013-bkkxmlele4, name: p, role: close}
   - {type: xml-element, offset: 32, content: '', id: KR2a0020_CHANT_013-bkkxmlele5, name: p, role: open}
@@ -845,6 +846,7 @@ markers:
   - {type: 'tls:seg', offset: 2410, content: '', id: KR2a0020_CHANT_013-12a.1}
   - {type: 'tls:seg', offset: 2410, content: '', id: KR2a0020_CHANT_013-12a.2}
   - {type: punctuation, offset: 2413, content: (, id: KR2a0020_CHANT_013-bkkpn458}
+  - {type: voice, offset: 2413, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2414, content: ), id: KR2a0020_CHANT_013-bkkpn459}
   - {type: xml-element, offset: 2414, content: '', id: KR2a0020_CHANT_013-bkkxmlele40, name: p, role: close}
   - {type: xml-element, offset: 2414, content: '', id: KR2a0020_CHANT_013-bkkxmlele41, name: p, role: open}
@@ -1227,6 +1229,7 @@ markers:
   - {type: 'tls:seg', offset: 3503, content: '', id: KR2a0020_CHANT_013-20a.1}
   - {type: 'tls:seg', offset: 3503, content: '', id: KR2a0020_CHANT_013-20a.2}
   - {type: punctuation, offset: 3505, content: (, id: KR2a0020_CHANT_013-bkkpn661}
+  - {type: voice, offset: 3505, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3506, content: ), id: KR2a0020_CHANT_013-bkkpn662}
   - {type: xml-element, offset: 3506, content: '', id: KR2a0020_CHANT_013-bkkxmlele62, name: p, role: close}
   - {type: xml-element, offset: 3506, content: '', id: KR2a0020_CHANT_013-bkkxmlele63, name: p, role: open}
@@ -2952,4 +2955,4 @@ markers:
   - {type: punctuation, offset: 8186, content: ！, id: KR2a0020_CHANT_013-bkkpn1582}
   - {type: xml-element, offset: 8186, content: '', id: KR2a0020_CHANT_013-bkkxmlele134, name: p, role: close}
   back: []
-hash: sha256:f6224f962888bbfb4f445e454275dea5d0795b630ba1e892d70ab3d43414ad1c
+hash: sha256:6270286f6df7f6368cb37789fcf915275806788f1927be82d26ad42f3a933e01

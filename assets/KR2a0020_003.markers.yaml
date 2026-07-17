@@ -1371,6 +1371,7 @@ markers:
   - {type: punctuation, offset: 2621, content: ，, id: KR2a0020_ZHSJ_003-bkkpn500}
   - {type: 'tls:seg', offset: 2621, content: '', id: KR2a0020_ZHSJ_003-d3p32s5}
   - {type: punctuation, offset: 2621, content: (, id: KR2a0020_ZHSJ_003-bkkpn501}
+  - {type: voice, offset: 2621, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2622, content: ), id: KR2a0020_ZHSJ_003-bkkpn502}
   - {type: punctuation, offset: 2624, content: ．, id: KR2a0020_ZHSJ_003-bkkpn503}
   - {type: 'tls:seg', offset: 2624, content: '', id: KR2a0020_ZHSJ_003-d3p32s6}
@@ -3120,4 +3121,4 @@ markers:
   - {type: page-break, offset: 5865, content: '', id: KR2a0020_WYG_003-20b, image: WYG0261/WYG0261-0062d.png}
   - {type: variant, offset: 5865, length: 0, content: '', krp: 魏書卷三魏書卷三考證帝紀第三魏收書此紀闕後人補以北史又取髙氏小史脩文殿御覽附益之太宗紀司馬休之息譙王文思章武王子司馬國璠司馬道賜輔國將軍溫楷竟陵内史魯軌荆州治中韓延之殷約平西參軍桓謐桓璲及桓溫孫道子渤海刁雍陳郡袁式等數百人來降臣人龍按晉書宗室傳安帝反正追贈尚之衞將軍以休之長子文思為嗣襲封譙郡王後文思怨望稱兵為裕所敗而死不言降魏與此異魏書卷三考證}
   back: []
-hash: sha256:a13cb72199960f9e511d69d31e2cd39316ea5a63ee67ce223f049daa84ae9836
+hash: sha256:0efa5906f3feab4e58f4f54b4e4833dc4cd423a976396f88084c89e74ccc6d45

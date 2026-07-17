@@ -549,6 +549,7 @@ markers:
       ', id: KR2a0020_krp_022-bkkkrnewl132}
   - {type: line-break, offset: 2329, content: '', id: KR2a0020_WYG_022-8a07}
   - {type: punctuation, offset: 2333, content: (, id: KR2a0020_krp_022-bkkpn1}
+  - {type: voice, offset: 2333, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2334, content: /, id: KR2a0020_krp_022-bkkpn2}
   - {type: punctuation, offset: 2334, content: ), id: KR2a0020_krp_022-bkkpn3}
   - {type: 'kr:newline', offset: 2350, content: '
@@ -616,9 +617,11 @@ markers:
       ', id: KR2a0020_krp_022-bkkkrnewl148}
   - {type: line-break, offset: 2617, content: '', id: KR2a0020_WYG_022-9a05}
   - {type: punctuation, offset: 2621, content: (, id: KR2a0020_krp_022-bkkpn4}
+  - {type: voice, offset: 2621, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2622, content: /, id: KR2a0020_krp_022-bkkpn5}
   - {type: punctuation, offset: 2622, content: ), id: KR2a0020_krp_022-bkkpn6}
   - {type: punctuation, offset: 2630, content: (, id: KR2a0020_krp_022-bkkpn7}
+  - {type: voice, offset: 2630, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2631, content: /, id: KR2a0020_krp_022-bkkpn8}
   - {type: punctuation, offset: 2631, content: ), id: KR2a0020_krp_022-bkkpn9}
   - {type: 'kr:newline', offset: 2638, content: '
@@ -630,6 +633,7 @@ markers:
       ', id: KR2a0020_krp_022-bkkkrnewl150}
   - {type: line-break, offset: 2659, content: '', id: KR2a0020_WYG_022-9a07}
   - {type: punctuation, offset: 2676, content: (, id: KR2a0020_krp_022-bkkpn10}
+  - {type: voice, offset: 2676, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 2677, content: /, id: KR2a0020_krp_022-bkkpn11}
   - {type: punctuation, offset: 2677, content: ), id: KR2a0020_krp_022-bkkpn12}
   - {type: 'kr:newline', offset: 2680, content: '
@@ -773,4 +777,4 @@ markers:
 
       ', id: KR2a0020_krp_022-bkkkrnewl180}
   back: []
-hash: sha256:f0d8162aa0ef429aca962decb0bb71e0d2556369ff2bb18730cf827e21f95fa5
+hash: sha256:8f398760e168101db7f52759c67e4700c143bd049a092e0b312b659231d5ec6b

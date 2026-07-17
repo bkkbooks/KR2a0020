@@ -3276,6 +3276,7 @@ markers:
   - {type: punctuation, offset: 6003, content: ．, id: KR2a0020_ZHSJ_094-bkkpn1319}
   - {type: 'tls:seg', offset: 6003, content: '', id: KR2a0020_ZHSJ_094-d94p76s2}
   - {type: punctuation, offset: 6003, content: (, id: KR2a0020_ZHSJ_094-bkkpn1320}
+  - {type: voice, offset: 6003, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 6004, content: ), id: KR2a0020_ZHSJ_094-bkkpn1321}
   - {type: xml-element, offset: 6004, content: '', id: KR2a0020_ZHSJ_094-bkkxmlele152}
   - {type: xml-element, offset: 6004, content: '', id: KR2a0020_ZHSJ_094-d94n1}
@@ -3285,4 +3286,4 @@ markers:
   - {type: page-break, offset: 6004, content: '', id: KR2a0020_WYG_094-31b, image: WYG0262/WYG0262-0343b.png}
   - {type: variant, offset: 6004, length: 0, content: '', krp: 魏書卷九十四魏書卷九十四考證劉騰傳假言持肅宗書持監本訛作又一本作侍亦誤今從北史改正孟鸞𫝊黄十匹北史作黄綾一十匹魏書卷九十四考證}
   back: []
-hash: sha256:e108f5074b3976b9a85de9c5652d0806d4a3cecac72182779a59e054d152ea0b
+hash: sha256:5c50ddd499f8a68fb332bcc78cc5827bc6855b455a240339ebfa60d7dbc9487e
